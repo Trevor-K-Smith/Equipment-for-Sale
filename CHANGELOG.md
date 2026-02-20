@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.5 — 2026-02-20
+- Revert README to clean table format and remove redundant server-specs.md
+
 ## v0.0.4 — 2026-02-20
 - Update contact email to smithktrevor@gmail.com
 

@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.7 — 2026-02-20
+- Remove Mellanox ConnectX-7 and 2x NVIDIA L4 from listing (being pulled from server)
+- Renumber GPUs to 5x RTX A5000
+
 ## v0.0.6 — 2026-02-20
 - Add SMART disk health reports for both drives (NVMe + SATA) in server-1/disk-health/
 - Link health reports from README storage row

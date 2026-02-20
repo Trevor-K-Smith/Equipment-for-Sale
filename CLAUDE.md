@@ -7,4 +7,4 @@ When new servers are added:
 - Add a summary table entry to README.md
 - Update CHANGELOG.md with the new listing
 
-Contact: TrevorKSmith@protonmail.com
+Contact: smithktrevor@gmail.com

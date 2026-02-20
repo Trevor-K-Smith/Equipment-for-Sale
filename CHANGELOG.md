@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.4 — 2026-02-20
+- Update contact email to smithktrevor@gmail.com
+
 ## v0.0.3 — 2026-02-20
 - Overhaul README with full marketing-style layout, badges, and server specs table
 

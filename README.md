@@ -49,7 +49,7 @@ Ready to upgrade your infrastructure? Here is how we do business:
 
 1.  **Pick your poison:** Find what you want from the lists above.
 2.  **Open an Issue:** Click the "Issues" tab on this repo and create a new issue titled `[PURCHASE] - Your Item Here`.
-3.  **Direct Contact:** Alternatively, shoot me an email at `TrevorKSmith@protonmail.com`.
+3.  **Direct Contact:** Alternatively, shoot me an email at `smithktrevor@gmail.com`.
 4.  **Payment & Shipping:** Buyer pays shipping, or come pick it up locally.
 
 ---

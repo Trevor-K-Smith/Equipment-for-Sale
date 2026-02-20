@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.11 — 2026-02-20
+- Add manufacturer datasheets for all components (chassis, CPU, RAM, GPU, NVMe, SATA)
+- Link datasheets from README alongside detail reports
+
 ## v0.0.10 — 2026-02-20
 - Simplify README to quick-glance format: name, model, health summary, single details link per component
 

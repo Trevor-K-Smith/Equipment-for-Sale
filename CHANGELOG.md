@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.3 — 2026-02-20
+- Overhaul README with full marketing-style layout, badges, and server specs table
+
 ## v0.0.2 — 2026-02-20
 - Add project CLAUDE.md describing repo purpose and workflow
 

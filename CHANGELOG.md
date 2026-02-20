@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.9 — 2026-02-20
+- Add model/part numbers to all README components (motherboard, BIOS, RAM, GPU board P/N, GPU serials, drive models, firmware versions)
+
 ## v0.0.8 — 2026-02-20
 - Add CLAUDE.md with full workflow for adding new server listings
 - Add chassis detail reports (chassis, motherboard, BIOS, system DMI, IPMI sensors, IPMI event log)

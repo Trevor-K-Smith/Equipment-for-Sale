@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.0.6 — 2026-02-20
+- Add SMART disk health reports for both drives (NVMe + SATA) in server-1/disk-health/
+- Link health reports from README storage row
+
 ## v0.0.5 — 2026-02-20
 - Revert README to clean table format and remove redundant server-specs.md
 

@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.0.10 — 2026-02-20
+- Simplify README to quick-glance format: name, model, health summary, single details link per component
+
 ## v0.0.9 — 2026-02-20
 - Add model/part numbers to all README components (motherboard, BIOS, RAM, GPU board P/N, GPU serials, drive models, firmware versions)
 

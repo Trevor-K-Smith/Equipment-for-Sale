@@ -1,0 +1,1022 @@
+ 260 | 11/01/2022 | 07:27:27 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 261 | 11/01/2022 | 07:27:27 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 262 | 11/01/2022 | 07:27:35 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 263 | 11/01/2022 | 07:27:35 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 264 | 11/02/2022 | 05:55:02 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 265 | 11/02/2022 | 05:55:02 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 266 | 11/02/2022 | 05:55:09 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 267 | 11/02/2022 | 05:55:09 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 268 | 11/05/2022 | 05:47:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 269 | 11/05/2022 | 05:47:01 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 26a | 11/05/2022 | 05:47:08 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 26b | 11/05/2022 | 05:47:08 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 26c | 11/05/2022 | 03:30:51 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 26d | 11/05/2022 | 03:30:51 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 26e | 11/05/2022 | 03:30:57 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 26f | 11/05/2022 | 03:30:57 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 270 | 11/05/2022 | 05:53:38 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 271 | 11/05/2022 | 05:53:38 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 272 | 11/05/2022 | 05:53:46 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 273 | 11/05/2022 | 05:53:46 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 274 | 11/06/2022 | 03:57:36 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 275 | 11/06/2022 | 03:57:36 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 276 | 11/06/2022 | 03:57:39 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 277 | 11/06/2022 | 03:57:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 278 | 11/06/2022 | 06:23:48 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 279 | 11/06/2022 | 06:23:48 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 27a | 11/06/2022 | 06:23:54 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 27b | 11/06/2022 | 06:23:54 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 27c | 11/10/2022 | 10:55:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 27d | 11/10/2022 | 10:55:01 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 27e | 11/10/2022 | 10:55:03 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 27f | 11/10/2022 | 10:55:03 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 280 | 11/11/2022 | 01:28:33 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 281 | 11/11/2022 | 01:28:33 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 282 | 11/11/2022 | 01:28:35 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 283 | 11/11/2022 | 01:28:35 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 284 | 11/11/2022 | 03:42:15 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 285 | 11/11/2022 | 03:42:15 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 286 | 11/11/2022 | 03:42:21 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 287 | 11/11/2022 | 03:42:21 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 288 | 11/11/2022 | 01:14:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 289 | 11/11/2022 | 01:14:39 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 28a | 11/11/2022 | 01:14:42 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 28b | 11/11/2022 | 01:14:42 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 28c | 11/12/2022 | 05:15:53 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 28d | 11/12/2022 | 05:15:53 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 28e | 11/12/2022 | 05:16:00 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 28f | 11/12/2022 | 05:16:00 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 290 | 11/17/2022 | 01:26:16 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 291 | 11/17/2022 | 01:26:16 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 292 | 11/17/2022 | 01:26:18 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 293 | 11/17/2022 | 01:26:18 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 294 | 11/17/2022 | 11:41:34 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 295 | 11/17/2022 | 11:41:34 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 296 | 11/17/2022 | 11:41:41 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 297 | 11/17/2022 | 11:41:41 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 298 | 11/18/2022 | 01:18:50 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 299 | 11/18/2022 | 01:18:50 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 29a | 11/18/2022 | 01:18:57 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 29b | 11/18/2022 | 01:18:57 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 29c | 11/18/2022 | 07:14:00 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 29d | 11/18/2022 | 07:16:19 AM UTC | System Event | OEM System boot event | Asserted
+ 29e | 11/18/2022 | 07:17:25 AM UTC | System Event | OEM System boot event | Asserted
+ 29f | 11/18/2022 | 07:17:45 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2a0 | 11/18/2022 | 07:17:45 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a1 | 11/18/2022 | 07:18:24 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a2 | 11/18/2022 | 07:18:25 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2a3 | 11/18/2022 | 07:18:36 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2a4 | 11/18/2022 | 07:18:38 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2a5 | 11/18/2022 | 07:18:40 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2a6 | 11/18/2022 | 07:18:43 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2a7 | 11/18/2022 | 07:18:45 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2a8 | 11/18/2022 | 07:19:29 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2a9 | 11/18/2022 | 10:43:47 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2aa | 11/18/2022 | 10:43:47 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2ab | 11/18/2022 | 10:43:54 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2ac | 11/18/2022 | 10:43:54 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2ad | 11/20/2022 | 02:40:27 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2ae | 11/20/2022 | 02:40:27 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2af | 11/20/2022 | 02:40:34 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2b0 | 11/20/2022 | 02:40:34 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2b1 | 11/21/2022 | 03:38:51 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2b2 | 11/21/2022 | 03:38:51 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2b3 | 11/21/2022 | 03:38:54 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2b4 | 11/21/2022 | 03:38:54 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2b5 | 11/21/2022 | 10:36:12 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2b6 | 11/21/2022 | 10:36:12 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2b7 | 11/21/2022 | 10:36:19 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2b8 | 11/21/2022 | 10:36:19 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2b9 | 11/23/2022 | 12:40:27 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2ba | 11/23/2022 | 12:40:27 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2bb | 11/23/2022 | 12:40:33 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2bc | 11/23/2022 | 12:40:33 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2bd | 11/24/2022 | 11:01:56 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2be | 11/24/2022 | 11:01:56 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2bf | 11/24/2022 | 11:01:58 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2c0 | 11/24/2022 | 11:01:58 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2c1 | 11/26/2022 | 10:48:20 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2c2 | 11/26/2022 | 10:48:20 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2c3 | 11/26/2022 | 10:48:27 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2c4 | 11/26/2022 | 10:48:27 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2c5 | 11/27/2022 | 02:47:48 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2c6 | 11/27/2022 | 02:47:48 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2c7 | 11/27/2022 | 02:47:50 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2c8 | 11/27/2022 | 02:47:50 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2c9 | 11/27/2022 | 04:31:13 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2ca | 11/27/2022 | 04:31:13 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2cb | 11/27/2022 | 04:31:20 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2cc | 11/27/2022 | 04:31:20 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2cd | 11/27/2022 | 09:27:16 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2ce | 11/27/2022 | 09:27:16 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2cf | 11/27/2022 | 09:27:22 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2d0 | 11/27/2022 | 09:27:22 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2d1 | 11/29/2022 | 01:21:09 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2d2 | 11/29/2022 | 01:21:09 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2d3 | 11/29/2022 | 01:21:16 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2d4 | 11/29/2022 | 01:21:16 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2d5 | 11/30/2022 | 08:53:06 AM UTC | System Event | OEM System boot event | Asserted
+ 2d6 | 11/30/2022 | 08:53:41 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2d7 | 11/30/2022 | 08:53:41 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2d8 | 11/30/2022 | 08:53:55 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2d9 | 11/30/2022 | 08:53:56 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2da | 11/30/2022 | 08:54:06 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2db | 11/30/2022 | 08:54:08 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2dc | 11/30/2022 | 08:54:10 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2dd | 11/30/2022 | 08:54:11 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2de | 11/30/2022 | 08:54:13 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 2df | 11/30/2022 | 08:54:50 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e0 | 12/05/2022 | 09:45:38 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2e1 | 12/05/2022 | 09:45:38 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2e2 | 12/05/2022 | 09:45:44 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2e3 | 12/05/2022 | 09:45:44 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2e4 | 12/05/2022 | 11:40:36 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2e5 | 12/05/2022 | 11:40:36 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2e6 | 12/05/2022 | 11:40:39 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2e7 | 12/05/2022 | 11:40:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2e8 | 12/09/2022 | 02:49:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2e9 | 12/09/2022 | 02:49:39 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2ea | 12/09/2022 | 02:49:45 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2eb | 12/09/2022 | 02:49:45 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2ec | 12/09/2022 | 09:47:36 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2ed | 12/09/2022 | 09:47:36 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2ee | 12/09/2022 | 09:47:43 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2ef | 12/09/2022 | 09:47:43 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2f0 | 12/12/2022 | 06:27:55 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2f1 | 12/12/2022 | 06:27:55 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2f2 | 12/12/2022 | 06:27:58 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2f3 | 12/12/2022 | 06:27:58 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2f4 | 12/12/2022 | 06:35:31 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2f5 | 12/12/2022 | 06:35:31 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2f6 | 12/12/2022 | 06:35:37 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2f7 | 12/12/2022 | 06:35:37 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2f8 | 12/13/2022 | 10:10:33 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2f9 | 12/13/2022 | 10:10:33 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2fa | 12/13/2022 | 10:10:40 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2fb | 12/13/2022 | 10:10:40 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 2fc | 12/18/2022 | 09:11:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 2fd | 12/18/2022 | 09:11:01 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 2fe | 12/18/2022 | 09:11:04 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 2ff | 12/18/2022 | 09:11:04 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 300 | 12/18/2022 | 02:51:52 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 301 | 12/18/2022 | 02:51:52 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 302 | 12/18/2022 | 02:51:58 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 303 | 12/18/2022 | 02:51:58 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 304 | 12/23/2022 | 08:01:36 AM UTC | System Event | OEM System boot event | Asserted
+ 305 | 12/23/2022 | 08:02:10 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 306 | 12/23/2022 | 08:02:10 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 307 | 12/23/2022 | 08:02:38 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 308 | 12/23/2022 | 08:02:39 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 309 | 12/23/2022 | 08:02:49 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 30a | 12/23/2022 | 08:02:51 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 30b | 12/23/2022 | 08:02:53 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 30c | 12/23/2022 | 08:02:55 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 30d | 12/23/2022 | 08:02:57 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 30e | 12/23/2022 | 08:03:34 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30f | 12/24/2022 | 08:21:05 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 310 | 12/31/2022 | 01:21:24 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Deasserted
+ 311 | 12/31/2022 | 01:21:24 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Deasserted
+ 312 | 12/31/2022 | 01:21:26 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Deasserted
+ 313 | 12/31/2022 | 01:21:27 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Deasserted
+ 314 | 12/31/2022 | 01:21:27 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Deasserted
+ 315 | 12/31/2022 | 01:21:30 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Deasserted
+ 316 | 12/31/2022 | 01:21:34 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Deasserted
+ 317 | 12/31/2022 | 01:22:15 AM UTC | System Event | OEM System boot event | Asserted
+ 318 | 12/31/2022 | 01:23:20 AM UTC | System Event | OEM System boot event | Asserted
+ 319 | 12/31/2022 | 01:23:40 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 31a | 12/31/2022 | 01:23:40 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 31b | 12/31/2022 | 01:23:48 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 31c | 12/31/2022 | 01:23:49 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 31d | 12/31/2022 | 01:24:01 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 31e | 12/31/2022 | 01:24:03 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 31f | 12/31/2022 | 01:24:05 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 320 | 12/31/2022 | 01:24:07 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 321 | 12/31/2022 | 01:24:09 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 322 | 12/31/2022 | 01:46:10 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 323 | 12/31/2022 | 01:46:40 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 324 | 12/31/2022 | 01:48:37 AM UTC | System Event | OEM System boot event | Asserted
+ 325 | 12/31/2022 | 01:49:44 AM UTC | System Event | OEM System boot event | Asserted
+ 326 | 12/31/2022 | 01:50:11 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 327 | 12/31/2022 | 01:50:13 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 328 | 12/31/2022 | 01:50:15 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 329 | 12/31/2022 | 01:50:18 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 32a | 12/31/2022 | 01:50:19 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 32b | 12/31/2022 | 01:52:25 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 32c | 12/31/2022 | 01:53:32 AM UTC | System Event | OEM System boot event | Asserted
+ 32d | 12/31/2022 | 01:54:38 AM UTC | System Event | OEM System boot event | Asserted
+ 32e | 12/31/2022 | 02:00:02 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 32f | 12/31/2022 | 02:58:59 AM UTC | System Event | OEM System boot event | Asserted
+ 330 | 12/31/2022 | 03:00:20 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 331 | 01/02/2023 | 02:27:18 AM UTC | System Event | OEM System boot event | Asserted
+ 332 | 01/02/2023 | 02:28:33 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 333 | 01/13/2023 | 11:58:18 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 334 | 01/13/2023 | 11:58:18 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 335 | 01/13/2023 | 11:58:25 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 336 | 01/13/2023 | 11:58:25 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 337 | 01/16/2023 | 12:52:32 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 338 | 01/16/2023 | 12:52:32 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 339 | 01/16/2023 | 12:52:38 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 33a | 01/16/2023 | 12:52:38 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 33b | 02/08/2023 | 05:02:15 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 33c | 02/08/2023 | 05:02:15 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 33d | 02/08/2023 | 05:02:17 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 33e | 02/08/2023 | 05:02:17 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 33f | 02/14/2023 | 12:38:12 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 340 | 02/14/2023 | 12:38:12 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 341 | 02/14/2023 | 12:38:18 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 342 | 02/14/2023 | 12:38:18 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 343 | 02/22/2023 | 02:13:03 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 344 | 02/22/2023 | 02:13:03 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 345 | 02/22/2023 | 02:13:10 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 346 | 02/22/2023 | 02:13:10 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 347 | 03/09/2023 | 01:50:30 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 348 | 03/09/2023 | 01:50:30 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 349 | 03/09/2023 | 01:50:37 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 34a | 03/09/2023 | 01:50:37 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 34b | 03/11/2023 | 11:52:46 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 34c | 03/11/2023 | 11:52:46 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 34d | 03/11/2023 | 11:52:52 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 34e | 03/11/2023 | 11:52:52 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 34f | 03/15/2023 | 07:19:55 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 350 | 03/15/2023 | 07:19:55 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 351 | 03/15/2023 | 07:20:01 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 352 | 03/15/2023 | 07:20:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 353 | 03/17/2023 | 03:56:32 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 354 | 03/17/2023 | 03:58:19 AM UTC | System Event | OEM System boot event | Asserted
+ 355 | 03/17/2023 | 03:59:25 AM UTC | System Event | OEM System boot event | Asserted
+ 356 | 03/17/2023 | 03:59:44 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 357 | 03/17/2023 | 03:59:44 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 358 | 03/17/2023 | 04:00:57 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 359 | 03/17/2023 | 04:00:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 35a | 03/17/2023 | 04:05:40 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35b | 03/17/2023 | 04:59:19 AM UTC | System Event | OEM System boot event | Asserted
+ 35c | 03/17/2023 | 05:00:40 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35d | 03/21/2023 | 01:19:38 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 35e | 03/21/2023 | 01:19:38 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 35f | 03/21/2023 | 01:19:41 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 360 | 03/21/2023 | 01:19:41 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 361 | 03/22/2023 | 07:15:34 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 362 | 03/22/2023 | 07:15:34 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 363 | 03/22/2023 | 07:15:40 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 364 | 03/22/2023 | 07:15:40 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 365 | 03/24/2023 | 09:18:57 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 366 | 03/24/2023 | 09:18:57 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 367 | 03/24/2023 | 09:19:03 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 368 | 03/24/2023 | 09:19:03 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 369 | 03/24/2023 | 04:26:43 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 36a | 03/24/2023 | 04:26:43 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 36b | 03/24/2023 | 04:26:45 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 36c | 03/24/2023 | 04:26:46 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 36d | 03/24/2023 | 05:01:32 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 36e | 03/24/2023 | 05:01:32 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 36f | 03/24/2023 | 05:01:39 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 370 | 03/24/2023 | 05:01:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 371 | 03/24/2023 | 06:01:44 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 372 | 03/24/2023 | 06:01:44 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 373 | 03/24/2023 | 06:01:52 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 374 | 03/24/2023 | 06:01:52 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 375 | 03/25/2023 | 06:03:46 PM UTC | System Event | OEM System boot event | Asserted
+ 376 | 03/25/2023 | 06:04:21 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 377 | 03/25/2023 | 06:04:21 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 378 | 03/25/2023 | 06:04:31 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 379 | 03/25/2023 | 06:04:32 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 37a | 03/25/2023 | 06:05:18 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 37b | 03/26/2023 | 04:32:35 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 37c | 03/26/2023 | 04:32:35 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 37d | 03/26/2023 | 04:32:37 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 37e | 03/26/2023 | 04:32:37 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 37f | 03/27/2023 | 06:50:21 PM UTC | System Event | OEM System boot event | Asserted
+ 380 | 03/27/2023 | 06:50:56 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 381 | 03/27/2023 | 06:50:56 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 382 | 03/27/2023 | 06:51:00 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 383 | 03/27/2023 | 06:51:01 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 384 | 03/27/2023 | 06:51:50 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 385 | 03/27/2023 | 09:54:57 PM UTC | System Event | OEM System boot event | Asserted
+ 386 | 03/27/2023 | 09:56:18 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 387 | 03/27/2023 | 11:31:56 PM UTC | System Event | OEM System boot event | Asserted
+ 388 | 03/27/2023 | 11:33:14 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 389 | 03/28/2023 | 05:28:04 AM UTC | System Event | OEM System boot event | Asserted
+ 38a | 03/28/2023 | 05:29:19 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 38b | 03/29/2023 | 03:31:44 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 38c | 03/29/2023 | 03:31:44 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 38d | 03/29/2023 | 03:31:50 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 38e | 03/29/2023 | 03:31:50 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 38f | 04/01/2023 | 09:11:33 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 390 | 04/01/2023 | 09:12:40 PM UTC | System Event | OEM System boot event | Asserted
+ 391 | 04/01/2023 | 09:13:46 PM UTC | System Event | OEM System boot event | Asserted
+ 392 | 04/01/2023 | 09:14:05 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 393 | 04/01/2023 | 09:14:05 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 394 | 04/01/2023 | 09:14:10 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 395 | 04/01/2023 | 09:14:11 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 396 | 04/01/2023 | 09:15:02 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 397 | 04/02/2023 | 06:32:32 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 398 | 04/02/2023 | 06:33:39 PM UTC | System Event | OEM System boot event | Asserted
+ 399 | 04/02/2023 | 06:34:45 PM UTC | System Event | OEM System boot event | Asserted
+ 39a | 04/02/2023 | 06:35:05 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 39b | 04/02/2023 | 06:35:05 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 39c | 04/02/2023 | 06:35:08 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 39d | 04/02/2023 | 06:35:09 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 39e | 04/02/2023 | 06:35:59 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 39f | 04/02/2023 | 11:39:02 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3a0 | 04/02/2023 | 11:40:09 PM UTC | System Event | OEM System boot event | Asserted
+ 3a1 | 04/02/2023 | 11:41:15 PM UTC | System Event | OEM System boot event | Asserted
+ 3a2 | 04/02/2023 | 11:42:15 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3a3 | 04/03/2023 | 04:36:58 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3a4 | 04/03/2023 | 04:36:58 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3a5 | 04/03/2023 | 04:37:05 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3a6 | 04/03/2023 | 04:37:05 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3a7 | 04/05/2023 | 09:37:05 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3a8 | 04/05/2023 | 09:37:05 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3a9 | 04/05/2023 | 09:37:08 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3aa | 04/05/2023 | 09:37:08 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3ab | 04/07/2023 | 08:02:18 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3ac | 04/07/2023 | 08:02:18 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3ad | 04/07/2023 | 08:02:25 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3ae | 04/07/2023 | 08:02:25 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3af | 04/08/2023 | 04:15:23 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3b0 | 04/08/2023 | 04:15:23 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3b1 | 04/08/2023 | 04:15:25 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3b2 | 04/08/2023 | 04:15:25 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3b3 | 04/08/2023 | 12:59:45 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3b4 | 04/08/2023 | 12:59:45 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3b5 | 04/08/2023 | 12:59:47 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3b6 | 04/08/2023 | 12:59:47 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3b7 | 04/09/2023 | 04:38:21 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3b8 | 04/09/2023 | 04:38:21 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3b9 | 04/09/2023 | 04:38:27 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3ba | 04/09/2023 | 04:38:27 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3bb | 04/16/2023 | 11:32:34 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3bc | 04/16/2023 | 11:32:34 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3bd | 04/16/2023 | 11:32:36 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3be | 04/16/2023 | 11:32:36 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3bf | 04/16/2023 | 02:28:08 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3c0 | 04/16/2023 | 02:28:08 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3c1 | 04/16/2023 | 02:28:15 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3c2 | 04/16/2023 | 02:28:15 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3c3 | 04/16/2023 | 09:55:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3c4 | 04/16/2023 | 09:55:10 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3c5 | 04/16/2023 | 09:55:12 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3c6 | 04/16/2023 | 09:55:12 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3c7 | 04/17/2023 | 03:21:26 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3c8 | 04/17/2023 | 03:21:26 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3c9 | 04/17/2023 | 03:21:32 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3ca | 04/17/2023 | 03:21:32 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3cb | 04/21/2023 | 02:31:48 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3cc | 04/21/2023 | 02:31:48 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3cd | 04/21/2023 | 02:31:55 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3ce | 04/21/2023 | 02:31:55 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3cf | 04/25/2023 | 12:56:02 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3d0 | 04/25/2023 | 12:56:02 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3d1 | 04/25/2023 | 12:56:04 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3d2 | 04/25/2023 | 12:56:04 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3d3 | 04/25/2023 | 03:17:30 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3d4 | 04/25/2023 | 03:17:30 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3d5 | 04/25/2023 | 03:17:33 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3d6 | 04/25/2023 | 03:17:33 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3d7 | 04/25/2023 | 07:43:16 AM UTC | System Event | OEM System boot event | Asserted
+ 3d8 | 04/25/2023 | 07:43:51 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3d9 | 04/25/2023 | 07:43:51 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3da | 04/25/2023 | 07:44:18 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3db | 04/25/2023 | 07:44:19 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3dc | 04/25/2023 | 07:45:02 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3dd | 04/26/2023 | 02:23:29 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3de | 04/26/2023 | 02:23:29 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3df | 04/26/2023 | 02:23:35 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3e0 | 04/26/2023 | 02:23:35 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3e1 | 04/30/2023 | 05:01:14 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3e2 | 04/30/2023 | 05:01:14 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3e3 | 04/30/2023 | 05:01:20 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3e4 | 04/30/2023 | 05:01:20 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3e5 | 05/02/2023 | 12:13:41 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3e6 | 05/02/2023 | 12:13:41 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3e7 | 05/02/2023 | 12:13:47 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3e8 | 05/02/2023 | 12:13:47 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3e9 | 05/03/2023 | 05:30:38 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3ea | 05/03/2023 | 05:30:38 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3eb | 05/03/2023 | 05:30:45 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3ec | 05/03/2023 | 05:30:45 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3ed | 05/04/2023 | 02:23:56 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3ee | 05/04/2023 | 02:23:56 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3ef | 05/04/2023 | 02:23:58 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3f0 | 05/04/2023 | 02:23:58 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3f1 | 05/05/2023 | 03:20:32 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3f2 | 05/05/2023 | 03:20:32 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3f3 | 05/05/2023 | 03:20:38 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3f4 | 05/05/2023 | 03:20:38 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3f5 | 05/05/2023 | 09:33:23 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3f6 | 05/05/2023 | 09:33:23 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3f7 | 05/05/2023 | 09:33:26 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3f8 | 05/05/2023 | 09:33:26 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3f9 | 05/07/2023 | 06:30:17 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3fa | 05/07/2023 | 06:30:17 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3fb | 05/07/2023 | 06:30:20 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 3fc | 05/07/2023 | 06:30:20 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 3fd | 05/07/2023 | 07:00:37 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 3fe | 05/07/2023 | 07:00:37 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 3ff | 05/07/2023 | 07:00:39 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 400 | 05/07/2023 | 07:00:39 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 401 | 05/07/2023 | 10:29:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 402 | 05/07/2023 | 10:29:10 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 403 | 05/07/2023 | 10:29:17 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 404 | 05/07/2023 | 10:29:17 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 405 | 05/08/2023 | 10:44:14 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 406 | 05/08/2023 | 10:44:14 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 407 | 05/08/2023 | 10:44:17 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 408 | 05/08/2023 | 10:44:17 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 409 | 05/19/2023 | 01:02:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 40a | 05/19/2023 | 01:02:01 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 40b | 05/19/2023 | 01:02:08 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 40c | 05/19/2023 | 01:02:08 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 40d | 05/20/2023 | 01:26:02 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 40e | 05/20/2023 | 01:26:02 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 40f | 05/20/2023 | 01:26:04 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 410 | 05/20/2023 | 01:26:04 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 411 | 05/20/2023 | 01:21:49 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 412 | 05/20/2023 | 01:21:49 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 413 | 05/20/2023 | 01:21:55 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 414 | 05/20/2023 | 01:21:55 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 415 | 05/20/2023 | 09:30:04 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 416 | 05/20/2023 | 09:30:04 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 417 | 05/20/2023 | 09:30:10 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 418 | 05/20/2023 | 09:30:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 419 | 05/22/2023 | 02:51:59 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 41a | 05/22/2023 | 02:51:59 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 41b | 05/22/2023 | 02:52:01 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 41c | 05/22/2023 | 02:52:01 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 41d | 05/22/2023 | 10:58:03 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 41e | 05/22/2023 | 10:58:03 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 41f | 05/22/2023 | 10:58:09 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 420 | 05/22/2023 | 10:58:09 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 421 | 05/26/2023 | 10:31:47 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 422 | 05/26/2023 | 10:31:47 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 423 | 05/26/2023 | 10:31:49 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 424 | 05/26/2023 | 10:31:49 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 425 | 06/02/2023 | 09:03:43 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 426 | 06/02/2023 | 09:03:43 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 427 | 06/02/2023 | 09:03:49 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 428 | 06/02/2023 | 09:03:49 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 429 | 06/04/2023 | 06:28:32 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 42a | 06/04/2023 | 07:53:49 PM UTC | System Event | OEM System boot event | Asserted
+ 42b | 06/04/2023 | 07:54:55 PM UTC | System Event | OEM System boot event | Asserted
+ 42c | 06/04/2023 | 07:55:13 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 42d | 06/04/2023 | 07:55:13 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 42e | 06/04/2023 | 07:56:00 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 42f | 06/04/2023 | 07:56:01 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 430 | 06/04/2023 | 07:56:44 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 431 | 06/04/2023 | 08:11:50 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 432 | 06/04/2023 | 08:12:13 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 433 | 06/04/2023 | 08:12:13 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 434 | 06/05/2023 | 01:04:03 AM UTC | System Event | OEM System boot event | Asserted
+ 435 | 06/05/2023 | 01:05:09 AM UTC | System Event | OEM System boot event | Asserted
+ 436 | 06/05/2023 | 01:05:27 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 437 | 06/05/2023 | 01:05:27 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 438 | 06/06/2023 | 04:47:31 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 439 | 06/06/2023 | 04:47:32 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 43a | 06/06/2023 | 04:48:18 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 43b | 06/06/2023 | 04:48:27 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 43c | 06/06/2023 | 04:48:41 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 43d | 06/06/2023 | 04:48:41 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 43e | 06/08/2023 | 05:06:31 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 43f | 06/08/2023 | 05:06:31 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 440 | 06/08/2023 | 05:06:33 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 441 | 06/08/2023 | 05:06:33 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 442 | 06/08/2023 | 11:21:30 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 443 | 06/08/2023 | 11:21:30 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 444 | 06/08/2023 | 11:21:32 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 445 | 06/08/2023 | 11:21:32 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 446 | 06/11/2023 | 04:43:11 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 447 | 06/11/2023 | 04:43:11 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 448 | 06/11/2023 | 04:43:18 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 449 | 06/11/2023 | 04:43:18 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 44a | 06/13/2023 | 07:48:05 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 44b | 06/13/2023 | 07:48:05 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 44c | 06/13/2023 | 07:48:12 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 44d | 06/13/2023 | 07:48:12 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 44e | 06/17/2023 | 10:41:00 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 44f | 06/17/2023 | 10:41:00 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 450 | 06/17/2023 | 10:41:02 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 451 | 06/17/2023 | 10:41:02 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 452 | 06/19/2023 | 12:32:16 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 453 | 06/19/2023 | 12:32:16 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 454 | 06/19/2023 | 12:32:23 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 455 | 06/19/2023 | 12:32:23 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 456 | 06/22/2023 | 06:21:35 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 457 | 06/22/2023 | 06:21:35 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 458 | 06/22/2023 | 06:21:41 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 459 | 06/22/2023 | 06:21:41 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 45a | 06/28/2023 | 03:15:54 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 45b | 06/28/2023 | 03:15:54 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 45c | 06/28/2023 | 03:15:57 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 45d | 06/28/2023 | 03:15:57 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 45e | 07/06/2023 | 01:36:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 45f | 07/06/2023 | 01:36:10 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 460 | 07/06/2023 | 01:36:16 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 461 | 07/06/2023 | 01:36:16 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 462 | 07/12/2023 | 05:08:02 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 463 | 07/12/2023 | 05:08:02 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 464 | 07/12/2023 | 05:08:04 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 465 | 07/12/2023 | 05:08:04 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 466 | 07/13/2023 | 02:32:08 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 467 | 07/13/2023 | 02:32:08 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 468 | 07/13/2023 | 02:32:14 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 469 | 07/13/2023 | 02:32:14 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 46a | 07/15/2023 | 11:04:34 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 46b | 07/15/2023 | 11:04:56 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 46c | 07/15/2023 | 11:04:56 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 46d | 07/15/2023 | 11:07:36 PM UTC | System Event | OEM System boot event | Asserted
+ 46e | 07/15/2023 | 11:08:41 PM UTC | System Event | OEM System boot event | Asserted
+ 46f | 07/15/2023 | 11:09:00 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 470 | 07/15/2023 | 11:09:00 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 471 | 07/15/2023 | 11:30:59 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 472 | 07/15/2023 | 11:31:00 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 473 | 07/15/2023 | 11:31:47 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 474 | 07/15/2023 | 11:31:55 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 475 | 07/15/2023 | 11:32:06 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 476 | 07/15/2023 | 11:32:06 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 477 | 07/17/2023 | 01:46:50 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 478 | 07/17/2023 | 01:46:50 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 479 | 07/17/2023 | 01:46:57 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 47a | 07/17/2023 | 01:46:57 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 47b | 07/17/2023 | 03:25:34 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 47c | 07/17/2023 | 03:25:34 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 47d | 07/17/2023 | 03:25:40 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 47e | 07/17/2023 | 03:25:40 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 47f | 07/17/2023 | 12:29:33 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 480 | 07/17/2023 | 12:29:33 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 481 | 07/17/2023 | 12:29:36 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 482 | 07/17/2023 | 12:29:36 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 483 | 07/18/2023 | 02:02:14 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 484 | 07/18/2023 | 02:02:14 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 485 | 07/18/2023 | 02:02:16 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 486 | 07/18/2023 | 02:02:17 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 487 | 07/22/2023 | 08:54:19 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 488 | 07/22/2023 | 08:54:19 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 489 | 07/22/2023 | 08:54:26 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 48a | 07/22/2023 | 08:54:26 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 48b | 07/23/2023 | 03:41:39 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 48c | 07/23/2023 | 03:41:39 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 48d | 07/23/2023 | 03:41:41 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 48e | 07/23/2023 | 03:41:41 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 48f | 07/23/2023 | 02:57:46 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 490 | 07/23/2023 | 02:57:46 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 491 | 07/23/2023 | 02:57:52 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 492 | 07/23/2023 | 02:57:52 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 493 | 07/27/2023 | 02:33:51 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 494 | 07/27/2023 | 02:33:51 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 495 | 07/27/2023 | 02:33:57 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 496 | 07/27/2023 | 02:33:57 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 497 | 07/29/2023 | 03:11:21 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 498 | 07/29/2023 | 03:11:21 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 499 | 07/29/2023 | 03:11:27 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 49a | 07/29/2023 | 03:11:27 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 49b | 07/29/2023 | 03:11:49 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 49c | 07/29/2023 | 03:11:49 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 49d | 07/29/2023 | 03:26:41 AM UTC | System Event | OEM System boot event | Asserted
+ 49e | 07/29/2023 | 03:27:47 AM UTC | System Event | OEM System boot event | Asserted
+ 49f | 07/29/2023 | 03:28:06 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 4a0 | 07/29/2023 | 03:28:06 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4a1 | 07/30/2023 | 12:12:57 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 4a2 | 07/30/2023 | 12:12:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 4a3 | 07/30/2023 | 12:13:44 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4a4 | 07/30/2023 | 12:13:53 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 4a5 | 07/30/2023 | 12:14:04 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 4a6 | 07/30/2023 | 12:14:04 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 4a7 | 07/30/2023 | 12:38:18 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 4a8 | 07/30/2023 | 12:42:00 AM UTC | System Event | OEM System boot event | Asserted
+ 4a9 | 07/30/2023 | 12:43:06 AM UTC | System Event | OEM System boot event | Asserted
+ 4aa | 07/30/2023 | 12:44:05 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 4ab | 07/31/2023 | 10:05:43 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4ac | 07/31/2023 | 10:05:43 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4ad | 07/31/2023 | 10:05:46 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ae | 07/31/2023 | 10:05:46 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4af | 08/02/2023 | 01:24:19 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4b0 | 08/02/2023 | 01:24:19 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4b1 | 08/02/2023 | 01:24:22 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4b2 | 08/02/2023 | 01:24:22 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4b3 | 08/03/2023 | 02:52:44 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4b4 | 08/03/2023 | 02:52:44 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4b5 | 08/03/2023 | 02:52:51 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4b6 | 08/03/2023 | 02:52:51 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4b7 | 08/03/2023 | 08:45:28 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4b8 | 08/03/2023 | 08:45:28 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4b9 | 08/03/2023 | 08:45:34 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ba | 08/03/2023 | 08:45:34 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4bb | 08/04/2023 | 12:47:17 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4bc | 08/04/2023 | 12:47:17 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4bd | 08/04/2023 | 12:47:25 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4be | 08/04/2023 | 12:47:25 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4bf | 08/10/2023 | 01:02:04 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4c0 | 08/10/2023 | 01:02:04 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4c1 | 08/10/2023 | 01:02:11 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4c2 | 08/10/2023 | 01:02:11 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4c3 | 08/10/2023 | 08:03:54 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4c4 | 08/10/2023 | 08:03:54 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4c5 | 08/10/2023 | 08:04:00 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4c6 | 08/10/2023 | 08:04:00 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4c7 | 08/13/2023 | 03:57:50 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4c8 | 08/13/2023 | 03:57:50 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4c9 | 08/13/2023 | 03:57:57 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ca | 08/13/2023 | 03:57:57 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4cb | 08/13/2023 | 06:16:00 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4cc | 08/13/2023 | 06:16:00 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4cd | 08/13/2023 | 06:16:06 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ce | 08/13/2023 | 06:16:06 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4cf | 08/16/2023 | 03:02:07 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4d0 | 08/16/2023 | 03:02:07 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4d1 | 08/16/2023 | 03:02:09 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4d2 | 08/16/2023 | 03:02:09 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4d3 | 08/24/2023 | 03:41:07 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4d4 | 08/24/2023 | 03:41:07 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4d5 | 08/24/2023 | 03:41:13 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4d6 | 08/24/2023 | 03:41:13 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4d7 | 08/27/2023 | 04:24:45 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4d8 | 08/27/2023 | 04:24:45 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4d9 | 08/27/2023 | 04:24:52 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4da | 08/27/2023 | 04:24:52 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4db | 09/01/2023 | 05:20:03 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4dc | 09/01/2023 | 05:20:03 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4dd | 09/01/2023 | 05:20:10 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4de | 09/01/2023 | 05:20:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4df | 09/02/2023 | 05:04:17 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4e0 | 09/02/2023 | 05:04:17 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4e1 | 09/02/2023 | 05:04:19 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4e2 | 09/02/2023 | 05:04:19 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4e3 | 09/03/2023 | 06:21:19 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4e4 | 09/03/2023 | 06:21:19 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4e5 | 09/03/2023 | 06:21:25 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4e6 | 09/03/2023 | 06:21:25 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4e7 | 09/08/2023 | 11:39:34 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4e8 | 09/08/2023 | 11:39:34 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4e9 | 09/08/2023 | 11:39:36 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ea | 09/08/2023 | 11:39:36 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4eb | 09/09/2023 | 03:44:13 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4ec | 09/09/2023 | 03:44:13 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4ed | 09/09/2023 | 03:44:15 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4ee | 09/09/2023 | 03:44:15 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4ef | 09/12/2023 | 02:55:50 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4f0 | 09/12/2023 | 02:55:50 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4f1 | 09/12/2023 | 02:55:53 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4f2 | 09/12/2023 | 02:55:53 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4f3 | 09/18/2023 | 02:49:09 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4f4 | 09/18/2023 | 02:49:09 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4f5 | 09/18/2023 | 02:49:12 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4f6 | 09/18/2023 | 02:49:12 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4f7 | 09/19/2023 | 04:55:02 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4f8 | 09/19/2023 | 04:55:02 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4f9 | 09/19/2023 | 04:55:04 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4fa | 09/19/2023 | 04:55:04 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4fb | 09/20/2023 | 03:22:51 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 4fc | 09/20/2023 | 03:22:51 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 4fd | 09/20/2023 | 03:22:53 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 4fe | 09/20/2023 | 03:22:53 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 4ff | 09/21/2023 | 04:21:22 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 500 | 09/21/2023 | 04:21:22 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 501 | 09/21/2023 | 04:21:28 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 502 | 09/21/2023 | 04:21:28 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 503 | 09/24/2023 | 08:03:21 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 504 | 09/24/2023 | 08:03:21 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 505 | 09/24/2023 | 08:03:27 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 506 | 09/24/2023 | 08:03:27 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 507 | 09/24/2023 | 06:22:43 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 508 | 09/24/2023 | 06:22:43 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 509 | 09/24/2023 | 06:22:49 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 50a | 09/24/2023 | 06:22:49 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 50b | 09/26/2023 | 05:30:07 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 50c | 09/26/2023 | 05:30:07 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 50d | 09/26/2023 | 05:30:15 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 50e | 09/26/2023 | 05:30:15 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 50f | 09/29/2023 | 05:32:08 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 510 | 09/29/2023 | 05:32:08 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 511 | 09/29/2023 | 05:32:11 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 512 | 09/29/2023 | 05:32:11 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 513 | 09/29/2023 | 11:32:56 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 514 | 09/29/2023 | 11:33:18 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 515 | 09/29/2023 | 11:33:18 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 516 | 09/29/2023 | 05:27:39 PM UTC | System Event | OEM System boot event | Asserted
+ 517 | 09/29/2023 | 05:28:44 PM UTC | System Event | OEM System boot event | Asserted
+ 518 | 09/29/2023 | 05:29:03 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 519 | 09/29/2023 | 05:29:03 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 51a | 09/29/2023 | 06:08:02 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 51b | 09/29/2023 | 06:08:02 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 51c | 09/29/2023 | 06:08:45 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 51d | 09/29/2023 | 06:09:04 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 51e | 09/29/2023 | 06:09:08 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 51f | 09/29/2023 | 06:09:08 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 520 | 09/30/2023 | 04:07:07 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 521 | 09/30/2023 | 04:07:29 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 522 | 09/30/2023 | 04:07:29 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 523 | 09/30/2023 | 04:13:52 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 524 | 09/30/2023 | 04:21:21 AM UTC | System Event | OEM System boot event | Asserted
+ 525 | 09/30/2023 | 04:22:27 AM UTC | System Event | OEM System boot event | Asserted
+ 526 | 09/30/2023 | 04:22:45 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 527 | 09/30/2023 | 04:22:45 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 528 | 11/25/2024 | 05:03:57 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 529 | 11/25/2024 | 05:03:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 52a | 11/25/2024 | 05:04:45 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 52b | 11/25/2024 | 05:04:53 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 52c | 11/25/2024 | 05:05:00 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 52d | 11/25/2024 | 05:05:00 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 52e | 11/25/2024 | 05:05:00 AM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 52f | 11/25/2024 | 05:05:09 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 530 | 11/25/2024 | 05:06:13 AM UTC | System Event | OEM System boot event | Asserted
+ 531 | 11/25/2024 | 05:07:19 AM UTC | System Event | OEM System boot event | Asserted
+ 532 | 11/25/2024 | 05:07:37 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 533 | 11/25/2024 | 05:07:37 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 534 | 11/25/2024 | 05:07:39 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 535 | 11/25/2024 | 05:07:40 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 536 | 11/25/2024 | 05:13:47 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 537 | 11/25/2024 | 05:14:05 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 538 | 11/25/2024 | 05:27:00 AM UTC | System Event | OEM System boot event | Asserted
+ 539 | 11/25/2024 | 05:28:06 AM UTC | System Event | OEM System boot event | Asserted
+ 53a | 11/25/2024 | 05:29:38 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 53b | 11/25/2024 | 05:31:01 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 53c | 11/25/2024 | 05:32:07 AM UTC | System Event | OEM System boot event | Asserted
+ 53d | 11/25/2024 | 05:33:13 AM UTC | System Event | OEM System boot event | Asserted
+ 53e | 11/25/2024 | 05:34:58 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 53f | 11/25/2024 | 05:51:19 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 540 | 11/28/2024 | 02:47:00 AM UTC | Unknown |  | Asserted
+ 541 | 11/28/2024 | 02:55:55 AM UTC | Unknown |  | Asserted
+ 542 | 11/28/2024 | 03:02:42 AM UTC | System Event | OEM System boot event | Asserted
+ 543 | 11/28/2024 | 03:03:48 AM UTC | System Event | OEM System boot event | Asserted
+ 544 | 11/28/2024 | 03:04:17 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 545 | 11/28/2024 | 03:04:17 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 546 | 11/28/2024 | 03:04:20 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 547 | 11/28/2024 | 03:04:21 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 548 | 11/28/2024 | 03:05:13 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 549 | 11/28/2024 | 03:24:35 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 54a | 11/28/2024 | 03:36:30 AM UTC | Version Change |  | Asserted
+ 54b | 11/28/2024 | 03:36:35 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 54c | 11/28/2024 | 03:36:35 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 54d | 11/28/2024 | 03:37:32 AM UTC | Unknown |  | Asserted
+ 54e | 11/28/2024 | 05:30:12 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 54f | 11/28/2024 | 05:31:13 AM UTC | System Event | OEM System boot event | Asserted
+ 550 | 11/28/2024 | 05:32:20 AM UTC | System Event | OEM System boot event | Asserted
+ 551 | 11/28/2024 | 05:33:42 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 552 | 11/28/2024 | 05:33:56 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 553 | 11/28/2024 | 05:33:56 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 554 | 11/28/2024 | 05:33:56 AM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 555 | 11/28/2024 | 05:37:13 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 556 | 11/28/2024 | 05:47:17 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 557 | 11/28/2024 | 05:51:20 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 558 | 11/28/2024 | 05:52:22 AM UTC | System Event | OEM System boot event | Asserted
+ 559 | 11/28/2024 | 05:53:28 AM UTC | System Event | OEM System boot event | Asserted
+ 55a | 11/28/2024 | 05:54:36 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 55b | 11/28/2024 | 05:55:52 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 55c | 11/28/2024 | 05:56:54 AM UTC | System Event | OEM System boot event | Asserted
+ 55d | 11/28/2024 | 05:58:00 AM UTC | System Event | OEM System boot event | Asserted
+ 55e | 11/28/2024 | 06:02:28 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 55f | 11/28/2024 | 06:36:02 AM UTC | System Event | OEM System boot event | Asserted
+ 560 | 11/28/2024 | 06:36:49 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 561 | 11/28/2024 | 06:36:49 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 562 | 11/28/2024 | 06:35:46 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 563 | 11/28/2024 | 06:35:47 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 564 | 11/28/2024 | 06:37:22 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 565 | 11/28/2024 | 06:37:27 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 566 | 11/28/2024 | 06:38:28 AM UTC | System Event | OEM System boot event | Asserted
+ 567 | 11/28/2024 | 06:39:41 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 568 | 11/28/2024 | 07:04:21 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 569 | 11/28/2024 | 07:04:44 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 56a | 11/28/2024 | 07:04:44 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 56b | 11/28/2024 | 07:07:04 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 56c | 11/28/2024 | 07:08:04 AM UTC | System Event | OEM System boot event | Asserted
+ 56d | 11/28/2024 | 07:08:36 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 56e | 11/28/2024 | 07:08:36 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 56f | 11/20/2025 | 07:54:47 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 570 | 11/20/2025 | 07:54:48 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 571 | 11/20/2025 | 07:56:02 PM UTC | System Event | OEM System boot event | Asserted
+ 572 | 11/20/2025 | 07:57:19 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 573 | 11/20/2025 | 07:57:41 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 574 | 11/20/2025 | 07:57:41 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 575 | 11/20/2025 | 07:57:41 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 576 | 12/02/2025 | 01:37:02 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 577 | 12/02/2025 | 01:37:25 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 578 | 12/02/2025 | 01:37:25 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 579 | 12/02/2025 | 07:03:33 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 57a | 12/02/2025 | 07:04:34 PM UTC | System Event | OEM System boot event | Asserted
+ 57b | 12/02/2025 | 07:05:06 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 57c | 12/02/2025 | 07:05:06 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 57d | 12/02/2025 | 07:26:39 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 57e | 12/02/2025 | 07:26:42 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 57f | 12/02/2025 | 07:27:59 PM UTC | System Event | OEM System boot event | Asserted
+ 580 | 12/02/2025 | 07:29:15 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 581 | 12/02/2025 | 07:29:26 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 582 | 12/02/2025 | 07:29:26 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 583 | 12/02/2025 | 07:29:26 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 584 | 12/02/2025 | 07:32:13 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 585 | 12/02/2025 | 07:32:37 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 586 | 12/02/2025 | 07:33:39 PM UTC | System Event | OEM System boot event | Asserted
+ 587 | 12/02/2025 | 07:47:52 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 588 | 12/02/2025 | 07:48:20 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 589 | 12/02/2025 | 07:49:21 PM UTC | System Event | OEM System boot event | Asserted
+ 58a | 12/02/2025 | 07:51:27 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 58b | 12/02/2025 | 07:51:32 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 58c | 12/02/2025 | 07:52:33 PM UTC | System Event | OEM System boot event | Asserted
+ 58d | 12/02/2025 | 07:56:34 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 58e | 12/02/2025 | 07:56:47 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 58f | 12/02/2025 | 07:57:47 PM UTC | System Event | OEM System boot event | Asserted
+ 590 | 12/02/2025 | 07:59:39 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 591 | 12/02/2025 | 07:59:49 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 592 | 12/02/2025 | 08:00:49 PM UTC | System Event | OEM System boot event | Asserted
+ 593 | 12/02/2025 | 08:02:51 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 594 | 12/02/2025 | 08:03:04 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 595 | 12/02/2025 | 08:04:05 PM UTC | System Event | OEM System boot event | Asserted
+ 596 | 12/02/2025 | 08:09:46 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 597 | 12/02/2025 | 08:10:55 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 598 | 12/02/2025 | 08:11:56 PM UTC | System Event | OEM System boot event | Asserted
+ 599 | 12/02/2025 | 08:16:43 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 59a | 12/02/2025 | 08:23:54 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 59b | 12/02/2025 | 08:24:14 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 59c | 12/02/2025 | 08:25:14 PM UTC | System Event | OEM System boot event | Asserted
+ 59d | 12/02/2025 | 08:29:38 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 59e | 12/02/2025 | 08:30:42 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 59f | 12/02/2025 | 08:31:43 PM UTC | System Event | OEM System boot event | Asserted
+ 5a0 | 12/02/2025 | 08:33:43 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5a1 | 12/02/2025 | 08:40:48 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5a2 | 12/02/2025 | 08:41:50 PM UTC | System Event | OEM System boot event | Asserted
+ 5a3 | 12/02/2025 | 08:43:51 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5a4 | 12/02/2025 | 08:46:45 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5a5 | 12/02/2025 | 08:47:45 PM UTC | System Event | OEM System boot event | Asserted
+ 5a6 | 12/02/2025 | 08:50:09 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 5a7 | 12/02/2025 | 08:50:11 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5a8 | 12/02/2025 | 08:52:03 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 5a9 | 12/02/2025 | 08:52:03 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 5aa | 12/02/2025 | 08:52:15 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 5ab | 12/02/2025 | 08:52:15 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 5ac | 12/02/2025 | 08:52:15 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 5ad | 12/02/2025 | 08:54:22 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5ae | 12/02/2025 | 08:54:36 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5af | 12/02/2025 | 08:55:37 PM UTC | System Event | OEM System boot event | Asserted
+ 5b0 | 12/02/2025 | 08:56:07 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 5b1 | 12/02/2025 | 08:56:07 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5b2 | 12/02/2025 | 08:55:44 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 5b3 | 12/02/2025 | 08:55:47 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 5b4 | 12/02/2025 | 09:00:50 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5b5 | 12/02/2025 | 09:01:07 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5b6 | 12/02/2025 | 09:02:07 PM UTC | System Event | OEM System boot event | Asserted
+ 5b7 | 12/02/2025 | 09:02:53 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5b8 | 12/02/2025 | 09:03:10 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5b9 | 12/02/2025 | 09:04:11 PM UTC | System Event | OEM System boot event | Asserted
+ 5ba | 12/02/2025 | 09:06:37 PM UTC | System Event | OEM System boot event | Asserted
+ 5bb | 12/02/2025 | 09:12:39 PM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 5bc | 12/02/2025 | 09:15:24 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5bd | 12/02/2025 | 09:22:27 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5be | 12/02/2025 | 09:22:42 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5bf | 12/02/2025 | 09:23:43 PM UTC | System Event | OEM System boot event | Asserted
+ 5c0 | 12/03/2025 | 01:31:00 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5c1 | 12/03/2025 | 01:31:18 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5c2 | 12/03/2025 | 01:32:19 AM UTC | System Event | OEM System boot event | Asserted
+ 5c3 | 12/03/2025 | 01:44:10 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5c4 | 12/03/2025 | 01:44:20 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5c5 | 12/03/2025 | 01:45:21 AM UTC | System Event | OEM System boot event | Asserted
+ 5c6 | 12/03/2025 | 01:54:14 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5c7 | 12/03/2025 | 01:55:15 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5c8 | 12/03/2025 | 01:56:16 AM UTC | System Event | OEM System boot event | Asserted
+ 5c9 | 12/03/2025 | 01:58:21 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5ca | 12/03/2025 | 01:58:27 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5cb | 12/03/2025 | 01:59:28 AM UTC | System Event | OEM System boot event | Asserted
+ 5cc | 12/03/2025 | 02:00:43 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5cd | 12/03/2025 | 02:01:50 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5ce | 12/03/2025 | 02:02:51 AM UTC | System Event | OEM System boot event | Asserted
+ 5cf | 12/03/2025 | 02:04:53 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5d0 | 12/03/2025 | 02:05:01 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5d1 | 12/03/2025 | 02:05:34 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5d2 | 12/03/2025 | 02:06:35 AM UTC | System Event | OEM System boot event | Asserted
+ 5d3 | 12/03/2025 | 02:09:31 AM UTC | System Event | OEM System boot event | Asserted
+ 5d4 | 12/03/2025 | 02:10:45 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5d5 | 12/03/2025 | 02:23:19 AM UTC | Unknown |  | Asserted
+ 5d6 | 12/03/2025 | 02:35:06 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 5d7 | 12/03/2025 | 02:35:06 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 5d8 | 12/03/2025 | 02:41:52 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 5d9 | 12/03/2025 | 02:41:52 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 5da | 12/03/2025 | 02:57:17 AM UTC | Version Change |  | Asserted
+ 5db | 12/03/2025 | 02:57:23 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 5dc | 12/03/2025 | 02:57:23 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 5dd | 12/03/2025 | 02:58:19 AM UTC | Unknown |  | Asserted
+ 5de | 12/03/2025 | 03:07:41 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5df | 12/03/2025 | 03:08:42 AM UTC | System Event | OEM System boot event | Asserted
+ 5e0 | 12/03/2025 | 03:09:49 AM UTC | System Event | OEM System boot event | Asserted
+ 5e1 | 12/03/2025 | 03:11:29 AM UTC | System Event | OEM System boot event | Asserted
+ 5e2 | 12/03/2025 | 03:12:46 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 5e3 | 12/03/2025 | 03:12:57 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 5e4 | 12/03/2025 | 03:12:57 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 5e5 | 12/03/2025 | 03:12:57 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 5e6 | 12/03/2025 | 03:17:32 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 5e7 | 12/03/2025 | 03:43:36 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5e8 | 12/03/2025 | 03:45:25 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5e9 | 12/03/2025 | 03:46:26 AM UTC | System Event | OEM System boot event | Asserted
+ 5ea | 12/03/2025 | 03:47:32 AM UTC | System Event | OEM System boot event | Asserted
+ 5eb | 12/03/2025 | 03:53:38 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5ec | 12/03/2025 | 03:53:50 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5ed | 12/03/2025 | 03:54:50 AM UTC | System Event | OEM System boot event | Asserted
+ 5ee | 12/03/2025 | 03:55:58 AM UTC | System Event | OEM System boot event | Asserted
+ 5ef | 12/03/2025 | 04:01:58 AM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 5f0 | 12/03/2025 | 04:04:24 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5f1 | 12/03/2025 | 04:04:50 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5f2 | 12/03/2025 | 04:05:52 AM UTC | System Event | OEM System boot event | Asserted
+ 5f3 | 12/03/2025 | 04:06:59 AM UTC | System Event | OEM System boot event | Asserted
+ 5f4 | 12/03/2025 | 04:13:00 AM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 5f5 | 12/03/2025 | 04:15:22 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5f6 | 12/03/2025 | 04:15:49 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5f7 | 12/03/2025 | 04:16:50 AM UTC | System Event | OEM System boot event | Asserted
+ 5f8 | 12/03/2025 | 04:17:57 AM UTC | System Event | OEM System boot event | Asserted
+ 5f9 | 12/03/2025 | 04:23:58 AM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 5fa | 12/03/2025 | 04:26:11 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 5fb | 12/03/2025 | 04:30:36 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 5fc | 12/03/2025 | 04:31:36 AM UTC | System Event | OEM System boot event | Asserted
+ 5fd | 12/03/2025 | 04:32:43 AM UTC | System Event | OEM System boot event | Asserted
+ 5fe | 12/03/2025 | 04:38:45 AM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 5ff | 12/03/2025 | 04:41:23 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 600 | 12/03/2025 | 04:41:30 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 601 | 12/03/2025 | 04:42:32 AM UTC | System Event | OEM System boot event | Asserted
+ 602 | 12/03/2025 | 04:43:39 AM UTC | System Event | OEM System boot event | Asserted
+ 603 | 12/03/2025 | 04:49:40 AM UTC | Watchdog2 #0xeb | Timer expired | Asserted
+ 604 | 12/03/2025 | 04:52:07 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 605 | 12/03/2025 | 04:55:11 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 606 | 12/03/2025 | 04:55:11 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 607 | 12/03/2025 | 05:00:33 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 608 | 12/03/2025 | 05:01:33 AM UTC | System Event | OEM System boot event | Asserted
+ 609 | 12/03/2025 | 05:02:41 AM UTC | System Event | OEM System boot event | Asserted
+ 60a | 12/03/2025 | 05:04:03 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 60b | 12/03/2025 | 05:04:24 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 60c | 12/03/2025 | 05:04:24 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 60d | 12/03/2025 | 05:04:24 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 60e | 12/03/2025 | 05:07:22 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 60f | 12/03/2025 | 05:35:19 AM UTC | System Event | OEM System boot event | Asserted
+ 610 | 12/03/2025 | 05:37:04 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 611 | 12/03/2025 | 06:00:22 AM UTC | System Event | OEM System boot event | Asserted
+ 612 | 12/03/2025 | 06:02:07 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 613 | 12/03/2025 | 06:11:15 AM UTC | System Event | OEM System boot event | Asserted
+ 614 | 12/03/2025 | 06:12:57 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 615 | 12/03/2025 | 06:35:43 AM UTC | System Event | OEM System boot event | Asserted
+ 616 | 12/03/2025 | 06:37:26 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 617 | 12/03/2025 | 12:39:48 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 618 | 12/03/2025 | 12:39:54 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 619 | 12/03/2025 | 12:40:25 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 61a | 12/03/2025 | 12:42:21 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 61b | 12/03/2025 | 12:43:21 PM UTC | System Event | OEM System boot event | Asserted
+ 61c | 12/03/2025 | 12:44:28 PM UTC | System Event | OEM System boot event | Asserted
+ 61d | 12/03/2025 | 01:31:36 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 61e | 12/03/2025 | 01:31:42 PM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 61f | 12/03/2025 | 01:32:44 PM UTC | System Event | OEM System boot event | Asserted
+ 620 | 12/03/2025 | 01:33:50 PM UTC | System Event | OEM System boot event | Asserted
+ 621 | 12/03/2025 | 01:35:17 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 622 | 12/09/2025 | 12:38:48 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 623 | 12/09/2025 | 12:38:48 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 624 | 12/09/2025 | 12:39:00 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 625 | 12/09/2025 | 12:39:00 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 626 | 12/12/2025 | 11:33:38 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 627 | 12/12/2025 | 11:33:38 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 628 | 12/12/2025 | 11:33:44 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 629 | 12/12/2025 | 11:33:44 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 62a | 12/15/2025 | 11:20:52 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 62b | 12/15/2025 | 11:20:52 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 62c | 12/15/2025 | 11:21:04 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 62d | 12/15/2025 | 11:21:04 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 62e | 12/30/2025 | 01:27:48 AM UTC | System Event | OEM System boot event | Asserted
+ 62f | 12/30/2025 | 01:28:32 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 630 | 12/30/2025 | 01:28:32 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 631 | 12/30/2025 | 01:28:59 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 632 | 12/30/2025 | 01:29:01 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 633 | 12/30/2025 | 01:30:00 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 634 | 01/02/2026 | 12:43:10 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 635 | 01/02/2026 | 12:43:10 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 636 | 01/02/2026 | 12:43:22 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 637 | 01/02/2026 | 12:43:22 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 638 | 01/03/2026 | 04:50:49 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 639 | 01/03/2026 | 04:50:49 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 63a | 01/03/2026 | 04:50:55 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 63b | 01/03/2026 | 04:50:55 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 63c | 01/14/2026 | 02:46:03 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 63d | 01/14/2026 | 02:46:03 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 63e | 01/14/2026 | 02:46:15 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 63f | 01/14/2026 | 02:46:15 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 640 | 01/28/2026 | 07:27:19 PM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 641 | 01/28/2026 | 07:27:19 PM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 642 | 01/28/2026 | 07:27:30 PM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 643 | 01/28/2026 | 07:27:30 PM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 644 | 02/01/2026 | 10:45:45 AM UTC | Temperature #0x10 | Upper Non-critical going high | Asserted
+ 645 | 02/01/2026 | 10:45:45 AM UTC | Temperature #0x10 | Upper Critical going high | Asserted
+ 646 | 02/01/2026 | 10:45:57 AM UTC | Temperature #0x10 | Upper Critical going high | Deasserted
+ 647 | 02/01/2026 | 10:45:57 AM UTC | Temperature #0x10 | Upper Non-critical going high | Deasserted
+ 648 | 02/09/2026 | 07:43:13 PM UTC | System Event | OEM System boot event | Asserted
+ 649 | 02/09/2026 | 07:43:57 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 64a | 02/09/2026 | 07:43:57 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 64b | 02/09/2026 | 07:44:38 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 64c | 02/09/2026 | 07:44:40 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 64d | 02/09/2026 | 07:45:40 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 64e | 02/16/2026 | 12:56:34 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 64f | 02/16/2026 | 12:57:08 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 650 | 02/16/2026 | 12:57:57 AM UTC | System Event | OEM System boot event | Asserted
+ 651 | 02/16/2026 | 12:59:03 AM UTC | System Event | OEM System boot event | Asserted
+ 652 | 02/16/2026 | 12:59:34 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 653 | 02/16/2026 | 12:59:34 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 654 | 01/01/2025 | 12:00:00 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 655 | 01/01/2025 | 12:00:02 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 656 | 01/01/2025 | 12:01:10 AM UTC | System Event | OEM System boot event | Asserted
+ 657 | 01/01/2025 | 12:03:02 AM UTC | System Event | OEM System boot event | Asserted
+ 658 | 01/01/2025 | 12:04:24 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 659 | 01/01/2025 | 12:04:24 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 65a | 01/01/2025 | 12:04:43 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 65b | 01/01/2025 | 12:05:10 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 65c | 01/01/2025 | 12:05:10 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 65d | 01/01/2025 | 12:05:10 AM UTC | Power Supply #0xe7 | Presence detected | Asserted

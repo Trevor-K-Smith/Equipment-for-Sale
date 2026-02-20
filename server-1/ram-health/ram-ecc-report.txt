@@ -1,0 +1,8 @@
+=== EDAC Summary ===
+edac-util: EDAC drivers are loaded. 2 MCs detected
+
+=== EDAC Status ===
+edac-util: EDAC drivers are loaded. 2 MCs detected
+
+=== ECC Errors from dmesg ===
+No ECC errors in dmesg

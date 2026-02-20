@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.0.8 — 2026-02-20
+- Add CLAUDE.md with full workflow for adding new server listings
+- Add chassis detail reports (chassis, motherboard, BIOS, system DMI, IPMI sensors, IPMI event log)
+- Add lscpu detailed CPU report
+- Link all detailed reports from README (chassis, CPU lscpu, storage life %, GPU/RAM health)
+
 ## v0.0.7 — 2026-02-20
 - Remove Mellanox ConnectX-7 and 2x NVIDIA L4 from listing (being pulled from server)
 - Renumber GPUs to 5x RTX A5000

@@ -1,0 +1,12 @@
+.bash_history
+.bash_logout
+.bashrc
+.cache/
+.claude/
+.claude.json
+.claude.json.backup
+.config/
+.local/
+.profile
+.ssh/
+.sudo_as_admin_successful

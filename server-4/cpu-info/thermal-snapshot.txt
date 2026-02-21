@@ -1,0 +1,43 @@
+k10temp-pci-00cb
+Adapter: PCI adapter
+Tctl:         +46.2 C  
+Tccd1:        +43.0 C  
+Tccd2:        +41.2 C  
+Tccd3:        +47.0 C  
+Tccd4:        +41.2 C  
+Tccd5:        +42.8 C  
+Tccd6:        +41.0 C  
+Tccd7:        +41.8 C  
+Tccd8:        +45.0 C  
+
+nvme-pci-6300
+Adapter: PCI adapter
+Composite:    +35.9 C  (low  = -273.1 C, high = +81.8 C)
+                       (crit = +84.8 C)
+Sensor 1:     +35.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +39.9 C  (low  = -273.1 C, high = +65261.8 C)
+
+i350bb-pci-6400
+Adapter: PCI adapter
+loc1:         +45.0 C  (high = +120.0 C, crit = +110.0 C)
+
+k10temp-pci-00c3
+Adapter: PCI adapter
+Tctl:         +43.0 C  
+Tccd1:        +43.5 C  
+Tccd2:        +37.5 C  
+Tccd3:        +41.2 C  
+Tccd4:        +41.8 C  
+Tccd5:        +40.5 C  
+Tccd6:        +38.2 C  
+Tccd7:        +40.0 C  
+Tccd8:        +39.8 C  
+
+nvme-pci-2100
+Adapter: PCI adapter
+Composite:    +42.9 C  (low  = -273.1 C, high = +79.8 C)
+                       (crit = +86.8 C)
+Sensor 1:     +42.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 2:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+Sensor 3:     +40.9 C  (low  = -273.1 C, high = +65261.8 C)
+

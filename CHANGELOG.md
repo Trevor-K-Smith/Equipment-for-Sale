@@ -1,5 +1,17 @@
 # Changelog
 
+## v0.1.0 — 2026-02-21
+- Add 7 new servers (server-2 through server-8) from Tailscale-connected nodes
+- Server #2: GIGABYTE R282-Z91, dual EPYC 7742 ES, 512 GB RAM, 1x RTX A4000, 1x NVMe
+- Server #3: GIGABYTE R282-Z91, dual EPYC 7742 ES, 2 TB RAM, 2x PM1733a 12.8 TB NVMe, 212x Seagate 18 TB SAS + JBOD enclosures
+- Server #4: GIGABYTE R282-Z91, dual EPYC 7742 ES, 1152 GB RAM, 1x PM1733a 12.8 TB NVMe
+- Server #5: GIGABYTE R282-Z91, dual EPYC 7742 ES, 2 TB RAM, 3x PM1733a 12.8 TB NVMe
+- Server #6: GIGABYTE R182-Z92, dual EPYC 7742 ES, 2 TB RAM, 1x NVMe
+- Server #7: GIGABYTE R182-Z93, dual EPYC 7742 ES, 2 TB RAM, 1x NVMe
+- Server #8: GIGABYTE R182-Z93, dual EPYC 7742 ES, 2 TB RAM, 1x NVMe
+- Full hardware health reports for all servers (chassis, CPU, RAM, GPU, disk SMART)
+- Add SSH access section to CLAUDE.md with node-to-server mapping
+
 ## v0.0.11 — 2026-02-20
 - Add manufacturer datasheets for all components (chassis, CPU, RAM, GPU, NVMe, SATA)
 - Link datasheets from README alongside detail reports

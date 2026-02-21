@@ -1,0 +1,22 @@
+# dmidecode 3.5
+Getting SMBIOS data from sysfs.
+SMBIOS 3.2.0 present.
+
+Handle 0x0003, DMI type 3, 22 bytes
+Chassis Information
+	Manufacturer: GIGABYTE
+	Type: Rack Mount Chassis
+	Lock: Not Present
+	Version: 01234567
+	Serial Number: 01234567890123456789AB
+	Asset Tag: 01234567890123456789AB
+	Boot-up State: Safe
+	Power Supply State: Safe
+	Thermal State: Safe
+	Security Status: None
+	OEM Information: 0x00000000
+	Height: Unspecified
+	Number Of Power Cords: 1
+	Contained Elements: 0
+	SKU Number: 01234567890123456789AB
+

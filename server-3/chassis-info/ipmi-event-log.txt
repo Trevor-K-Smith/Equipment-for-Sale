@@ -1,0 +1,1022 @@
+  6b | 01/29/2021 | 06:05:14 PM UTC | Processor #0xe4 | Presence detected | Asserted
+  6c | 01/29/2021 | 06:05:14 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+  6d | 01/29/2021 | 06:05:14 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+  6e | 01/29/2021 | 06:05:14 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+  6f | 01/29/2021 | 06:05:59 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  70 | 01/29/2021 | 06:06:22 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  71 | 01/29/2021 | 06:06:22 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  72 | 01/29/2021 | 06:06:23 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  73 | 01/29/2021 | 06:06:36 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  74 | 01/29/2021 | 06:06:37 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  75 | 01/29/2021 | 06:06:54 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  76 | 01/29/2021 | 06:07:20 PM UTC | System Event | OEM System boot event | Asserted
+  77 | 01/29/2021 | 06:07:36 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  78 | 01/29/2021 | 06:07:36 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  79 | 01/01/2020 | 12:00:00 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  7a | 01/01/2020 | 12:00:00 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  7b | 01/01/2020 | 12:00:13 AM UTC | Power Unit #0xff | Power off/down | Asserted
+  7c | 01/01/2020 | 12:00:36 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  7d | 01/01/2020 | 12:00:36 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  7e | 01/01/2020 | 12:00:37 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  7f | 01/01/2020 | 12:00:50 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  80 | 01/01/2020 | 12:00:51 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  81 | 01/01/2020 | 12:01:08 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  82 | 01/01/2020 | 12:01:32 AM UTC | Power Unit #0xff | Power off/down | Asserted
+  83 | 01/01/2020 | 12:01:55 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  84 | 01/01/2020 | 12:01:55 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  85 | 01/01/2020 | 12:01:56 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  86 | 01/01/2020 | 12:02:09 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  87 | 01/01/2020 | 12:02:10 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  88 | 01/01/2020 | 12:02:27 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  89 | 01/01/2020 | 12:02:53 AM UTC | Power Unit #0xff | Power off/down | Asserted
+  8a | 01/01/2020 | 12:03:16 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  8b | 01/01/2020 | 12:03:16 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  8c | 01/01/2020 | 12:03:17 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  8d | 01/01/2020 | 12:03:30 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  8e | 01/01/2020 | 12:03:31 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  8f | 01/01/2020 | 12:03:48 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  90 | 01/01/2020 | 12:04:14 AM UTC | System Event | OEM System boot event | Asserted
+  91 | 01/01/2020 | 12:04:29 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  92 | 01/01/2020 | 12:04:29 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  93 | 01/01/2020 | 12:12:13 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  94 | 01/01/2020 | 12:12:13 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  95 | 01/01/2020 | 12:13:15 AM UTC | System Event | OEM System boot event | Asserted
+  96 | 01/01/2020 | 12:14:34 AM UTC | Power Unit #0xff | Power off/down | Asserted
+  97 | 01/01/2020 | 12:14:57 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  98 | 01/01/2020 | 12:14:57 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  99 | 01/01/2020 | 12:14:58 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  9a | 01/01/2020 | 12:15:11 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  9b | 01/01/2020 | 12:15:12 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  9c | 01/01/2020 | 12:15:29 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  9d | 01/01/2020 | 12:15:55 AM UTC | System Event | OEM System boot event | Asserted
+  9e | 01/01/2020 | 12:16:11 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  9f | 01/01/2020 | 12:16:11 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  a0 | 01/01/2020 | 12:19:32 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  a1 | 01/01/2020 | 12:19:32 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  a2 | 01/01/2020 | 12:20:35 AM UTC | System Event | OEM System boot event | Asserted
+  a3 | 01/01/2020 | 12:21:29 AM UTC | Power Unit #0xff | Power off/down | Asserted
+  a4 | 01/01/2020 | 12:21:52 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  a5 | 01/01/2020 | 12:21:52 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  a6 | 01/01/2020 | 12:21:53 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  a7 | 01/01/2020 | 12:22:06 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  a8 | 01/01/2020 | 12:22:07 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  a9 | 01/01/2020 | 12:22:24 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  aa | 01/01/2020 | 12:22:50 AM UTC | System Event | OEM System boot event | Asserted
+  ab | 01/01/2020 | 12:23:06 AM UTC | System Event | Timestamp Clock Sync | Asserted
+  ac | 01/01/2020 | 12:23:06 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  ad | 01/02/2020 | 05:15:19 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  ae | 01/02/2020 | 05:15:19 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  af | 01/02/2020 | 05:16:04 PM UTC | Processor #0xe5 | Presence detected | Asserted
+  b0 | 01/02/2020 | 05:16:12 PM UTC | Processor #0xe4 | Presence detected | Asserted
+  b1 | 01/02/2020 | 05:16:12 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+  b2 | 01/02/2020 | 05:16:12 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+  b3 | 01/02/2020 | 05:16:12 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+  b4 | 01/02/2020 | 07:06:19 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  b5 | 01/02/2020 | 07:06:42 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  b6 | 01/02/2020 | 07:06:42 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  b7 | 01/02/2020 | 07:06:43 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  b8 | 01/02/2020 | 07:06:56 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  b9 | 01/02/2020 | 07:06:57 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  ba | 01/02/2020 | 07:07:14 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  bb | 01/02/2020 | 07:07:40 PM UTC | System Event | OEM System boot event | Asserted
+  bc | 01/02/2020 | 07:07:56 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  bd | 01/02/2020 | 07:07:56 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  be | 01/02/2020 | 07:17:12 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  bf | 01/02/2020 | 07:17:12 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  c0 | 01/02/2020 | 07:17:58 PM UTC | Processor #0xe5 | Presence detected | Asserted
+  c1 | 01/02/2020 | 07:18:05 PM UTC | Processor #0xe4 | Presence detected | Asserted
+  c2 | 01/02/2020 | 07:18:05 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+  c3 | 01/02/2020 | 07:18:05 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+  c4 | 01/02/2020 | 07:18:05 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+  c5 | 01/02/2020 | 08:40:18 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  c6 | 01/02/2020 | 08:40:40 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  c7 | 01/02/2020 | 08:40:41 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  c8 | 01/02/2020 | 08:40:42 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  c9 | 01/02/2020 | 08:40:55 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  ca | 01/02/2020 | 08:40:55 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  cb | 01/02/2020 | 08:41:13 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  cc | 01/02/2020 | 08:41:39 PM UTC | System Event | OEM System boot event | Asserted
+  cd | 01/02/2020 | 08:41:56 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  ce | 01/02/2020 | 08:41:56 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  cf | 01/02/2020 | 08:43:05 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  d0 | 01/02/2020 | 08:43:05 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  d1 | 01/02/2020 | 08:43:49 PM UTC | Processor #0xe5 | Presence detected | Asserted
+  d2 | 01/02/2020 | 08:43:56 PM UTC | Processor #0xe4 | Presence detected | Asserted
+  d3 | 01/02/2020 | 08:43:56 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+  d4 | 01/02/2020 | 08:43:56 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+  d5 | 01/02/2020 | 08:43:56 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+  d6 | 01/02/2020 | 10:08:44 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  d7 | 01/02/2020 | 10:20:14 PM UTC | System Event | OEM System boot event | Asserted
+  d8 | 01/05/2020 | 03:01:06 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  d9 | 01/05/2020 | 03:01:29 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  da | 01/05/2020 | 03:01:30 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  db | 01/05/2020 | 03:01:30 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  dc | 01/05/2020 | 03:01:43 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  dd | 01/05/2020 | 03:01:44 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  de | 01/05/2020 | 03:02:01 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  df | 01/05/2020 | 03:02:27 PM UTC | System Event | OEM System boot event | Asserted
+  e0 | 01/05/2020 | 03:02:43 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  e1 | 01/05/2020 | 03:02:43 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  e2 | 01/05/2020 | 10:31:57 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  e3 | 01/05/2020 | 10:31:57 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  e4 | 01/05/2020 | 10:32:38 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  e5 | 01/05/2020 | 10:33:00 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  e6 | 01/05/2020 | 10:33:01 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  e7 | 01/05/2020 | 10:33:02 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  e8 | 01/05/2020 | 10:33:15 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  e9 | 01/05/2020 | 10:33:15 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  ea | 01/05/2020 | 10:33:32 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  eb | 01/05/2020 | 10:33:58 PM UTC | System Event | OEM System boot event | Asserted
+  ec | 01/05/2020 | 10:34:14 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  ed | 01/05/2020 | 10:34:14 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  ee | 01/05/2020 | 10:42:06 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  ef | 01/05/2020 | 10:42:06 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  f0 | 01/05/2020 | 10:42:54 PM UTC | Processor #0xe5 | Presence detected | Asserted
+  f1 | 01/05/2020 | 10:43:02 PM UTC | Processor #0xe4 | Presence detected | Asserted
+  f2 | 01/05/2020 | 10:43:02 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+  f3 | 01/05/2020 | 10:43:02 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+  f4 | 01/05/2020 | 10:43:02 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+  f5 | 01/05/2020 | 10:59:23 PM UTC | Power Unit #0xff | Power off/down | Asserted
+  f6 | 01/05/2020 | 10:59:46 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+  f7 | 01/05/2020 | 10:59:46 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+  f8 | 01/05/2020 | 10:59:47 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+  f9 | 01/05/2020 | 11:00:00 PM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+  fa | 01/05/2020 | 11:00:01 PM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+  fb | 01/05/2020 | 11:00:18 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+  fc | 01/05/2020 | 11:00:44 PM UTC | System Event | OEM System boot event | Asserted
+  fd | 01/05/2020 | 11:01:00 PM UTC | System Event | Timestamp Clock Sync | Asserted
+  fe | 01/05/2020 | 11:01:00 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+  ff | 01/05/2020 | 11:57:34 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 100 | 01/05/2020 | 11:57:34 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 101 | 01/05/2020 | 11:58:21 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 102 | 01/05/2020 | 11:58:30 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 103 | 01/05/2020 | 11:58:30 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 104 | 01/05/2020 | 11:58:30 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 105 | 01/05/2020 | 11:58:30 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 106 | 01/07/2020 | 09:59:29 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 107 | 01/07/2020 | 01:52:19 PM UTC | System Event | OEM System boot event | Asserted
+ 108 | 01/07/2020 | 01:52:37 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 109 | 01/07/2020 | 01:52:37 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 10a | 01/07/2020 | 01:52:39 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 10b | 01/07/2020 | 01:52:40 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 10c | 01/07/2020 | 02:02:11 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 10d | 01/07/2020 | 03:52:56 PM UTC | System Event | OEM System boot event | Asserted
+ 10e | 01/07/2020 | 03:53:26 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 10f | 01/07/2020 | 03:53:26 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 110 | 03/20/2022 | 09:48:00 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 111 | 03/20/2022 | 09:48:01 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 112 | 03/20/2022 | 09:49:57 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 113 | 03/20/2022 | 10:24:49 PM UTC | System Event | OEM System boot event | Asserted
+ 114 | 03/20/2022 | 10:27:14 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 115 | 03/23/2022 | 05:46:43 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 116 | 03/23/2022 | 05:47:06 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 117 | 03/23/2022 | 05:47:06 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 118 | 03/23/2022 | 05:51:23 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 119 | 03/23/2022 | 05:51:24 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 11a | 03/23/2022 | 05:51:25 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 11b | 03/23/2022 | 05:51:38 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+ 11c | 03/23/2022 | 05:51:38 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+ 11d | 03/23/2022 | 05:51:56 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 11e | 03/23/2022 | 05:52:18 AM UTC | System Event | OEM System boot event | Asserted
+ 11f | 03/23/2022 | 05:52:35 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 120 | 03/23/2022 | 05:52:35 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 121 | 03/23/2022 | 06:29:11 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 122 | 03/23/2022 | 06:29:12 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 123 | 03/23/2022 | 06:30:06 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 124 | 03/23/2022 | 06:30:06 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 125 | 03/23/2022 | 06:30:06 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 126 | 03/23/2022 | 06:30:53 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 127 | 03/23/2022 | 07:01:30 AM UTC | Version Change |  | Asserted
+ 128 | 03/23/2022 | 07:01:36 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 129 | 03/23/2022 | 07:01:37 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 12a | 03/23/2022 | 07:01:50 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+ 12b | 03/23/2022 | 07:01:51 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+ 12c | 03/23/2022 | 07:01:52 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 12d | 03/23/2022 | 07:02:08 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 12e | 03/23/2022 | 07:02:31 AM UTC | Unknown |  | Asserted
+ 12f | 03/23/2022 | 07:03:37 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 130 | 03/23/2022 | 07:03:37 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 131 | 03/23/2022 | 07:03:46 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 132 | 03/23/2022 | 07:03:46 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 133 | 03/23/2022 | 07:03:46 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 134 | 03/23/2022 | 08:19:06 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Deasserted
+ 135 | 03/23/2022 | 08:19:07 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Deasserted
+ 136 | 03/23/2022 | 08:19:21 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Deasserted
+ 137 | 03/23/2022 | 08:19:22 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Deasserted
+ 138 | 03/23/2022 | 09:28:23 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 139 | 03/23/2022 | 09:28:59 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+ 13a | 03/23/2022 | 09:28:59 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+ 13b | 03/23/2022 | 09:29:42 AM UTC | System Event | OEM System boot event | Asserted
+ 13c | 03/23/2022 | 09:29:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 13d | 03/23/2022 | 09:29:59 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 13e | 03/23/2022 | 09:30:17 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 13f | 03/23/2022 | 09:30:18 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 140 | 03/23/2022 | 09:31:03 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 141 | 03/23/2022 | 09:31:10 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 142 | 03/23/2022 | 09:31:10 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 143 | 03/23/2022 | 09:31:10 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 144 | 03/23/2022 | 09:31:10 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 145 | 03/23/2022 | 09:31:52 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 146 | 03/24/2022 | 09:47:18 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 147 | 03/24/2022 | 09:51:38 PM UTC | System Event | OEM System boot event | Asserted
+ 148 | 03/24/2022 | 09:51:54 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 149 | 03/24/2022 | 09:51:54 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 14a | 03/24/2022 | 09:51:58 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 14b | 03/24/2022 | 09:52:00 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 14c | 03/24/2022 | 09:56:36 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 14d | 03/24/2022 | 11:28:13 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 14e | 03/24/2022 | 11:30:03 PM UTC | System Event | OEM System boot event | Asserted
+ 14f | 03/24/2022 | 11:33:32 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 150 | 03/25/2022 | 12:26:45 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 151 | 03/25/2022 | 12:31:57 AM UTC | System Event | OEM System boot event | Asserted
+ 152 | 03/25/2022 | 01:09:33 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 153 | 03/25/2022 | 03:24:40 AM UTC | System Event | OEM System boot event | Asserted
+ 154 | 03/25/2022 | 03:26:54 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 155 | 03/26/2022 | 10:17:41 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Deasserted
+ 156 | 03/26/2022 | 10:18:03 PM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 157 | 03/26/2022 | 10:18:09 PM UTC | Processor #0xe4 | Throttled | Asserted
+ 158 | 03/26/2022 | 10:18:38 PM UTC | Processor #0xe4 | Throttled | Deasserted
+ 159 | 03/26/2022 | 10:18:38 PM UTC | Power Supply #0xe7 | Power Supply AC lost | Deasserted
+ 15a | 03/26/2022 | 11:45:39 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 15b | 03/26/2022 | 11:45:39 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 15c | 03/26/2022 | 11:45:40 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 15d | 03/26/2022 | 11:45:41 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 15e | 03/26/2022 | 11:45:41 PM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 15f | 03/26/2022 | 11:45:42 PM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 160 | 03/26/2022 | 11:45:42 PM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 161 | 03/26/2022 | 11:45:43 PM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 162 | 03/27/2022 | 02:16:01 AM UTC | System Event | OEM System boot event | Asserted
+ 163 | 03/27/2022 | 02:16:32 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 164 | 03/27/2022 | 02:16:32 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 165 | 03/27/2022 | 02:16:36 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 166 | 03/27/2022 | 02:16:37 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 167 | 03/27/2022 | 02:18:29 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 168 | 03/27/2022 | 02:25:47 AM UTC | System Event | OEM System boot event | Asserted
+ 169 | 03/27/2022 | 02:28:08 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 16a | 03/27/2022 | 11:38:20 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 16b | 03/27/2022 | 11:40:07 AM UTC | System Event | OEM System boot event | Asserted
+ 16c | 03/27/2022 | 11:44:08 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 16d | 03/27/2022 | 11:44:52 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 16e | 03/27/2022 | 11:48:32 AM UTC | System Event | OEM System boot event | Asserted
+ 16f | 03/27/2022 | 11:51:36 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 170 | 03/27/2022 | 11:52:38 AM UTC | System Event | OEM System boot event | Asserted
+ 171 | 03/27/2022 | 11:55:09 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 172 | 03/27/2022 | 11:55:31 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 173 | 03/27/2022 | 11:56:33 AM UTC | System Event | OEM System boot event | Asserted
+ 174 | 03/27/2022 | 11:56:57 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 175 | 03/27/2022 | 11:58:31 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 176 | 03/27/2022 | 01:01:57 PM UTC | System Event | OEM System boot event | Asserted
+ 177 | 03/27/2022 | 01:02:36 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 178 | 03/27/2022 | 01:04:08 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 179 | 03/28/2022 | 02:13:21 AM UTC | System Event | OEM System boot event | Asserted
+ 17a | 03/28/2022 | 02:13:59 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 17b | 03/28/2022 | 02:15:25 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 17c | 03/29/2022 | 03:09:43 PM UTC | System Event | OEM System boot event | Asserted
+ 17d | 03/29/2022 | 03:10:13 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 17e | 03/29/2022 | 03:10:13 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 17f | 03/29/2022 | 03:10:18 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 180 | 03/29/2022 | 03:10:19 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 181 | 03/29/2022 | 03:10:28 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 182 | 03/29/2022 | 03:11:56 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 183 | 03/30/2022 | 03:49:22 PM UTC | System Event | OEM System boot event | Asserted
+ 184 | 03/30/2022 | 03:49:52 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 185 | 03/30/2022 | 03:49:52 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 186 | 03/30/2022 | 03:49:54 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 187 | 03/30/2022 | 03:49:55 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 188 | 03/30/2022 | 03:50:04 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 189 | 03/30/2022 | 03:51:31 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 18a | 04/01/2022 | 07:32:54 PM UTC | System Event | OEM System boot event | Asserted
+ 18b | 04/01/2022 | 07:33:24 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 18c | 04/01/2022 | 07:33:24 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 18d | 04/01/2022 | 07:33:28 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 18e | 04/01/2022 | 07:33:29 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 18f | 04/01/2022 | 07:33:37 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 190 | 04/01/2022 | 07:35:05 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 191 | 04/01/2022 | 09:00:02 PM UTC | System Event | OEM System boot event | Asserted
+ 192 | 04/01/2022 | 09:00:39 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 193 | 04/01/2022 | 09:02:04 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 194 | 04/02/2022 | 03:59:57 PM UTC | System Event | OEM System boot event | Asserted
+ 195 | 04/02/2022 | 04:00:27 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 196 | 04/02/2022 | 04:00:27 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 197 | 04/02/2022 | 04:00:30 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 198 | 04/02/2022 | 04:00:31 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 199 | 04/02/2022 | 04:00:41 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 19a | 04/02/2022 | 04:02:07 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 19b | 04/04/2022 | 04:27:48 PM UTC | System Event | OEM System boot event | Asserted
+ 19c | 04/04/2022 | 04:28:25 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 19d | 04/04/2022 | 04:29:50 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 19e | 04/07/2022 | 10:31:06 PM UTC | System Event | OEM System boot event | Asserted
+ 19f | 04/07/2022 | 10:31:36 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1a0 | 04/07/2022 | 10:31:36 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1a1 | 04/07/2022 | 10:31:44 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1a2 | 04/07/2022 | 10:31:45 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1a3 | 04/07/2022 | 10:31:54 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1a4 | 04/07/2022 | 10:33:20 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1a5 | 04/17/2022 | 08:58:28 AM UTC | Drive Slot / Bay #0x18 | Drive Present | Asserted
+ 1a6 | 04/17/2022 | 08:59:49 AM UTC | Drive Slot / Bay #0x17 | Drive Present | Asserted
+ 1a7 | 04/17/2022 | 09:10:40 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 1a8 | 04/17/2022 | 09:17:23 AM UTC | System Event | OEM System boot event | Asserted
+ 1a9 | 04/17/2022 | 09:17:40 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1aa | 04/17/2022 | 09:17:40 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1ab | 04/17/2022 | 09:17:54 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1ac | 04/17/2022 | 09:17:55 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1ad | 04/17/2022 | 09:18:06 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1ae | 04/17/2022 | 09:19:32 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1af | 04/17/2022 | 01:21:41 PM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 1b0 | 04/17/2022 | 01:21:58 PM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 1b1 | 04/17/2022 | 01:47:03 PM UTC | Drive Slot / Bay #0x18 | Drive Present | Deasserted
+ 1b2 | 04/17/2022 | 01:47:19 PM UTC | Drive Slot / Bay #0x17 | Drive Present | Deasserted
+ 1b3 | 04/17/2022 | 05:14:10 PM UTC | Drive Slot / Bay #0x0b | Drive Present | Asserted
+ 1b4 | 04/26/2022 | 04:55:53 PM UTC | System Event | OEM System boot event | Asserted
+ 1b5 | 04/26/2022 | 04:56:23 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1b6 | 04/26/2022 | 04:56:23 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1b7 | 04/26/2022 | 04:56:38 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1b8 | 04/26/2022 | 04:56:39 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1b9 | 04/26/2022 | 04:56:49 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1ba | 04/26/2022 | 04:58:16 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1bb | 04/29/2022 | 05:10:56 PM UTC | System Event | OEM System boot event | Asserted
+ 1bc | 04/29/2022 | 05:11:25 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1bd | 04/29/2022 | 05:11:26 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1be | 04/29/2022 | 05:11:30 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1bf | 04/29/2022 | 05:11:31 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1c0 | 04/29/2022 | 05:11:40 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1c1 | 04/29/2022 | 05:13:07 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1c2 | 05/05/2022 | 03:19:29 AM UTC | System Event | OEM System boot event | Asserted
+ 1c3 | 05/05/2022 | 03:19:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1c4 | 05/05/2022 | 03:19:59 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1c5 | 05/05/2022 | 03:20:07 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1c6 | 05/05/2022 | 03:20:08 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1c7 | 05/05/2022 | 03:20:18 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1c8 | 05/05/2022 | 03:21:45 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1c9 | 05/05/2022 | 11:38:28 PM UTC | System Event | OEM System boot event | Asserted
+ 1ca | 05/05/2022 | 11:38:58 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1cb | 05/05/2022 | 11:38:58 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1cc | 05/05/2022 | 11:39:01 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1cd | 05/05/2022 | 11:39:02 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1ce | 05/05/2022 | 11:39:11 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1cf | 05/05/2022 | 11:40:37 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1d0 | 05/08/2022 | 04:41:59 AM UTC | System Event | OEM System boot event | Asserted
+ 1d1 | 05/08/2022 | 04:42:29 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1d2 | 05/08/2022 | 04:42:29 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1d3 | 05/08/2022 | 04:42:34 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1d4 | 05/08/2022 | 04:42:35 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1d5 | 05/08/2022 | 04:42:43 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1d6 | 05/08/2022 | 04:44:10 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1d7 | 05/10/2022 | 10:21:22 AM UTC | System Event | OEM System boot event | Asserted
+ 1d8 | 05/10/2022 | 10:21:52 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1d9 | 05/10/2022 | 10:21:52 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1da | 05/10/2022 | 10:21:57 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1db | 05/10/2022 | 10:21:58 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1dc | 05/10/2022 | 10:22:08 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1dd | 05/10/2022 | 10:23:34 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1de | 05/10/2022 | 12:26:52 PM UTC | System Event | OEM System boot event | Asserted
+ 1df | 05/10/2022 | 12:27:29 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1e0 | 05/10/2022 | 12:28:55 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1e1 | 05/10/2022 | 12:46:42 PM UTC | System Event | OEM System boot event | Asserted
+ 1e2 | 05/10/2022 | 12:47:19 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1e3 | 05/10/2022 | 12:48:45 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1e4 | 05/10/2022 | 06:24:05 PM UTC | System Event | OEM System boot event | Asserted
+ 1e5 | 05/10/2022 | 06:24:42 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1e6 | 05/10/2022 | 06:26:07 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1e7 | 05/20/2022 | 02:42:40 PM UTC | System Event | OEM System boot event | Asserted
+ 1e8 | 05/20/2022 | 02:43:10 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1e9 | 05/20/2022 | 02:43:10 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1ea | 05/20/2022 | 02:43:26 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1eb | 05/20/2022 | 02:43:27 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1ec | 05/20/2022 | 02:43:36 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1ed | 05/20/2022 | 02:45:02 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1ee | 05/20/2022 | 04:33:18 PM UTC | System Event | OEM System boot event | Asserted
+ 1ef | 05/20/2022 | 04:33:55 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1f0 | 05/20/2022 | 04:35:21 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1f1 | 07/03/2022 | 05:18:40 AM UTC | System Event | OEM System boot event | Asserted
+ 1f2 | 07/03/2022 | 05:19:10 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1f3 | 07/03/2022 | 05:19:10 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1f4 | 07/03/2022 | 05:20:21 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 1f5 | 07/03/2022 | 05:20:22 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 1f6 | 07/03/2022 | 05:20:34 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1f7 | 07/03/2022 | 05:22:02 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1f8 | 07/03/2022 | 10:22:26 AM UTC | System Event | OEM System boot event | Asserted
+ 1f9 | 07/03/2022 | 10:23:03 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 1fa | 07/03/2022 | 10:24:29 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 1fb | 07/19/2022 | 04:35:02 AM UTC | Unknown |  | Asserted
+ 1fc | 07/19/2022 | 05:11:06 AM UTC | Unknown |  | Asserted
+ 1fd | 07/19/2022 | 05:16:44 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 1fe | 07/19/2022 | 05:16:46 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 1ff | 07/19/2022 | 05:16:46 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 200 | 07/19/2022 | 05:16:47 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 201 | 07/19/2022 | 05:16:48 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 202 | 07/19/2022 | 05:16:48 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 203 | 07/19/2022 | 05:16:49 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 204 | 07/19/2022 | 05:16:49 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 205 | 07/19/2022 | 05:16:50 AM UTC | Drive Slot / Bay #0x0b | Drive Present | Asserted
+ 206 | 07/19/2022 | 05:16:59 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+ 207 | 07/19/2022 | 05:16:59 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+ 208 | 07/19/2022 | 05:17:01 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 209 | 07/19/2022 | 05:17:17 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 20a | 07/19/2022 | 05:18:46 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 20b | 07/19/2022 | 05:18:46 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 20c | 07/19/2022 | 05:18:54 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 20d | 07/19/2022 | 05:18:54 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 20e | 07/19/2022 | 07:04:33 AM UTC | System Event | OEM System boot event | Asserted
+ 20f | 07/19/2022 | 07:05:04 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 210 | 07/19/2022 | 07:05:04 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 211 | 07/19/2022 | 07:05:29 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 212 | 07/19/2022 | 07:05:31 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 213 | 07/19/2022 | 07:07:08 AM UTC | System Event | OEM System boot event | Asserted
+ 214 | 07/19/2022 | 07:13:22 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 215 | 07/19/2022 | 07:14:57 AM UTC | System Event | OEM System boot event | Asserted
+ 216 | 07/19/2022 | 07:15:23 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 217 | 07/19/2022 | 07:16:56 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 218 | 07/19/2022 | 07:43:02 AM UTC | System Event | OEM System boot event | Asserted
+ 219 | 07/19/2022 | 07:43:42 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 21a | 07/19/2022 | 07:45:09 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 21b | 07/22/2022 | 08:41:36 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 21c | 07/23/2022 | 02:08:59 AM UTC | System Event | OEM System boot event | Asserted
+ 21d | 07/23/2022 | 02:09:15 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 21e | 07/23/2022 | 02:09:16 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 21f | 07/23/2022 | 02:09:22 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 220 | 07/23/2022 | 02:09:23 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 221 | 07/23/2022 | 02:09:34 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 222 | 07/23/2022 | 02:10:59 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 223 | 09/21/2022 | 04:36:00 AM UTC | System Event | OEM System boot event | Asserted
+ 224 | 09/21/2022 | 04:36:29 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 225 | 09/21/2022 | 04:36:29 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 226 | 09/21/2022 | 04:38:03 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 227 | 09/21/2022 | 04:38:04 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 228 | 09/21/2022 | 04:38:15 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 229 | 09/21/2022 | 04:39:41 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 22a | 10/03/2022 | 01:29:01 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 22b | 10/03/2022 | 01:29:23 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 22c | 10/03/2022 | 01:29:23 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 22d | 10/03/2022 | 01:29:24 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 22e | 10/03/2022 | 01:29:25 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 22f | 10/03/2022 | 01:29:26 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 230 | 10/03/2022 | 01:29:26 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 231 | 10/03/2022 | 01:29:27 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 232 | 10/03/2022 | 01:29:28 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 233 | 10/03/2022 | 01:29:28 AM UTC | Drive Slot / Bay #0x0b | Drive Present | Asserted
+ 234 | 10/03/2022 | 01:29:37 AM UTC | Drive Slot / Bay #0x19 | Drive Present | Asserted
+ 235 | 10/03/2022 | 01:29:38 AM UTC | Drive Slot / Bay #0x1a | Drive Present | Asserted
+ 236 | 10/03/2022 | 01:29:41 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 237 | 10/03/2022 | 01:29:56 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 238 | 10/03/2022 | 01:30:39 AM UTC | System Event | OEM System boot event | Asserted
+ 239 | 10/03/2022 | 01:30:56 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 23a | 10/03/2022 | 01:30:56 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 23b | 10/03/2022 | 02:53:42 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 23c | 10/03/2022 | 02:53:43 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 23d | 10/03/2022 | 02:53:53 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 23e | 10/03/2022 | 02:54:09 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 23f | 10/03/2022 | 02:54:09 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 240 | 10/03/2022 | 02:54:19 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 241 | 10/03/2022 | 02:54:19 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 242 | 10/03/2022 | 02:55:28 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 243 | 10/04/2022 | 06:50:31 AM UTC | System Event | OEM System boot event | Asserted
+ 244 | 10/04/2022 | 06:51:10 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 245 | 10/04/2022 | 06:52:35 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 246 | 10/04/2022 | 06:45:24 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 247 | 10/04/2022 | 06:48:55 PM UTC | System Event | OEM System boot event | Asserted
+ 248 | 10/04/2022 | 06:49:12 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 249 | 10/04/2022 | 06:49:12 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 24a | 10/04/2022 | 06:49:15 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 24b | 10/04/2022 | 06:49:16 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 24c | 10/04/2022 | 06:49:28 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 24d | 10/04/2022 | 07:03:04 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 24e | 10/04/2022 | 07:04:46 PM UTC | System Event | OEM System boot event | Asserted
+ 24f | 10/04/2022 | 07:05:13 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 250 | 10/04/2022 | 07:06:40 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 251 | 10/04/2022 | 09:00:20 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 252 | 10/04/2022 | 09:06:18 PM UTC | System Event | OEM System boot event | Asserted
+ 253 | 10/04/2022 | 09:06:45 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 254 | 10/04/2022 | 09:09:26 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 255 | 10/04/2022 | 09:11:09 PM UTC | System Event | OEM System boot event | Asserted
+ 256 | 10/04/2022 | 09:12:49 PM UTC | System Event | OEM System boot event | Asserted
+ 257 | 10/04/2022 | 09:13:17 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 258 | 10/04/2022 | 09:14:44 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 259 | 10/09/2022 | 02:24:56 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 25a | 10/09/2022 | 02:36:34 PM UTC | System Event | OEM System boot event | Asserted
+ 25b | 10/09/2022 | 02:38:14 PM UTC | System Event | OEM System boot event | Asserted
+ 25c | 10/09/2022 | 02:38:31 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 25d | 10/09/2022 | 02:38:31 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 25e | 10/09/2022 | 02:38:39 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 25f | 10/09/2022 | 02:38:40 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 260 | 10/09/2022 | 02:38:52 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 261 | 10/09/2022 | 06:37:07 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 262 | 10/09/2022 | 06:39:12 PM UTC | System Event | OEM System boot event | Asserted
+ 263 | 10/09/2022 | 06:41:16 PM UTC | System Event | OEM System boot event | Asserted
+ 264 | 10/09/2022 | 06:41:46 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 265 | 10/09/2022 | 06:43:16 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 266 | 10/17/2022 | 04:00:38 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 267 | 10/17/2022 | 04:45:50 AM UTC | System Event | OEM System boot event | Asserted
+ 268 | 10/17/2022 | 04:47:53 AM UTC | System Event | OEM System boot event | Asserted
+ 269 | 10/17/2022 | 04:48:13 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 26a | 10/17/2022 | 04:48:13 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 26b | 10/17/2022 | 04:48:24 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 26c | 10/17/2022 | 04:48:26 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 26d | 10/17/2022 | 04:48:39 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 26e | 10/17/2022 | 06:00:38 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 26f | 10/17/2022 | 06:02:13 AM UTC | System Event | OEM System boot event | Asserted
+ 270 | 10/17/2022 | 06:03:45 AM UTC | System Event | OEM System boot event | Asserted
+ 271 | 10/17/2022 | 06:04:13 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 272 | 10/17/2022 | 06:05:42 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 273 | 10/17/2022 | 07:27:05 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 274 | 10/17/2022 | 07:46:08 AM UTC | System Event | OEM System boot event | Asserted
+ 275 | 10/17/2022 | 07:47:40 AM UTC | System Event | OEM System boot event | Asserted
+ 276 | 10/17/2022 | 07:48:06 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 277 | 10/17/2022 | 07:49:30 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 278 | 11/30/2022 | 08:45:09 AM UTC | System Event | OEM System boot event | Asserted
+ 279 | 11/30/2022 | 08:45:39 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 27a | 11/30/2022 | 08:45:39 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 27b | 11/30/2022 | 08:46:52 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 27c | 11/30/2022 | 08:46:53 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 27d | 11/30/2022 | 08:47:02 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 27e | 11/30/2022 | 08:48:26 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 27f | 12/23/2022 | 04:55:04 PM UTC | System Event | OEM System boot event | Asserted
+ 280 | 12/23/2022 | 04:55:34 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 281 | 12/23/2022 | 04:55:34 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 282 | 12/23/2022 | 04:56:08 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 283 | 12/23/2022 | 04:56:09 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 284 | 12/23/2022 | 04:56:19 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 285 | 12/23/2022 | 04:57:43 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 286 | 12/23/2022 | 06:07:40 PM UTC | System Event | OEM System boot event | Asserted
+ 287 | 12/23/2022 | 06:08:17 PM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 288 | 12/23/2022 | 06:09:42 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 289 | 12/24/2022 | 06:26:17 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 28a | 12/24/2022 | 06:26:39 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 28b | 12/24/2022 | 06:26:39 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 28c | 12/24/2022 | 08:53:07 AM UTC | System Event | OEM System boot event | Asserted
+ 28d | 12/24/2022 | 08:54:40 AM UTC | System Event | OEM System boot event | Asserted
+ 28e | 12/24/2022 | 08:54:57 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 28f | 12/24/2022 | 08:54:57 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 290 | 12/24/2022 | 09:17:45 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 291 | 12/24/2022 | 09:17:46 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 292 | 12/24/2022 | 09:17:57 AM UTC | System Firmwares | Unrecoverable video controller failure | Asserted
+ 293 | 12/24/2022 | 09:18:28 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 294 | 12/24/2022 | 09:18:28 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 295 | 12/24/2022 | 09:20:31 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 296 | 12/24/2022 | 09:22:07 AM UTC | System Event | OEM System boot event | Asserted
+ 297 | 12/24/2022 | 09:23:40 AM UTC | System Event | OEM System boot event | Asserted
+ 298 | 12/24/2022 | 09:25:51 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 299 | 12/24/2022 | 09:40:26 AM UTC | System Event | OEM System boot event | Asserted
+ 29a | 12/24/2022 | 09:42:30 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 29b | 12/24/2022 | 05:12:40 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 29c | 12/31/2022 | 01:22:28 AM UTC | System Event | OEM System boot event | Asserted
+ 29d | 12/31/2022 | 01:24:00 AM UTC | System Event | OEM System boot event | Asserted
+ 29e | 12/31/2022 | 01:24:19 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 29f | 12/31/2022 | 01:24:19 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a0 | 12/31/2022 | 01:24:34 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a1 | 12/31/2022 | 01:24:36 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2a2 | 12/31/2022 | 01:51:45 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2a3 | 12/31/2022 | 02:49:36 AM UTC | System Event | OEM System boot event | Asserted
+ 2a4 | 12/31/2022 | 02:50:07 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2a5 | 12/31/2022 | 02:50:07 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a6 | 12/31/2022 | 02:50:04 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2a7 | 12/31/2022 | 02:50:06 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2a8 | 12/31/2022 | 02:51:43 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2a9 | 12/31/2022 | 03:15:35 AM UTC | System Event | OEM System boot event | Asserted
+ 2aa | 12/31/2022 | 03:17:42 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ab | 01/02/2023 | 02:28:21 AM UTC | System Event | OEM System boot event | Asserted
+ 2ac | 01/02/2023 | 02:28:52 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2ad | 01/02/2023 | 02:28:52 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2ae | 01/02/2023 | 02:28:56 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2af | 01/02/2023 | 02:28:57 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2b0 | 01/02/2023 | 02:30:31 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2b1 | 01/12/2023 | 08:59:56 PM UTC | System Event | OEM System boot event | Asserted
+ 2b2 | 01/12/2023 | 09:00:26 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2b3 | 01/12/2023 | 09:00:27 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2b4 | 01/12/2023 | 09:00:41 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2b5 | 01/12/2023 | 09:00:43 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2b6 | 01/12/2023 | 09:02:22 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2b7 | 01/12/2023 | 11:34:44 PM UTC | System Event | OEM System boot event | Asserted
+ 2b8 | 01/12/2023 | 11:36:44 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2b9 | 03/14/2023 | 04:56:59 AM UTC | System Event | OEM System boot event | Asserted
+ 2ba | 03/14/2023 | 04:57:30 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2bb | 03/14/2023 | 04:57:30 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2bc | 03/14/2023 | 04:59:02 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2bd | 03/14/2023 | 04:59:03 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2be | 03/14/2023 | 05:00:38 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2bf | 03/17/2023 | 03:57:26 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 2c0 | 03/17/2023 | 03:59:41 AM UTC | System Event | OEM System boot event | Asserted
+ 2c1 | 03/17/2023 | 04:01:14 AM UTC | System Event | OEM System boot event | Asserted
+ 2c2 | 03/17/2023 | 04:01:32 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2c3 | 03/17/2023 | 04:01:32 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2c4 | 03/17/2023 | 04:01:38 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2c5 | 03/17/2023 | 04:01:41 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2c6 | 03/17/2023 | 04:09:57 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2c7 | 03/17/2023 | 05:00:26 AM UTC | System Event | OEM System boot event | Asserted
+ 2c8 | 03/17/2023 | 05:02:35 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2c9 | 03/18/2023 | 06:15:26 PM UTC | System Event | OEM System boot event | Asserted
+ 2ca | 03/18/2023 | 06:17:28 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2cb | 03/20/2023 | 12:53:11 AM UTC | System Event | OEM System boot event | Asserted
+ 2cc | 03/20/2023 | 12:53:41 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2cd | 03/20/2023 | 12:53:41 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2ce | 03/20/2023 | 12:53:46 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2cf | 03/20/2023 | 12:53:47 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2d0 | 03/20/2023 | 12:55:34 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2d1 | 03/25/2023 | 05:52:22 PM UTC | System Event | OEM System boot event | Asserted
+ 2d2 | 03/25/2023 | 05:52:52 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2d3 | 03/25/2023 | 05:52:52 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2d4 | 03/25/2023 | 05:53:02 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2d5 | 03/25/2023 | 05:53:03 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2d6 | 03/25/2023 | 05:54:49 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2d7 | 03/27/2023 | 06:40:57 PM UTC | OEM record c1 | 000000 | 06030a000301
+ 2d8 | 03/27/2023 | 06:41:04 PM UTC | OEM record c1 | 000000 | 06030a000301
+ 2d9 | 03/27/2023 | 06:46:56 PM UTC | System Event | OEM System boot event | Asserted
+ 2da | 03/27/2023 | 06:47:27 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2db | 03/27/2023 | 06:47:27 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2dc | 03/27/2023 | 06:47:31 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2dd | 03/27/2023 | 06:47:33 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2de | 03/27/2023 | 06:49:22 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2df | 03/27/2023 | 09:50:25 PM UTC | System Event | OEM System boot event | Asserted
+ 2e0 | 03/27/2023 | 09:52:44 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e1 | 03/27/2023 | 11:31:12 PM UTC | System Event | OEM System boot event | Asserted
+ 2e2 | 03/27/2023 | 11:33:29 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e3 | 03/28/2023 | 05:24:47 AM UTC | System Event | OEM System boot event | Asserted
+ 2e4 | 03/28/2023 | 05:27:01 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2e5 | 04/01/2023 | 09:10:42 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 2e6 | 04/01/2023 | 09:12:19 PM UTC | System Event | OEM System boot event | Asserted
+ 2e7 | 04/01/2023 | 09:13:51 PM UTC | System Event | OEM System boot event | Asserted
+ 2e8 | 04/01/2023 | 09:14:10 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2e9 | 04/01/2023 | 09:14:10 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2ea | 04/01/2023 | 09:14:20 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2eb | 04/01/2023 | 09:14:21 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2ec | 04/01/2023 | 09:16:12 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2ed | 04/02/2023 | 06:32:13 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 2ee | 04/02/2023 | 06:33:50 PM UTC | System Event | OEM System boot event | Asserted
+ 2ef | 04/02/2023 | 06:35:21 PM UTC | System Event | OEM System boot event | Asserted
+ 2f0 | 04/02/2023 | 06:37:27 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2f1 | 04/02/2023 | 11:38:41 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 2f2 | 04/02/2023 | 11:40:18 PM UTC | System Event | OEM System boot event | Asserted
+ 2f3 | 04/02/2023 | 11:41:50 PM UTC | System Event | OEM System boot event | Asserted
+ 2f4 | 04/02/2023 | 11:43:56 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2f5 | 04/25/2023 | 07:44:18 AM UTC | System Event | OEM System boot event | Asserted
+ 2f6 | 04/25/2023 | 07:44:49 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2f7 | 04/25/2023 | 07:44:49 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2f8 | 04/25/2023 | 07:45:24 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 2f9 | 04/25/2023 | 07:45:26 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 2fa | 04/25/2023 | 07:47:13 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 2fb | 06/04/2023 | 06:31:03 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 2fc | 06/04/2023 | 06:31:24 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 2fd | 06/04/2023 | 06:31:24 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 2fe | 06/04/2023 | 06:31:45 PM UTC | Event Logging Disabled #0xe1 | Log almost full | Asserted
+ 2ff | 06/04/2023 | 06:31:45 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 300 | 06/04/2023 | 06:31:45 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 301 | 06/04/2023 | 11:32:56 PM UTC | System Event | OEM System boot event | Asserted
+ 302 | 06/04/2023 | 11:34:28 PM UTC | System Event | OEM System boot event | Asserted
+ 303 | 06/04/2023 | 11:34:44 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 304 | 06/04/2023 | 11:34:44 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 305 | 06/06/2023 | 04:46:45 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 306 | 06/06/2023 | 04:46:46 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 307 | 06/06/2023 | 04:47:24 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 308 | 06/06/2023 | 04:47:24 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 309 | 06/06/2023 | 04:47:24 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 30a | 06/06/2023 | 04:48:20 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30b | 06/06/2023 | 07:51:58 AM UTC | System Event | OEM System boot event | Asserted
+ 30c | 06/06/2023 | 07:54:11 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 30d | 07/15/2023 | 11:05:15 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 30e | 07/15/2023 | 11:05:36 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 30f | 07/15/2023 | 11:05:36 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 310 | 07/15/2023 | 11:08:38 PM UTC | System Event | OEM System boot event | Asserted
+ 311 | 07/15/2023 | 11:10:11 PM UTC | System Event | OEM System boot event | Asserted
+ 312 | 07/15/2023 | 11:10:27 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 313 | 07/15/2023 | 11:10:27 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 314 | 07/15/2023 | 11:31:44 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 315 | 07/15/2023 | 11:31:45 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 316 | 07/15/2023 | 11:32:26 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 317 | 07/15/2023 | 11:32:26 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 318 | 07/15/2023 | 11:32:26 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 319 | 07/15/2023 | 11:33:29 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 31a | 07/29/2023 | 09:40:51 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 31b | 07/29/2023 | 09:42:11 PM UTC | System Event | OEM System boot event | Asserted
+ 31c | 07/29/2023 | 09:43:43 PM UTC | System Event | OEM System boot event | Asserted
+ 31d | 07/29/2023 | 09:43:59 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 31e | 07/29/2023 | 09:43:59 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 31f | 07/29/2023 | 11:59:26 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 320 | 07/29/2023 | 11:59:26 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 321 | 07/29/2023 | 11:59:58 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 322 | 07/29/2023 | 11:59:58 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 323 | 07/30/2023 | 12:00:02 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 324 | 07/30/2023 | 12:00:02 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 325 | 07/30/2023 | 12:00:02 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 326 | 07/30/2023 | 12:01:13 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 327 | 07/30/2023 | 12:38:54 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 328 | 07/30/2023 | 12:42:18 AM UTC | System Event | OEM System boot event | Asserted
+ 329 | 07/30/2023 | 12:43:50 AM UTC | System Event | OEM System boot event | Asserted
+ 32a | 07/30/2023 | 12:45:48 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 32b | 08/01/2023 | 04:19:05 AM UTC | System Event | OEM System boot event | Asserted
+ 32c | 08/01/2023 | 04:19:35 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 32d | 08/01/2023 | 04:19:35 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 32e | 08/01/2023 | 04:19:40 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 32f | 08/01/2023 | 04:19:41 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 330 | 08/01/2023 | 04:21:26 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 331 | 08/01/2023 | 06:22:03 PM UTC | System Event | OEM System boot event | Asserted
+ 332 | 08/01/2023 | 06:24:38 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 333 | 09/29/2023 | 11:32:59 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 334 | 09/29/2023 | 11:33:20 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 335 | 09/29/2023 | 11:33:20 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 336 | 09/29/2023 | 05:28:01 PM UTC | System Event | OEM System boot event | Asserted
+ 337 | 09/29/2023 | 05:29:33 PM UTC | System Event | OEM System boot event | Asserted
+ 338 | 09/29/2023 | 05:29:49 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 339 | 09/29/2023 | 05:29:50 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 33a | 09/29/2023 | 06:08:45 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 33b | 09/29/2023 | 06:08:46 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 33c | 09/29/2023 | 06:09:25 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 33d | 09/29/2023 | 06:09:25 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 33e | 09/29/2023 | 06:09:25 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 33f | 09/29/2023 | 06:10:52 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 340 | 09/30/2023 | 04:06:31 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 341 | 09/30/2023 | 04:06:53 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 342 | 09/30/2023 | 04:06:53 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 343 | 09/30/2023 | 07:18:30 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 344 | 09/30/2023 | 07:18:30 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 345 | 09/30/2023 | 07:18:31 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 346 | 09/30/2023 | 07:18:32 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 347 | 09/30/2023 | 07:18:32 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 348 | 09/30/2023 | 07:18:34 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 349 | 09/30/2023 | 07:18:34 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 34a | 09/30/2023 | 07:18:35 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 34b | 09/30/2023 | 07:18:50 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 34c | 09/30/2023 | 07:19:04 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 34d | 09/30/2023 | 07:20:00 AM UTC | System Event | OEM System boot event | Asserted
+ 34e | 09/30/2023 | 07:21:33 AM UTC | System Event | OEM System boot event | Asserted
+ 34f | 09/30/2023 | 07:21:51 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 350 | 09/30/2023 | 07:21:51 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 351 | 09/30/2023 | 10:06:17 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 352 | 09/30/2023 | 10:06:18 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 353 | 09/30/2023 | 10:06:58 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 354 | 09/30/2023 | 10:06:58 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 355 | 09/30/2023 | 10:12:23 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 356 | 09/30/2023 | 10:44:51 PM UTC | System Event | OEM System boot event | Asserted
+ 357 | 09/30/2023 | 10:47:03 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 358 | 09/30/2023 | 11:17:06 PM UTC | System Event | OEM System boot event | Asserted
+ 359 | 09/30/2023 | 11:22:05 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35a | 10/01/2023 | 12:26:12 AM UTC | System Event | OEM System boot event | Asserted
+ 35b | 10/01/2023 | 12:31:09 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35c | 10/01/2023 | 12:40:40 AM UTC | System Event | OEM System boot event | Asserted
+ 35d | 10/01/2023 | 12:45:38 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 35e | 10/01/2023 | 01:22:51 AM UTC | System Event | OEM System boot event | Asserted
+ 35f | 10/01/2023 | 01:27:45 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 360 | 10/01/2023 | 01:40:53 AM UTC | System Event | OEM System boot event | Asserted
+ 361 | 10/01/2023 | 01:45:46 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 362 | 10/01/2023 | 02:04:13 AM UTC | System Event | OEM System boot event | Asserted
+ 363 | 10/01/2023 | 02:09:09 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 364 | 10/01/2023 | 03:10:39 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 365 | 10/01/2023 | 03:12:49 AM UTC | System Event | OEM System boot event | Asserted
+ 366 | 10/01/2023 | 03:14:21 AM UTC | System Event | OEM System boot event | Asserted
+ 367 | 10/01/2023 | 03:18:59 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 368 | 10/01/2023 | 03:41:07 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 369 | 10/01/2023 | 03:49:59 AM UTC | System Event | OEM System boot event | Asserted
+ 36a | 10/01/2023 | 03:51:31 AM UTC | System Event | OEM System boot event | Asserted
+ 36b | 10/01/2023 | 03:56:06 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 36c | 10/01/2023 | 04:16:39 AM UTC | System Event | OEM System boot event | Asserted
+ 36d | 10/01/2023 | 04:21:38 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 36e | 10/01/2023 | 05:47:19 AM UTC | System Event | OEM System boot event | Asserted
+ 36f | 10/01/2023 | 05:51:57 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 370 | 10/01/2023 | 02:25:23 PM UTC | System Event | OEM System boot event | Asserted
+ 371 | 10/01/2023 | 02:31:08 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 372 | 10/01/2023 | 02:32:44 PM UTC | System Event | OEM System boot event | Asserted
+ 373 | 10/01/2023 | 02:37:32 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 374 | 10/16/2023 | 12:38:52 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 375 | 10/16/2023 | 12:39:14 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 376 | 10/16/2023 | 12:39:14 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 377 | 10/16/2023 | 12:39:15 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 378 | 10/16/2023 | 12:39:16 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 379 | 10/16/2023 | 12:39:17 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 37a | 10/16/2023 | 12:39:18 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 37b | 10/16/2023 | 12:39:19 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 37c | 10/16/2023 | 12:39:19 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 37d | 10/16/2023 | 12:39:33 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 37e | 10/16/2023 | 12:39:33 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 37f | 10/16/2023 | 12:39:46 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 380 | 10/16/2023 | 12:40:44 AM UTC | System Event | OEM System boot event | Asserted
+ 381 | 10/16/2023 | 12:41:01 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 382 | 10/16/2023 | 12:41:01 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 383 | 10/16/2023 | 12:57:29 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 384 | 10/16/2023 | 12:57:29 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 385 | 10/16/2023 | 12:57:46 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 386 | 10/16/2023 | 12:57:47 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 387 | 10/16/2023 | 12:57:47 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 388 | 10/16/2023 | 01:01:53 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 389 | 10/18/2023 | 12:06:46 PM UTC | System Event | OEM System boot event | Asserted
+ 38a | 10/18/2023 | 12:07:16 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 38b | 10/18/2023 | 12:07:16 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 38c | 10/18/2023 | 12:07:21 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 38d | 10/18/2023 | 12:07:22 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 38e | 10/18/2023 | 12:11:57 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 38f | 10/18/2023 | 01:09:00 PM UTC | System Event | OEM System boot event | Asserted
+ 390 | 10/18/2023 | 01:14:06 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 391 | 10/19/2023 | 03:15:49 PM UTC | System Event | OEM System boot event | Asserted
+ 392 | 10/19/2023 | 03:16:18 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 393 | 10/19/2023 | 03:16:18 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 394 | 10/19/2023 | 03:16:21 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 395 | 10/19/2023 | 03:16:22 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 396 | 10/19/2023 | 03:20:53 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 397 | 10/23/2023 | 10:06:44 PM UTC | System Event | OEM System boot event | Asserted
+ 398 | 10/23/2023 | 10:07:14 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 399 | 10/23/2023 | 10:07:14 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 39a | 10/23/2023 | 10:07:23 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 39b | 10/23/2023 | 10:07:24 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 39c | 10/23/2023 | 10:11:54 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 39d | 10/24/2023 | 02:18:53 PM UTC | System Event | OEM System boot event | Asserted
+ 39e | 10/24/2023 | 02:19:23 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 39f | 10/24/2023 | 02:19:23 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3a0 | 10/24/2023 | 02:19:26 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3a1 | 10/24/2023 | 02:19:27 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3a2 | 10/24/2023 | 02:23:57 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3a3 | 10/24/2023 | 02:48:35 PM UTC | System Event | OEM System boot event | Asserted
+ 3a4 | 10/24/2023 | 02:53:31 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3a5 | 12/01/2023 | 08:34:35 AM UTC | System Event | OEM System boot event | Asserted
+ 3a6 | 12/01/2023 | 08:35:05 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3a7 | 12/01/2023 | 08:35:05 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3a8 | 12/01/2023 | 08:36:07 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3a9 | 12/01/2023 | 08:36:08 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3aa | 12/01/2023 | 08:39:01 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3ab | 12/01/2023 | 08:41:24 AM UTC | System Event | OEM System boot event | Asserted
+ 3ac | 12/01/2023 | 08:46:11 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ad | 12/16/2023 | 10:11:13 AM UTC | System Event | OEM System boot event | Asserted
+ 3ae | 12/16/2023 | 10:11:43 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3af | 12/16/2023 | 10:11:43 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3b0 | 12/16/2023 | 10:12:09 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3b1 | 12/16/2023 | 10:12:10 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3b2 | 12/16/2023 | 10:16:54 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3b3 | 01/02/2024 | 02:08:48 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3b4 | 01/02/2024 | 02:10:59 AM UTC | System Event | OEM System boot event | Asserted
+ 3b5 | 01/02/2024 | 02:11:16 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3b6 | 01/02/2024 | 02:11:16 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3b7 | 01/02/2024 | 02:11:45 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3b8 | 01/02/2024 | 02:11:46 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3b9 | 01/02/2024 | 02:16:23 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ba | 05/06/2024 | 07:39:34 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3bb | 06/21/2024 | 10:16:07 PM UTC | System Event | OEM System boot event | Asserted
+ 3bc | 06/21/2024 | 10:16:24 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3bd | 06/21/2024 | 10:16:24 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3be | 06/21/2024 | 10:21:25 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3bf | 06/21/2024 | 10:21:26 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3c0 | 06/21/2024 | 10:23:16 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3c1 | 06/21/2024 | 11:25:10 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3c2 | 06/22/2024 | 04:53:20 PM UTC | System Event | OEM System boot event | Asserted
+ 3c3 | 06/22/2024 | 04:53:37 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3c4 | 06/22/2024 | 04:53:38 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3c5 | 06/22/2024 | 04:53:03 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3c6 | 06/22/2024 | 04:53:04 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3c7 | 06/22/2024 | 04:57:30 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3c8 | 06/22/2024 | 11:27:55 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3c9 | 06/22/2024 | 11:51:50 PM UTC | System Event | OEM System boot event | Asserted
+ 3ca | 06/22/2024 | 11:56:21 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3cb | 06/23/2024 | 02:14:57 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3cc | 06/23/2024 | 04:37:31 AM UTC | System Event | OEM System boot event | Asserted
+ 3cd | 06/23/2024 | 04:39:33 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ce | 06/23/2024 | 04:40:02 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3cf | 06/23/2024 | 05:48:24 PM UTC | System Event | OEM System boot event | Asserted
+ 3d0 | 06/23/2024 | 05:51:33 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3d1 | 06/23/2024 | 06:09:47 PM UTC | System Event | OEM System boot event | Asserted
+ 3d2 | 06/23/2024 | 06:12:02 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3d3 | 06/23/2024 | 06:33:37 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3d4 | 06/23/2024 | 11:26:07 PM UTC | System Event | OEM System boot event | Asserted
+ 3d5 | 06/23/2024 | 11:28:01 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3d6 | 06/23/2024 | 11:32:41 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3d7 | 06/23/2024 | 11:33:03 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 3d8 | 06/23/2024 | 11:33:04 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 3d9 | 06/23/2024 | 11:33:04 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 3da | 06/23/2024 | 11:33:06 PM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 3db | 06/23/2024 | 11:33:07 PM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 3dc | 06/23/2024 | 11:33:07 PM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 3dd | 06/23/2024 | 11:33:08 PM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 3de | 06/23/2024 | 11:33:21 PM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 3df | 06/23/2024 | 11:33:22 PM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 3e0 | 06/23/2024 | 11:33:35 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 3e1 | 06/23/2024 | 11:34:05 PM UTC | System Event | OEM System boot event | Asserted
+ 3e2 | 06/23/2024 | 11:34:24 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3e3 | 06/23/2024 | 11:34:24 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3e4 | 10/15/2024 | 03:12:40 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3e5 | 10/15/2024 | 03:12:42 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3e6 | 10/15/2024 | 03:13:21 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 3e7 | 10/15/2024 | 03:13:29 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 3e8 | 10/15/2024 | 03:13:29 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 3e9 | 10/15/2024 | 03:13:29 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 3ea | 10/15/2024 | 03:13:29 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 3eb | 10/15/2024 | 03:14:33 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3ec | 10/15/2024 | 03:32:08 PM UTC | System Event | OEM System boot event | Asserted
+ 3ed | 10/15/2024 | 03:32:39 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3ee | 10/15/2024 | 03:32:39 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3ef | 10/15/2024 | 03:31:34 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 3f0 | 10/15/2024 | 03:31:35 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 3f1 | 10/15/2024 | 03:33:18 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3f2 | 10/15/2024 | 03:40:37 PM UTC | System Event | OEM System boot event | Asserted
+ 3f3 | 10/15/2024 | 03:42:47 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3f4 | 10/15/2024 | 04:04:20 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3f5 | 10/15/2024 | 04:08:36 PM UTC | System Event | OEM System boot event | Asserted
+ 3f6 | 10/15/2024 | 04:13:20 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 3f7 | 10/23/2024 | 09:07:25 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 3f8 | 10/23/2024 | 09:07:47 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 3f9 | 10/23/2024 | 09:07:47 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 3fa | 10/23/2024 | 09:07:48 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 3fb | 10/23/2024 | 09:07:50 PM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 3fc | 10/23/2024 | 09:07:50 PM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 3fd | 10/23/2024 | 09:07:51 PM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 3fe | 10/23/2024 | 09:07:52 PM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 3ff | 10/23/2024 | 09:08:05 PM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 400 | 10/23/2024 | 09:08:06 PM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 401 | 10/23/2024 | 09:08:19 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 402 | 10/23/2024 | 09:08:44 PM UTC | System Event | OEM System boot event | Asserted
+ 403 | 10/23/2024 | 09:09:04 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 404 | 10/23/2024 | 09:09:04 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 405 | 10/23/2024 | 09:11:13 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 406 | 10/23/2024 | 09:11:14 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 407 | 10/23/2024 | 09:11:57 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 408 | 10/23/2024 | 09:12:06 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 409 | 10/23/2024 | 09:12:06 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 40a | 10/23/2024 | 09:12:06 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 40b | 10/23/2024 | 09:12:06 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 40c | 10/23/2024 | 09:16:19 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 40d | 10/26/2024 | 04:06:02 AM UTC | Power Unit #0xff | Power off/down | Asserted
+ 40e | 10/26/2024 | 04:06:24 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 40f | 10/26/2024 | 04:06:25 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 410 | 10/26/2024 | 04:06:25 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 411 | 10/26/2024 | 04:06:27 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 412 | 10/26/2024 | 04:06:28 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 413 | 10/26/2024 | 04:06:28 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 414 | 10/26/2024 | 04:06:29 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 415 | 10/26/2024 | 04:06:42 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 416 | 10/26/2024 | 04:06:43 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 417 | 10/26/2024 | 04:06:56 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 418 | 10/26/2024 | 04:07:22 AM UTC | System Event | OEM System boot event | Asserted
+ 419 | 10/26/2024 | 04:07:42 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 41a | 10/26/2024 | 04:07:42 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 41b | 10/27/2024 | 05:49:07 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 41c | 10/27/2024 | 05:49:09 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 41d | 10/27/2024 | 05:49:51 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 41e | 10/27/2024 | 05:50:00 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 41f | 10/27/2024 | 05:50:00 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 420 | 10/27/2024 | 05:50:00 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 421 | 10/27/2024 | 05:50:00 PM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 422 | 10/27/2024 | 05:53:36 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 423 | 11/24/2024 | 09:46:19 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 424 | 11/24/2024 | 09:46:40 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 425 | 11/24/2024 | 09:46:40 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 426 | 11/24/2024 | 09:47:02 PM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 427 | 11/24/2024 | 09:47:03 PM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 428 | 11/24/2024 | 09:47:03 PM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 429 | 11/24/2024 | 09:47:04 PM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 42a | 11/24/2024 | 09:47:04 PM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 42b | 11/24/2024 | 09:47:05 PM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 42c | 11/24/2024 | 09:47:06 PM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 42d | 11/24/2024 | 09:47:06 PM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 42e | 11/24/2024 | 09:47:07 PM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 42f | 11/24/2024 | 09:47:37 PM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 430 | 11/24/2024 | 09:48:31 PM UTC | System Event | OEM System boot event | Asserted
+ 431 | 11/24/2024 | 09:48:50 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 432 | 11/24/2024 | 09:48:50 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 433 | 11/24/2024 | 09:53:44 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 434 | 11/24/2024 | 09:53:46 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 435 | 11/24/2024 | 09:54:13 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 436 | 11/24/2024 | 09:54:13 PM UTC | Power Supply #0xe6 | Power Supply AC lost | Asserted
+ 437 | 11/24/2024 | 09:54:13 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 438 | 11/24/2024 | 09:58:11 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 439 | 11/27/2024 | 04:16:09 AM UTC | Power Supply #0xe6 | Power Supply AC lost | Deasserted
+ 43a | 11/27/2024 | 04:16:11 AM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 43b | 11/27/2024 | 04:16:15 AM UTC | Processor #0xe4 | Throttled | Asserted
+ 43c | 11/27/2024 | 05:00:07 AM UTC | Version Change |  | Asserted
+ 43d | 11/27/2024 | 05:00:12 AM UTC | Processor #0xe4 | Presence detected | Asserted
+ 43e | 11/27/2024 | 05:00:12 AM UTC | Processor #0xe5 | Presence detected | Asserted
+ 43f | 11/27/2024 | 05:01:08 AM UTC | Unknown |  | Asserted
+ 440 | 11/27/2024 | 05:07:13 AM UTC | Unknown |  | Asserted
+ 441 | 11/27/2024 | 05:07:51 AM UTC | Power Unit #0xff | Power off/down | Deasserted
+ 442 | 11/27/2024 | 05:07:52 AM UTC | Drive Slot / Bay #0x02 | Drive Present | Asserted
+ 443 | 11/27/2024 | 05:07:53 AM UTC | Drive Slot / Bay #0x04 | Drive Present | Asserted
+ 444 | 11/27/2024 | 05:07:54 AM UTC | Drive Slot / Bay #0x05 | Drive Present | Asserted
+ 445 | 11/27/2024 | 05:07:54 AM UTC | Drive Slot / Bay #0x06 | Drive Present | Asserted
+ 446 | 11/27/2024 | 05:07:55 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 447 | 11/27/2024 | 05:07:56 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 448 | 11/27/2024 | 05:07:56 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Asserted
+ 449 | 11/27/2024 | 05:07:57 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Asserted
+ 44a | 11/27/2024 | 05:08:09 AM UTC | Drive Slot / Bay #0x03 | Drive Present | Asserted
+ 44b | 11/27/2024 | 05:08:47 AM UTC | System Event | OEM System boot event | Asserted
+ 44c | 11/27/2024 | 05:09:00 AM UTC | Drive Slot / Bay #0x01 | Drive Present | Asserted
+ 44d | 11/27/2024 | 05:09:06 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 44e | 11/27/2024 | 05:09:06 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 44f | 11/27/2024 | 05:09:10 AM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 450 | 11/27/2024 | 05:09:13 AM UTC | System Event | Timestamp Clock Sync | Asserted
+ 451 | 11/27/2024 | 05:10:21 AM UTC | System Event | OEM System boot event | Asserted
+ 452 | 11/27/2024 | 05:11:53 AM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 453 | 11/27/2024 | 05:11:53 AM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 454 | 11/27/2024 | 05:11:53 AM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 455 | 11/27/2024 | 05:15:17 AM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted
+ 456 | 11/28/2024 | 03:00:00 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Deasserted
+ 457 | 11/28/2024 | 03:00:02 AM UTC | Drive Slot / Bay #0x0a | Drive Present | Deasserted
+ 458 | 11/28/2024 | 03:00:19 AM UTC | Drive Slot / Bay #0x09 | Drive Present | Deasserted
+ 459 | 11/28/2024 | 03:01:25 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Deasserted
+ 45a | 11/28/2024 | 03:02:31 AM UTC | Drive Slot / Bay #0x07 | Drive Present | Asserted
+ 45b | 11/28/2024 | 03:02:32 AM UTC | Drive Slot / Bay #0x08 | Drive Present | Asserted
+ 45c | 01/06/2025 | 07:41:15 AM UTC | OEM record c1 | 000000 | 06980a18008f
+ 45d | 02/18/2025 | 01:59:13 PM UTC | Power Unit #0xff | Power off/down | Asserted
+ 45e | 02/18/2025 | 02:00:34 PM UTC | System Event | OEM System boot event | Asserted
+ 45f | 02/18/2025 | 02:00:54 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 460 | 02/18/2025 | 02:00:54 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 461 | 02/20/2026 | 10:56:16 PM UTC | System Event #0xff | Timestamp Clock Sync | Asserted
+ 462 | 02/20/2026 | 10:56:19 PM UTC | System Event | Timestamp Clock Sync | Asserted
+ 463 | 02/20/2026 | 10:57:01 PM UTC | Processor #0xe5 | Presence detected | Asserted
+ 464 | 02/20/2026 | 10:57:14 PM UTC | Processor #0xe4 | Presence detected | Asserted
+ 465 | 02/20/2026 | 10:57:14 PM UTC | Power Supply #0xe6 | Presence detected | Asserted
+ 466 | 02/20/2026 | 10:57:14 PM UTC | Power Supply #0xe7 | Presence detected | Asserted
+ 467 | 02/20/2026 | 10:57:14 PM UTC | Power Supply #0xe7 | Power Supply AC lost | Asserted
+ 468 | 02/20/2026 | 11:01:17 PM UTC | OS Boot #0x22 | boot completed - device not specified | Asserted

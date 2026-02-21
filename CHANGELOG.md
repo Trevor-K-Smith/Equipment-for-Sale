@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.3 — 2026-02-21
+- Renumber servers so GPU servers are #7 (RTX A4000) and #8 (5x RTX A5000)
+- Add missing RTX A4000 GPU to Server #3 (node-2)
+- Add NIC rows (Intel X520-2 10GbE SFP+) and HBA rows (Broadcom SAS3008/SAS3216) to all servers
+- Simplify storage sections to chassis + disks only (remove SAS topology, RAID config, disk group status)
+
 ## v0.1.2 — 2026-02-21
 - Move JBOF and 3 Corvault RAID enclosures out of Server #3 into separate top-level Storage sections
 - Each storage enclosure now has its own section with enclosure details, disk summary, and RAID group status

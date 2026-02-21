@@ -1,6 +1,109 @@
 # Equipment for Sale
 
-## Server #1 — GIGABYTE G292-Z45 (2U Rack Mount)
+## Server #1 — GIGABYTE R182-Z93 (1U Rack Mount)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R182-Z93-00, 1U Rack Mount ([details](server-7/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-7/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-7/cpu-info/)) |
+| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-7/ram-health/)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **98% life remaining** ([details](server-7/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #2 — GIGABYTE R182-Z93 (1U Rack Mount)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R182-Z93-00, 1U Rack Mount ([details](server-8/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-8/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-8/cpu-info/)) |
+| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-8/ram-health/)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-8/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #3 — GIGABYTE R282-Z91 (2U Rack Mount, Storage Server)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-3/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
+| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-3/ram-health/)) |
+| **GPU** | NVIDIA RTX A4000 — **0 errors** |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **HBA** | 5x Broadcom SAS3008 12Gb/s |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **94% life remaining** ([details](server-3/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #4 — GIGABYTE R282-Z91 (2U Rack Mount)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-4/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-4/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-4/cpu-info/)) |
+| **RAM** | 8x Samsung M386AAG40AM3-CWE 128 GB + 2x Samsung M393A8G40AB2-CWE 64 GB (1152 GB total) — **0 ECC errors** ([details](server-4/ram-health/)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **HBA** | 1x Broadcom SAS3008 12Gb/s + 1x Broadcom SAS3216 12Gb/s |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-4/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **95% life remaining** ([details](server-4/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #5 — GIGABYTE R282-Z91 (2U Rack Mount)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-5/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
+| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-5/ram-health/)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **HBA** | 1x Broadcom SAS3008 12Gb/s |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **98% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme2n1-nvme.txt)) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-5/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #6 — GIGABYTE R182-Z92 (1U Rack Mount)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R182-Z92-00, 1U Rack Mount ([details](server-6/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-6/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-6/cpu-info/)) |
+| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-6/ram-health/)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **100% life remaining** ([details](server-6/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #7 — GIGABYTE R282-Z91 (2U Rack Mount, GPU Server)
+
+| Component | Details |
+|-----------|---------|
+| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-2/chassis-info/)) |
+| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-2/cpu-info/)) |
+| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-2/cpu-info/)) |
+| **RAM** | 8x Samsung M393A8G40AB2-CWE 64 GB (512 GB total) — **0 ECC errors** ([details](server-2/ram-health/)) |
+| **GPU** | NVIDIA RTX A4000 — **0 errors** ([details](server-2/gpu-health/gpu-1-rtx-a4000.txt)) |
+| **NIC** | 2x Intel X520-2 10GbE SFP+ (4x 10G ports) |
+| **HBA** | 5x Broadcom SAS3008 12Gb/s |
+| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-2/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Server #8 — GIGABYTE G292-Z45 (2U Rack Mount, GPU Server)
 
 | Component | Details |
 |-----------|---------|
@@ -18,136 +121,39 @@
 
 ---
 
-## Server #2 — GIGABYTE R282-Z91 (2U Rack Mount)
+## Storage — Seagate Corvault JBOF (4U106)
 
 | Component | Details |
 |-----------|---------|
-| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-2/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-2/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-2/cpu-info/)) |
-| **RAM** | 8x Samsung M393A8G40AB2-CWE 64 GB (512 GB total) — **0 ECC errors** ([details](server-2/ram-health/)) |
-| **GPU 1** | NVIDIA RTX A4000 — **0 errors** ([details](server-2/gpu-health/gpu-1-rtx-a4000.txt)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-2/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #3 — GIGABYTE R282-Z91 (2U Rack Mount, Storage Server)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-3/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
-| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-3/ram-health/)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **94% life remaining** ([details](server-3/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #4 — GIGABYTE R282-Z91 (2U Rack Mount)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-4/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-4/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-4/cpu-info/)) |
-| **RAM** | 8x Samsung M386AAG40AM3-CWE 128 GB + 2x Samsung M393A8G40AB2-CWE 64 GB (1152 GB total) — **0 ECC errors** ([details](server-4/ram-health/)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-4/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **95% life remaining** ([details](server-4/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #5 — GIGABYTE R282-Z91 (2U Rack Mount)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R282-Z91-00, 2U Rack Mount ([details](server-5/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
-| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-5/ram-health/)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **98% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
-| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme2n1-nvme.txt)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-5/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #6 — GIGABYTE R182-Z92 (1U Rack Mount)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R182-Z92-00, 1U Rack Mount ([details](server-6/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-6/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-6/cpu-info/)) |
-| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-6/ram-health/)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **100% life remaining** ([details](server-6/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #7 — GIGABYTE R182-Z93 (1U Rack Mount)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R182-Z93-00, 1U Rack Mount ([details](server-7/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-7/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-7/cpu-info/)) |
-| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-7/ram-health/)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **98% life remaining** ([details](server-7/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Server #8 — GIGABYTE R182-Z93 (1U Rack Mount)
-
-| Component | Details |
-|-----------|---------|
-| **Chassis** | GIGABYTE R182-Z93-00, 1U Rack Mount ([details](server-8/chassis-info/)) |
-| **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-8/cpu-info/)) |
-| **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-8/cpu-info/)) |
-| **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-8/ram-health/)) |
-| **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-8/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-
----
-
-## Storage — Seagate Corvault JBOF (4U106 Passthrough)
-
-| Component | Details |
-|-----------|---------|
-| **Enclosure** | Seagate Corvault SP-34106-CFFE12P (4U106), SN SGFGD213853D70D, FW 524A — JBOF passthrough mode ([SAS topology](server-3/chassis-info/sas-enclosure-topology.txt)) |
+| **Chassis** | Seagate Corvault SP-34106-CFFE12P, 4U106, SN SGFGD213853D70D, FW 524A |
 | **Disks** | 106x Seagate Exos X18 ST18000NM004J 18 TB SAS (1.9 PB raw) — **106/106 SMART OK, 4 with grown defects** ([per-disk smartctl](server-3/disk-health/seagate-st18000nm004j/)) |
 
 ---
 
-## Storage — Seagate Corvault #1 (4U106 RAID)
+## Storage — Seagate Corvault #1 (4U106)
 
 | Component | Details |
 |-----------|---------|
-| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6446DE, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-1-system-health.txt)) |
+| **Chassis** | Seagate Corvault 6575, 4U106, SN 00C0FF6446DE, FW S100R013 |
 | **Disks** | 98x Seagate ST20000NM003D 20 TB SAS — **90/98 disks present (8 removed)** ([per-disk health](server-3/disk-health/corevault-1/)) |
-| **dg01** | **OFFLINE (unrecoverable)** — 8 disks physically removed |
-| **dg02** | OK — Initializing ~70% |
 
 ---
 
-## Storage — Seagate Corvault #2 (4U106 RAID)
+## Storage — Seagate Corvault #2 (4U106)
 
 | Component | Details |
 |-----------|---------|
-| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AA, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-2-system-health.txt)) |
+| **Chassis** | Seagate Corvault 6575, 4U106, SN 00C0FF6447AA, FW S100R013 |
 | **Disks** | 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.76)** ([per-disk health](server-3/disk-health/corevault-2/)) |
-| **dg01** | **Degraded** — 1 faulted disk |
-| **dg02** | OK |
 
 ---
 
-## Storage — Seagate Corvault #3 (4U106 RAID)
+## Storage — Seagate Corvault #3 (4U106)
 
 | Component | Details |
 |-----------|---------|
-| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AE, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-3-system-health.txt)) |
+| **Chassis** | Seagate Corvault 6575, 4U106, SN 00C0FF6447AE, FW S100R013 |
 | **Disks** | 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.44)** ([per-disk health](server-3/disk-health/corevault-3/)) |
-| **dg01** | OK |
-| **dg02** | **Degraded** — 1 faulted disk |
 
 ---
 

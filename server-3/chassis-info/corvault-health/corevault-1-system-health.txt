@@ -1,0 +1,307 @@
+Seagate Corvault #1 — System Health Report
+Management IP: 10.24.1.100
+Generated: 2026-02-21
+================================================================
+
+--- show system ---
+System Information
+------------------
+System Name: Uninitialized Name
+System Contact: Uninitialized Contact
+System Location: Uninitialized Location
+System Information: Uninitialized Info
+Midplane Serial Number: 00C0FF6446DE
+Vendor Name: 
+Product ID: 6575
+Product Brand: 
+Enclosure Count: 1
+Health: Degraded
+Health Reason: A subcomponent of this component is unhealthy.
+Other MC Status: Operational
+PFU Status: Idle
+
+  Unhealthy Component
+  -------------------
+  Component ID: Enclosure 0, Controller A, Network Port
+  Health: Degraded
+  Health Reason: The network port Ethernet cable is unplugged, or the network is inoperable.
+  Health Recommendation: - Check that the network port (the management Ethernet port) is properly connected to the network.
+- If it is, restarting the Management Controller (MC) in the controller module that contains this port may resolve the problem.
+- If not, check for network problems.
+    - This fault may be caused by equipment outside of the storage system, such as faulty cabling or a faulty Ethernet switch.
+    - If this fault is being reported by only one controller in a dual-controller system, swap the network-port Ethernet cables between the two controllers. This will show whether the problem is outside or inside the storage system.
+    - If the problem is not outside of the storage system, replace the controller module with the faulty network port.
+
+  Unhealthy Component
+  -------------------
+  Component ID: Enclosure 0, Power Supply 1
+  Health: Fault
+  Health Reason: The power supply is not receiving any input power.
+  Health Recommendation: - Check that the power supply module has its switch turned on (if equipped with a switch) and the power cable is firmly plugged into both the power supply and a functional electrical outlet.
+- If this does not resolve the problem and if the error persists, replace the power supply.
+
+  Unhealthy Component
+  -------------------
+  Component ID: Disk Group dg01
+  Health: Fault
+  Health Reason: The disk group is quarantined.
+  Health Recommendation: - Look for events in the event log related to quarantine (172, 485, or 590) and follow the recommended actions for those events.
+
+
+
+--- show frus ---
+FRU
+---
+Name: CHASSIS_MIDPLANE
+Description: FRU,4U106,PODS, CHASSIS,12G,BB
+Part Number: 1104805-01
+Serial Number: SGKOR21446446DE
+Revision: A
+Dash Level: 
+FRU Shortname: 
+Manufacturing Date: 2021-05-27 14:52:00
+Manufacturing Location: 
+Manufacturing Vendor ID: 
+FRU Location: MID-PLANE SLOT
+Configuration SN: SGKOR21446446DE
+FRU Status: OK
+Enclosure ID: 0
+
+FRU
+---
+Name: RAID_IOM
+Description: FRU,RAID,CONTROLLER,PODS,NON-TAA
+Part Number: 1102120-02
+Serial Number: SGKOR214464DAB0
+Revision: B
+Dash Level: 
+FRU Shortname: 
+Manufacturing Date: N/A
+Manufacturing Location: 
+Manufacturing Vendor ID: 
+FRU Location: RIGHT IOM SLOT
+Configuration SN: SGKOR21446446DE
+FRU Status: Fault
+Enclosure ID: 0
+
+FRU
+---
+Name: RAID_IOM
+Description: FRU,RAID,CONTROLLER,PODS,NON-TAA
+Part Number: 1102120-02
+Serial Number: SGKOR214464DA93
+Revision: B
+Dash Level: 
+FRU Shortname: 
+Manufacturing Date: N/A
+Manufacturing Location: 
+Manufacturing Vendor ID: 
+FRU Location: LEFT IOM SLOT
+Configuration SN: SGKOR21446446DE
+FRU Status: OK
+Enclosure ID: 0
+
+
+--- show disk-groups ---
+Name  Size    Free Pool  Own RAID       Disks  Interl Vols         Chk  Status 
+  Current Job Job%      Sec Fmt   Health     
+-------------------------------------------------------------------------------
+dg01  905.7TB 0B   dg01  A   ADAPT      53     2                   256k QTOF   
+                        512e      Fault      
+
+   Reason                            
+  Action                                                                                                                           
+   ----------------------------------------------------------------------------
+   The disk group is quarantined. 
+  - Look for events in the event log related to quarantine (172, 485, or 590) and follow the recommended actions for those events.
+
+dg02  905.7TB 0B   dg02  B   ADAPT      53     2                   256k FTOL   
+  INIT        70%       512e      OK         
+-------------------------------------------------------------------------------
+
+--- show sensor-status ---
+Encl   Sensor Name                                      Value       
+  Status         
+--------------------------------------------------------------------
+0      CPU Temperature-Ctlr B                           60 C        
+  OK             
+0      ASIC Temperature-Ctlr B                          48 C        
+  OK             
+0      Capacitor Pack Temperature-Ctlr B                36 C        
+  OK             
+0      Expander Temperature-Ctlr B                      75 C        
+  OK             
+0      Disk Controller Temperature-Ctlr B               51 C        
+  OK             
+0      Host Controller Temperature-Ctlr B               51 C        
+  OK             
+0      Disk Controller 2 Temperature-Ctlr B             47 C        
+  OK             
+0      CPU Temperature-Ctlr A                           64 C        
+  OK             
+0      ASIC Temperature-Ctlr A                          52 C        
+  OK             
+0      Capacitor Pack Temperature-Ctlr A                39 C        
+  OK             
+0      Expander Temperature-Ctlr A                      75 C        
+  OK             
+0      Disk Controller Temperature-Ctlr A               46 C        
+  OK             
+0      Host Controller Temperature-Ctlr A               56 C        
+  OK             
+0      Disk Controller 2 Temperature-Ctlr A             46 C        
+  OK             
+0      Capacitor Pack Voltage-Ctlr B                    10.83       
+  OK             
+0      Capacitor Cell 1 Voltage-Ctlr B                  2.70        
+  OK             
+0      Capacitor Cell 2 Voltage-Ctlr B                  2.70        
+  OK             
+0      Capacitor Cell 3 Voltage-Ctlr B                  2.70        
+  OK             
+0      Capacitor Cell 4 Voltage-Ctlr B                  2.70        
+  OK             
+0      Capacitor Pack Voltage-Ctlr A                    10.78       
+  OK             
+0      Capacitor Cell 1 Voltage-Ctlr A                  2.69        
+  OK             
+0      Capacitor Cell 2 Voltage-Ctlr A                  2.69        
+  OK             
+0      Capacitor Cell 3 Voltage-Ctlr A                  2.69        
+  OK             
+0      Capacitor Cell 4 Voltage-Ctlr A                  2.70        
+  OK             
+0      Capacitor Charge-Ctlr B                          90%         
+  OK             
+0      Capacitor Charge-Ctlr A                          91%         
+  OK             
+0      Capacitor Capacitance-Ctlr B                     5.7 Farads  
+  OK             
+0      Capacitor Capacitance-Ctlr A                     5.7 Farads  
+  OK             
+0      Capacitor Resistance-Ctlr B                      217.6 Ohms  
+  OK             
+0      Capacitor Resistance-Ctlr A                      181.8 Ohms  
+  OK             
+0      Overall Unit Status                              Error       
+  Critical       
+0      Midplane 0 Temperature                           44 C        
+  OK             
+0      Midplane 1 Temperature                           40 C        
+  OK             
+0      Temperature Core 2 Hotspot Loc: right-PSU                    
+  Unrecoverable  
+0      Temperature Core 2 Inlet Loc: right-PSU                      
+  Unrecoverable  
+0      Temperature Core 2 Exhaust Loc: right-PSU                    
+  Unrecoverable  
+0      Temperature Core 0 Hotspot Loc: left-PSU         73 C        
+  OK             
+0      Temperature Core 0 Inlet Loc: left-PSU           38 C        
+  OK             
+0      Temperature Core 0 Exhaust Loc: left-PSU         43 C        
+  OK             
+0      10 drive Baseplane Temperature Loc: Baseplane 4  27 C        
+  OK             
+0      Baseplane Slot 0 Temperature Loc: Baseplane 3    42 C        
+  OK             
+0      Baseplane Slot 1 Temperature Loc: Baseplane 3    41 C        
+  OK             
+0      Expander Slot 0 Temperature Loc: Baseplane 3     64 C        
+  OK             
+0      Expander Slot 1 Temperature Loc: Baseplane 3     70 C        
+  OK             
+0      Baseplane Slot 0 Temperature Loc: Baseplane 2    38 C        
+  OK             
+0      Baseplane Slot 1 Temperature Loc: Baseplane 2    40 C        
+  OK             
+0      Expander Slot 0 Temperature Loc: Baseplane 2     73 C        
+  OK             
+0      Expander Slot 1 Temperature Loc: Baseplane 2     71 C        
+  OK             
+0      Baseplane Slot 0 Temperature Loc: Baseplane 1    35 C        
+  OK             
+0      Baseplane Slot 1 Temperature Loc: Baseplane 1    35 C        
+  OK             
+0      Expander Slot 0 Temperature Loc: Baseplane 1     70 C        
+  OK             
+0      Expander Slot 1 Temperature Loc: Baseplane 1     75 C        
+  OK             
+0      Baseplane Slot 0 Temperature Loc: Baseplane 0    28 C        
+  OK             
+0      Baseplane Slot 1 Temperature Loc: Baseplane 0    28 C        
+  OK             
+0      Expander Slot 0 Temperature Loc: Baseplane 0     63 C        
+  OK             
+0      Expander Slot 1 Temperature Loc: Baseplane 0     72 C        
+  OK             
+0      Voltage Core 2 12V Rail Loc: right-PSU                       
+  Unrecoverable  
+0      Voltage Core 2 Input Rail Loc: right-PSU         0.00        
+  OK             
+0      Voltage Core 0 12V Rail Loc: left-PSU            12.38       
+  OK             
+0      Voltage Core 0 Input Rail Loc: left-PSU          244.76      
+  OK             
+0      Current Core 2 12V Rail Loc: right-PSU           0.00        
+  OK             
+0      Current Core 2 Input Rail Loc: right-PSU         0.00        
+  OK             
+0      Current Core 0 12V Rail Loc: left-PSU            90.89       
+  OK             
+0      Current Core 0 Input Rail Loc: left-PSU          4.84        
+  OK             
+--------------------------------------------------------------------
+
+--- show events last 50 ---
+2024-06-23 02:40:07 [033]  #B3413:  6575 Array SN#00C0FF64DA93 Controller B INFORMATIONAL Date/time was changed to 2026-02-21 02:08:30.   
+2024-06-23 02:40:06 [033]  #A3633:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Date/time was changed to 2026-02-21 02:08:30.   
+2024-06-23 02:40:05 [623]  #B3412:  6575 Array SN#00C0FF64DA93 Controller B INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 02:40:03 [623]  #B3411:  6575 Array SN#00C0FF64DA93 Controller B INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 02:39:23 [175]  #B3410:  6575 Array SN#00C0FF64DA93 Controller B INFORMATIONAL The network-port Ethernet link is up for controller B.   
+2024-06-23 02:39:23 [181]  #B3409:  6575 Array SN#00C0FF64DA93 Controller B INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 02:39:14 [354]  #A3632:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host SAS topology was changed. (host port: 0, 4 out of 4 PHYs are up, link speed: 12 Gbps)   
+2024-06-23 06:08:47 [033]  #A3631:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Date/time was changed to 2024-06-23 02:37:07.   
+2024-06-23 06:08:43 [554]  #A3630:  6575 Array SN#00C0FF64DA93 Controller A ERROR An Enclosure Management Processor (EMP) reported an alert condition on a voltage sensor. Type: fault. (enclosure: 0, WWN: 500C0FF06446DE3C, drawer: 4) voltage sensor for Voltage Core 2 12V Rail Loc: right-PSU, sensor status: N/A   
+2024-06-23 06:08:43 [553]  #A3629:  6575 Array SN#00C0FF64DA93 Controller A ERROR An Enclosure Management Processor (EMP) reported an alert condition on a temperature sensor. Type: fault. (enclosure: 0, WWN: 500C0FF06446DE3C, drawer: 4) temperature sensor for Temperature Core 2 Exhaust Loc: right-PSU, sensor status: N/A, temperature: 0 C   
+2024-06-23 06:08:43 [553]  #A3628:  6575 Array SN#00C0FF64DA93 Controller A ERROR An Enclosure Management Processor (EMP) reported an alert condition on a temperature sensor. Type: fault. (enclosure: 0, WWN: 500C0FF06446DE3C, drawer: 4) temperature sensor for Temperature Core 2 Inlet Loc: right-PSU, sensor status: N/A, temperature: 0 C   
+2024-06-23 06:08:43 [553]  #A3627:  6575 Array SN#00C0FF64DA93 Controller A ERROR An Enclosure Management Processor (EMP) reported an alert condition on a temperature sensor. Type: fault. (enclosure: 0, WWN: 500C0FF06446DE3C, drawer: 4) temperature sensor for Temperature Core 2 Hotspot Loc: right-PSU, sensor status: N/A, temperature: 0 C   
+2024-06-23 06:08:43 [198]  #A3626:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Auto-write-through trigger event: power supply failed.   
+2024-06-23 06:08:43 [314]  #A3625:  6575 Array SN#00C0FF64DA93 Controller A ERROR There is a problem with a FRU. (FRU type: PSU, Right, enclosure: 0, baseplane: 0, product ID: 727656301-05, SN: M6442N0BYRATP  , version: 0106, related event serial number: A3624, related event code: 551)   
+2024-06-23 06:08:43 [551]  #A3624:  6575 Array SN#00C0FF64DA93 Controller A ERROR An Enclosure Management Processor (EMP) reported an alert condition on a power supply. Type: fault. (enclosure: 0, WWN: 500C0FF06446DE3C) power supply RIGHT, Core 2, power supply status: Failure   
+2024-06-23 06:08:31 [623]  #A3623:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 06:08:30 [181]  #A3622:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 06:08:30 [139]  #A3621:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The Management Controller booted up. MC firmware version: SXM100R012-01   
+2024-06-23 06:08:28 [181]  #A3620:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Management Controller configuration parameters were set.   
+2024-06-23 06:08:28 [111]  #A3619:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host link up. (port: 3)   
+2024-06-23 06:08:28 [111]  #A3618:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host link up. (port: 2)   
+2024-06-23 06:08:28 [111]  #A3617:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host link up. (port: 1)   
+2024-06-23 06:08:28 [111]  #A3616:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host link up. (port: 0)   
+2024-06-23 06:08:27 [310]  #A3615:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Discovery and initialization of enclosure data was completed following a rescan.   
+2024-06-23 06:08:27 [310]  #A3614:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Discovery and initialization of enclosure data was completed following a rescan.   
+2024-06-23 06:08:26 [191]  #A3613:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Auto-write-through trigger event: supercapacitor good.   
+2024-06-23 06:08:26 [202]  #A3612:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Auto-write-through: Write-Back cache was re-enabled.   
+2024-06-23 06:08:25 [044]  #A3611:  6575 Array SN#00C0FF64DA93 Controller A WARNING Unwritable write-back cache data exists for a volume. (pool: unknown name, volume: unknown name, SN: 00c0ff64dab00000faf42d6501000000) It comprises 24% of cache space.   
+2024-06-23 06:08:24 [073]  #A3610:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Heartbeat was detected from the partner controller. This indicates that the partner controller is operational.   
+2024-06-23 06:08:22 [077]  #A3609:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Write-back cache was initialized for controller A. Write-back data was found.   
+2024-06-23 06:08:21 [195]  #A3608:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Auto-write-through trigger event: partner processor recovered.   
+2024-06-23 06:08:21 [188]  #A3607:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Write-back cache was disabled.   
+2024-06-23 06:08:20 [112]  #A3606:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL Host link down. (port: 0)   
+2024-06-23 06:08:17 [080]  #A3605:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The configuration of one or more disks was changed. (changed parameter: Command aging limit, new setting: enabled, number of disks changed: 98, total number of disks: 98)   
+2024-06-23 06:07:27 [211]  #A3604:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 17, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3603:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 17)   
+2024-06-23 06:07:27 [211]  #A3602:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 16, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3601:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 16)   
+2024-06-23 06:07:27 [211]  #A3600:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 15, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3599:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 15)   
+2024-06-23 06:07:27 [211]  #A3598:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 14, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3597:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 14)   
+2024-06-23 06:07:27 [211]  #A3596:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 13, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3595:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 13)   
+2024-06-23 06:07:27 [211]  #A3594:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 8, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3593:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 8)   
+2024-06-23 06:07:27 [211]  #A3592:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 7, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3591:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 7)   
+2024-06-23 06:07:27 [211]  #A3590:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL The SAS topology changed (hardware components were added or removed). (Channel: 6, number of elements: 4, expanders: 0, native levels: 0, partner levels: 0, device PHYs: 1)   
+2024-06-23 06:07:27 [359]  #A3589:  6575 Array SN#00C0FF64DA93 Controller A INFORMATIONAL All PHYs that were down for a disk channel are now up (have recovered). (channel: 6)   
+

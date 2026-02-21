@@ -1,0 +1,262 @@
+  SEAGATE   SP-34106-CFFE12P  524A
+Element Descriptor In diagnostic page:
+  generation code: 0x0
+  element descriptor list (grouped by type):
+    Element type: Array device slot, subenclosure id: 0 [ti=0]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+      Element 2 descriptor: <empty>
+      Element 3 descriptor: <empty>
+      Element 4 descriptor: <empty>
+      Element 5 descriptor: <empty>
+      Element 6 descriptor: <empty>
+      Element 7 descriptor: <empty>
+      Element 8 descriptor: <empty>
+      Element 9 descriptor: <empty>
+      Element 10 descriptor: <empty>
+      Element 11 descriptor: <empty>
+      Element 12 descriptor: <empty>
+      Element 13 descriptor: <empty>
+      Element 14 descriptor: <empty>
+      Element 15 descriptor: <empty>
+      Element 16 descriptor: <empty>
+      Element 17 descriptor: <empty>
+      Element 18 descriptor: <empty>
+      Element 19 descriptor: <empty>
+      Element 20 descriptor: <empty>
+      Element 21 descriptor: <empty>
+      Element 22 descriptor: <empty>
+      Element 23 descriptor: <empty>
+      Element 24 descriptor: <empty>
+      Element 25 descriptor: <empty>
+      Element 26 descriptor: <empty>
+      Element 27 descriptor: <empty>
+      Element 28 descriptor: <empty>
+      Element 29 descriptor: <empty>
+      Element 30 descriptor: <empty>
+      Element 31 descriptor: <empty>
+      Element 32 descriptor: <empty>
+      Element 33 descriptor: <empty>
+      Element 34 descriptor: <empty>
+      Element 35 descriptor: <empty>
+      Element 36 descriptor: <empty>
+      Element 37 descriptor: <empty>
+      Element 38 descriptor: <empty>
+      Element 39 descriptor: <empty>
+      Element 40 descriptor: <empty>
+      Element 41 descriptor: <empty>
+      Element 42 descriptor: <empty>
+      Element 43 descriptor: <empty>
+      Element 44 descriptor: <empty>
+      Element 45 descriptor: <empty>
+      Element 46 descriptor: <empty>
+      Element 47 descriptor: <empty>
+      Element 48 descriptor: <empty>
+      Element 49 descriptor: <empty>
+      Element 50 descriptor: <empty>
+      Element 51 descriptor: <empty>
+      Element 52 descriptor: <empty>
+      Element 53 descriptor: <empty>
+      Element 54 descriptor: <empty>
+      Element 55 descriptor: <empty>
+      Element 56 descriptor: <empty>
+      Element 57 descriptor: <empty>
+      Element 58 descriptor: <empty>
+      Element 59 descriptor: <empty>
+      Element 60 descriptor: <empty>
+      Element 61 descriptor: <empty>
+      Element 62 descriptor: <empty>
+      Element 63 descriptor: <empty>
+      Element 64 descriptor: <empty>
+      Element 65 descriptor: <empty>
+      Element 66 descriptor: <empty>
+      Element 67 descriptor: <empty>
+      Element 68 descriptor: <empty>
+      Element 69 descriptor: <empty>
+      Element 70 descriptor: <empty>
+      Element 71 descriptor: <empty>
+      Element 72 descriptor: <empty>
+      Element 73 descriptor: <empty>
+      Element 74 descriptor: <empty>
+      Element 75 descriptor: <empty>
+      Element 76 descriptor: <empty>
+      Element 77 descriptor: <empty>
+      Element 78 descriptor: <empty>
+      Element 79 descriptor: <empty>
+      Element 80 descriptor: <empty>
+      Element 81 descriptor: <empty>
+      Element 82 descriptor: <empty>
+      Element 83 descriptor: <empty>
+      Element 84 descriptor: <empty>
+      Element 85 descriptor: <empty>
+      Element 86 descriptor: <empty>
+      Element 87 descriptor: <empty>
+      Element 88 descriptor: <empty>
+      Element 89 descriptor: <empty>
+      Element 90 descriptor: <empty>
+      Element 91 descriptor: <empty>
+      Element 92 descriptor: <empty>
+      Element 93 descriptor: <empty>
+      Element 94 descriptor: <empty>
+      Element 95 descriptor: <empty>
+      Element 96 descriptor: <empty>
+      Element 97 descriptor: <empty>
+      Element 98 descriptor: <empty>
+      Element 99 descriptor: <empty>
+      Element 100 descriptor: <empty>
+      Element 101 descriptor: <empty>
+      Element 102 descriptor: <empty>
+      Element 103 descriptor: <empty>
+      Element 104 descriptor: <empty>
+      Element 105 descriptor: <empty>
+    Element type: Power supply, subenclosure id: 0 [ti=1]
+      Overall descriptor: <empty>
+      Element 0 descriptor: TP=A4;SN=M6442009GDANP  ;F1=0109;F2=0121;VR=0000;VC=00000000;PN=727656301-03;
+      Element 1 descriptor: <empty>
+      Element 2 descriptor: TP=A4;SN=M6442009F0ANP  ;F1=0109;F2=0121;VR=0000;VC=00000000;PN=727656301-03;
+      Element 3 descriptor: <empty>
+    Element type: Cooling, subenclosure id: 0 [ti=2]
+      Overall descriptor: <empty>
+      Element 0 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 1 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 2 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 3 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 4 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 5 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 6 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 7 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 8 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+      Element 9 descriptor: TP=00;SN=N/A            ;CF=N/A                             ;CC=N/A         ;PN=N/A       ;
+    Element type: Temperature sensor, subenclosure id: 0 [ti=3]
+      Overall descriptor: <empty>
+      Element 0 descriptor: NM=Midplane                        ;LO=Mp0:0           ;
+      Element 1 descriptor: NM=Midplane                        ;LO=Mp0:1           ;
+      Element 2 descriptor: NM=Drive Tray                      ;LO=Bp4:0           ;
+      Element 3 descriptor: NM=Drive Tray                      ;LO=Bp0:0           ;
+      Element 4 descriptor: NM=Drive Tray                      ;LO=Bp0:1           ;
+      Element 5 descriptor: NM=Drive Tray                      ;LO=Bp1:0           ;
+      Element 6 descriptor: NM=Drive Tray                      ;LO=Bp1:1           ;
+      Element 7 descriptor: NM=Drive Tray                      ;LO=Bp2:0           ;
+      Element 8 descriptor: NM=Drive Tray                      ;LO=Bp2:1           ;
+      Element 9 descriptor: NM=Drive Tray                      ;LO=Bp3:0           ;
+      Element 10 descriptor: NM=Drive Tray                      ;LO=Bp3:1           ;
+      Element 11 descriptor: NM=Sideplane Electr.               ;LO=Sp0:0           ;
+      Element 12 descriptor: NM=Sideplane Electr.               ;LO=Sp0:1           ;
+      Element 13 descriptor: NM=Sideplane Electr.               ;LO=Sp1:0           ;
+      Element 14 descriptor: NM=Sideplane Electr.               ;LO=Sp1:1           ;
+      Element 15 descriptor: NM=Sideplane Electr.               ;LO=Sp2:0           ;
+      Element 16 descriptor: NM=Sideplane Electr.               ;LO=Sp2:1           ;
+      Element 17 descriptor: NM=Sideplane Electr.               ;LO=Sp3:0           ;
+      Element 18 descriptor: NM=Sideplane Electr.               ;LO=Sp3:1           ;
+      Element 19 descriptor: NM=PCM 1 hotspot                   ;LO=PCM0:0          ;
+      Element 20 descriptor: NM=PCM 1 inlet                     ;LO=PCM0:1          ;
+      Element 21 descriptor: NM=PCM 1 exhaust                   ;LO=PCM0:2          ;
+      Element 22 descriptor: <empty>
+      Element 23 descriptor: <empty>
+      Element 24 descriptor: <empty>
+      Element 25 descriptor: NM=PCM 3 hotspot                   ;LO=PCM2:0          ;
+      Element 26 descriptor: NM=PCM 3 inlet                     ;LO=PCM2:1          ;
+      Element 27 descriptor: NM=PCM 3 exhaust                   ;LO=PCM2:2          ;
+      Element 28 descriptor: <empty>
+      Element 29 descriptor: <empty>
+      Element 30 descriptor: <empty>
+      Element 31 descriptor: NM=Can 0                           ;LO=SBB0:0          ;
+      Element 32 descriptor: NM=Expander Internal               ;LO=SBB0:1          ;
+      Element 33 descriptor: NM=Can 0 CPU1                      ;LO=SBB0:2          ;
+      Element 34 descriptor: NM=Can 1                           ;LO=SBB1:0          ;
+      Element 35 descriptor: NM=Expander Internal               ;LO=SBB1:1          ;
+      Element 36 descriptor: NM=Can 1 CPU1                      ;LO=SBB1:2          ;
+    Element type: Door, subenclosure id: 0 [ti=4]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+    Element type: Audible alarm, subenclosure id: 0 [ti=5]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+    Element type: Enclosure services controller electronics, subenclosure id: 0 [ti=6]
+      Overall descriptor: <empty>
+      Element 0 descriptor: TP=CD;SN=BAFTJ2119641C21;F1=524A;BL=010B;VR=0100;VC=CB2A9385;CR=2500;FR=01;FC=40FCE8FB;PN=6004620461;FF1=0502004A;PC=        ;
+      Element 1 descriptor: TP=CD;SN=BAFTJ213264D4AD;F1=524A;BL=010B;VR=0100;VC=CB2A9385;CR=2500;FR=01;FC=40FCE8FB;PN=6004620461;FF1=0502004A;PC=        ;
+    Element type: Enclosure, subenclosure id: 0 [ti=7]
+      Overall descriptor: <empty>
+      Element 0 descriptor: SN=SGFGD213853D70D;VR=0100;VC=253AA0EB;CR=    ;PN=FRUKA64-01;CM=00;TP=91;
+    Element type: Voltage sensor, subenclosure id: 0 [ti=8]
+      Overall descriptor: <empty>
+      Element 0 descriptor: NM=PCM0:0 12.19V                   ;LO=PCM0:0          ;
+      Element 1 descriptor: NM=PCM0:1 input V                  ;LO=PCM0:1          ;
+      Element 2 descriptor: <empty>
+      Element 3 descriptor: <empty>
+      Element 4 descriptor: NM=PCM2:0 12.19V                   ;LO=PCM2:0          ;
+      Element 5 descriptor: NM=PCM2:1 input V                  ;LO=PCM2:1          ;
+      Element 6 descriptor: <empty>
+      Element 7 descriptor: <empty>
+    Element type: Current sensor, subenclosure id: 0 [ti=9]
+      Overall descriptor: <empty>
+      Element 0 descriptor: NM=PCM0:0 164.00A                  ;LO=PCM0:0          ;
+      Element 1 descriptor: NM=PCM0:1 input A                  ;LO=PCM0:1          ;
+      Element 2 descriptor: <empty>
+      Element 3 descriptor: <empty>
+      Element 4 descriptor: NM=PCM2:0 164.00A                  ;LO=PCM2:0          ;
+      Element 5 descriptor: NM=PCM2:1 input A                  ;LO=PCM2:1          ;
+      Element 6 descriptor: <empty>
+      Element 7 descriptor: <empty>
+    Element type: SAS expander, subenclosure id: 0 [ti=10]
+      Overall descriptor: <empty>
+      Element 0 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ21296497B8;PN=6004590201;TP=10;BR=0200;BC=B27F24E7;
+      Element 1 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ21296497C8;PN=6004590201;TP=10;BR=0200;BC=7B4252EF;
+      Element 2 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ2129649806;PN=6004590201;TP=10;BR=0200;BC=B27F24E7;
+      Element 3 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ2129649804;PN=6004590201;TP=10;BR=0200;BC=7B4252EF;
+      Element 4 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ21296497B2;PN=6004590201;TP=10;BR=0200;BC=B27F24E7;
+      Element 5 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ21296497B9;PN=6004590201;TP=10;BR=0200;BC=7B4252EF;
+      Element 6 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ2129649952;PN=6004590201;TP=10;BR=0200;BC=B27F24E7;
+      Element 7 descriptor: BL=010B;FC=96F1CFF4;VR=0100;VC=8F76A88C;CR=1000;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ21296497C7;PN=6004590201;TP=10;BR=0200;BC=7B4252EF;
+      Element 8 descriptor: BL=010B;FC=D519302B;VR=0100;VC=C65BAE89;CR=2500;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ2119641C21;PN=6004620461;TP=CD;BR=    ;BC=        ;
+      Element 9 descriptor: BL=010B;FC=D519302B;VR=0100;VC=C65BAE89;CR=2500;PC=        ;F1=524A;FF1=0502004A;SN=BAFTJ213264D4AD;PN=6004620461;TP=CD;BR=    ;BC=        ;
+      Element 10 descriptor: <empty>
+      Element 11 descriptor: <empty>
+    Element type: SAS connector, subenclosure id: 0 [ti=11]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+      Element 2 descriptor: <empty>
+      Element 3 descriptor: WN=500605B00EA4CDF0;
+      Element 4 descriptor: <empty>
+      Element 5 descriptor: <empty>
+      Element 6 descriptor: <empty>
+      Element 7 descriptor: WN=500605B00EA4C970;
+      Element 8 descriptor: WN=500C0FFC641C213F;
+      Element 9 descriptor: WN=500C0FF26497C73F;
+      Element 10 descriptor: WN=500C0FF26497B93F;
+      Element 11 descriptor: WN=500C0FF26498043F;
+      Element 12 descriptor: WN=500C0FF26497C83F;
+      Element 13 descriptor: WN=500C0FFC64D4AD3F;
+      Element 14 descriptor: WN=500C0FF26499523F;
+      Element 15 descriptor: WN=500C0FF26497B23F;
+      Element 16 descriptor: WN=500C0FF26498063F;
+      Element 17 descriptor: WN=500C0FF26497B83F;
+    Element type: vendor specific [0x86], subenclosure id: 0 [ti=12]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+    Element type: vendor specific [0x89], subenclosure id: 0 [ti=13]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+    Element type: vendor specific [0x8a], subenclosure id: 0 [ti=14]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+    Element type: vendor specific [0x8b], subenclosure id: 0 [ti=15]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+    Element type: vendor specific [0x90], subenclosure id: 0 [ti=16]
+      Overall descriptor: <empty>
+      Element 0 descriptor: <empty>
+      Element 1 descriptor: <empty>
+      Element 2 descriptor: <empty>
+      Element 3 descriptor: <empty>
+      Element 4 descriptor: <empty>
+      Element 5 descriptor: <empty>
+      Element 6 descriptor: <empty>
+      Element 7 descriptor: <empty>

@@ -42,8 +42,10 @@
 | **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
 | **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
 | **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **94% life remaining** ([details](server-3/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-| **Storage (SAS)** | 106x Seagate ST18000NM004J 18 TB (Exos X18) — **SMART OK, 102 clean / 4 with grown defects** ([individual reports](server-3/disk-health/seagate-st18000nm004j/)) |
-| **JBOD Enclosures** | Seagate 6575 SAS JBOD shelves ([details](server-3/disk-health/6575-0B-sata.txt)) |
+| **Corvault JBOF** | Seagate Corvault SP-34106-CFFE12P (4U106), SN SGFGD213853D70D, FW 524A — JBOF passthrough, 106x Seagate Exos X18 ST18000NM004J 18 TB SAS — **106/106 SMART OK, 4 with grown defects** ([per-disk smartctl](server-3/disk-health/seagate-st18000nm004j/), [SAS topology](server-3/chassis-info/sas-enclosure-topology.txt)) |
+| **Corvault #1** | Seagate Corvault 6575 (4U106), SN 00C0FF6446DE, FW S100R013 — RAID ADAPT, 98x Seagate ST20000NM003D 20 TB SAS — **90/98 disks present (8 removed), dg01 OFFLINE (unrecoverable), dg02 OK (INIT 70%)** ([per-disk health](server-3/disk-health/corevault-1/), [system health](server-3/chassis-info/corvault-health/corevault-1-system-health.txt)) |
+| **Corvault #2** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AA, FW S100R013 — RAID ADAPT, 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.76), dg01 degraded** ([per-disk health](server-3/disk-health/corevault-2/), [system health](server-3/chassis-info/corvault-health/corevault-2-system-health.txt)) |
+| **Corvault #3** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AE, FW S100R013 — RAID ADAPT, 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.44), dg02 degraded** ([per-disk health](server-3/disk-health/corevault-3/), [system health](server-3/chassis-info/corvault-health/corevault-3-system-health.txt)) |
 
 ---
 

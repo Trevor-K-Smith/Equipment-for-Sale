@@ -1,0 +1,74 @@
+smartctl 7.4 2023-08-01 r5530 [x86_64-linux-6.8.0-52-generic] (local build)
+Copyright (C) 2002-23, Bruce Allen, Christian Franke, www.smartmontools.org
+
+=== START OF INFORMATION SECTION ===
+Vendor:               SEAGATE
+Product:              ST18000NM004J
+Revision:             E001
+Compliance:           SPC-5
+User Capacity:        18,000,207,937,536 bytes [18.0 TB]
+Logical block size:   512 bytes
+Physical block size:  4096 bytes
+LU is fully provisioned
+Rotation Rate:        7200 rpm
+Form Factor:          3.5 inches
+Logical Unit id:      0x5000c500d79d37c3
+Serial number:        ZR53AAGH0000C2020WCV
+Device type:          disk
+Transport protocol:   SAS (SPL-4)
+Local Time is:        Sat Feb 21 01:35:33 2026 UTC
+SMART support is:     Available - device has SMART capability.
+SMART support is:     Enabled
+Temperature Warning:  Enabled
+
+=== START OF READ SMART DATA SECTION ===
+SMART Health Status: OK
+
+Grown defects during certification <not available>
+Total blocks reassigned during format <not available>
+Total new blocks reassigned <not available>
+Power on minutes since format <not available>
+Current Drive Temperature:     35 C
+Drive Trip Temperature:        60 C
+
+Accumulated power on time, hours:minutes 24319:49
+Manufactured in week 32 of year 2021
+Specified cycle count over device lifetime:  50000
+Accumulated start-stop cycles:  67
+Specified load-unload count over device lifetime:  600000
+Accumulated load-unload cycles:  24735
+Elements in grown defect list: 0
+
+Vendor (Seagate Cache) information
+  Blocks sent to initiator = 3210640
+  Blocks received from initiator = 2220000
+  Blocks read from cache and sent to initiator = 601974
+  Number of read and write commands whose size <= segment size = 25190
+  Number of read and write commands whose size > segment size = 41
+
+Vendor (Seagate/Hitachi) factory information
+  number of hours powered up = 24319.82
+  number of minutes until next internal SMART test = 59
+
+Seagate FARM log supported [try: -l farm]
+
+Error counter log:
+           Errors Corrected by           Total   Correction     Gigabytes    Total
+               ECC          rereads/    errors   algorithm      processed    uncorrected
+           fast | delayed   rewrites  corrected  invocations   [10^9 bytes]  errors
+read:          0        0         0         0          0          1.623           0
+write:         0        0         0         0          0          1.543           0
+verify:        0        0         0         0          0          0.020           0
+
+Non-medium error count:        0
+
+  Pending defect count:0 Pending Defects
+
+[GLTSD (Global Logging Target Save Disable) set. Enable Save with '-S on']
+SMART Self-test log
+Num  Test              Status                 segment  LifeTime  LBA_first_err [SK ASC ASQ]
+     Description                              number   (hours)
+# 1  Background short  Aborted (by user command)   -       5                 - [-   -    -]
+
+Long (extended) Self-test duration: 92880 seconds [25.8 hours]
+

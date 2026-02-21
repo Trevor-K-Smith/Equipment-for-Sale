@@ -96,3 +96,34 @@ This project is about **hardware and hardware specs only**. Don't include OS, so
 ### 6. Ship
 
 After adding a new server, update CHANGELOG.md and VERSION, then commit and push.
+
+## SSH Access to Server Nodes
+
+The servers documented in this repo are accessible via Tailscale for data collection.
+
+**SSH credentials:** user=`$SSH_USER`, password=`$SSH_PASSWORD`
+**Sudo:** `echo '$SSH_PASSWORD' | sudo -S <cmd>`
+**SSH command pattern:** `sshpass -p '$SSH_PASSWORD' ssh -o StrictHostKeyChecking=no $SSH_USER@<IP>`
+
+### Node-to-Server Mapping
+
+| Node | Tailscale IP | Folder | System |
+|------|-------------|--------|--------|
+| (local) | — | server-1/ | GIGABYTE G292-Z45 |
+| node-1 | 100.64.0.21 | server-2/ | GIGABYTE R282-Z91 |
+| node-2 | 100.64.0.22 | server-3/ | GIGABYTE R282-Z91 |
+| node-3 | 100.64.0.23 | server-4/ | GIGABYTE R282-Z91 |
+| node-4 | 100.64.0.24 | server-5/ | GIGABYTE R282-Z91 |
+| node-5 | 100.64.0.25 | server-6/ | GIGABYTE R182-Z92 |
+| node-6 | 100.64.0.26 | server-7/ | GIGABYTE R182-Z93 |
+| node-7 | 100.64.0.27 | server-8/ | GIGABYTE R182-Z93 |
+
+### Tool Availability by Node
+
+All nodes have dmidecode, lscpu, smartctl, lm-sensors, and edac-utils installed. Additional tool availability:
+
+| Tool | node-1 | node-2 | node-3 | node-4 | node-5 | node-6 | node-7 |
+|------|--------|--------|--------|--------|--------|--------|--------|
+| nvidia-smi | yes | no | no | no | no | no | no |
+| nvme | no | yes | yes | no | no | no | no |
+| ipmitool | no | yes | no | no | no | no | no |

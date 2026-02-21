@@ -101,7 +101,7 @@ After adding a new server, update CHANGELOG.md and VERSION, then commit and push
 
 The servers documented in this repo are accessible via Tailscale for data collection.
 
-**SSH credentials:** user=`$SSH_USER`, password=`$SSH_PASSWORD`
+**SSH credentials:** See `.secrets` file (`$SSH_USER` / `$SSH_PASSWORD`)
 **Sudo:** `echo '$SSH_PASSWORD' | sudo -S <cmd>`
 **SSH command pattern:** `sshpass -p '$SSH_PASSWORD' ssh -o StrictHostKeyChecking=no $SSH_USER@<IP>`
 
@@ -133,7 +133,7 @@ All nodes have dmidecode, lscpu, smartctl, lm-sensors, edac-utils, and ipmitool 
 
 Three Seagate Corvault 6575 (4U106) RAID enclosures and one JBOF enclosure are connected to node-2 (100.64.0.22) via SAS and accessible over the management network (10.24.1.0/24). They are **not** directly reachable from the local machine — use node-2 as a jump host.
 
-**SSH credentials:** user=`$SSH_USER`, password=`$CV_PASSWORD`
+**SSH credentials:** See `.secrets` file (`$CV_USER` / `$CV_PASSWORD`)
 **Firmware:** S100R013
 **CLI:** Seagate storage management CLI (interactive SSH session, requires `expect` on node-2)
 **Web UI:** HTTPS on each management IP (same credentials)
@@ -175,7 +175,7 @@ set timeout 60
 set ip [lindex $argv 0]
 set cmd [lindex $argv 1]
 
-spawn ssh -o StrictHostKeyChecking=no $SSH_USER@$ip
+spawn ssh -o StrictHostKeyChecking=no $CV_USER@$ip
 expect "assword:" {
     sleep 1
     send "$CV_PASSWORD\r"
@@ -216,7 +216,7 @@ set timeout 60
 set ip [lindex $argv 0]
 set cmd [lindex $argv 1]
 
-spawn ssh -o StrictHostKeyChecking=no $SSH_USER@$ip
+spawn ssh -o StrictHostKeyChecking=no $CV_USER@$ip
 expect "assword:" {
     sleep 1
     send "$CV_PASSWORD\r"
@@ -245,9 +245,9 @@ EXP
 chmod +x /tmp/cv_confirm.exp
 ```
 
-### CRITICAL: SSH username is `$SSH_USER`, NOT `manage`
+### CRITICAL: SSH username is `$CV_USER`, NOT `manage`
 
-The previous `manage` user no longer works. Always use `$SSH_USER` for both the SSH username and to authenticate to the Corvault CLI. The old scripts that used `manage@<ip>` will fail with "Password rejected".
+The previous `manage` user no longer works. Always use `$CV_USER` (from `.secrets`) for both the SSH username and to authenticate to the Corvault CLI. The old scripts that used `manage@<ip>` will fail with "Password rejected".
 
 ### Disk Groups and Volumes
 

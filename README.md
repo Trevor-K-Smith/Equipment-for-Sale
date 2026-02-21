@@ -42,10 +42,6 @@
 | **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
 | **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
 | **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **94% life remaining** ([details](server-3/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-| **Corvault JBOF** | Seagate Corvault SP-34106-CFFE12P (4U106), SN SGFGD213853D70D, FW 524A — JBOF passthrough, 106x Seagate Exos X18 ST18000NM004J 18 TB SAS — **106/106 SMART OK, 4 with grown defects** ([per-disk smartctl](server-3/disk-health/seagate-st18000nm004j/), [SAS topology](server-3/chassis-info/sas-enclosure-topology.txt)) |
-| **Corvault #1** | Seagate Corvault 6575 (4U106), SN 00C0FF6446DE, FW S100R013 — RAID ADAPT, 98x Seagate ST20000NM003D 20 TB SAS — **90/98 disks present (8 removed), dg01 OFFLINE (unrecoverable), dg02 OK (INIT 70%)** ([per-disk health](server-3/disk-health/corevault-1/), [system health](server-3/chassis-info/corvault-health/corevault-1-system-health.txt)) |
-| **Corvault #2** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AA, FW S100R013 — RAID ADAPT, 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.76), dg01 degraded** ([per-disk health](server-3/disk-health/corevault-2/), [system health](server-3/chassis-info/corvault-health/corevault-2-system-health.txt)) |
-| **Corvault #3** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AE, FW S100R013 — RAID ADAPT, 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.44), dg02 degraded** ([per-disk health](server-3/disk-health/corevault-3/), [system health](server-3/chassis-info/corvault-health/corevault-3-system-health.txt)) |
 
 ---
 
@@ -110,6 +106,48 @@
 | **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-8/cpu-info/)) |
 | **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-8/ram-health/)) |
 | **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-8/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
+
+---
+
+## Storage — Seagate Corvault JBOF (4U106 Passthrough)
+
+| Component | Details |
+|-----------|---------|
+| **Enclosure** | Seagate Corvault SP-34106-CFFE12P (4U106), SN SGFGD213853D70D, FW 524A — JBOF passthrough mode ([SAS topology](server-3/chassis-info/sas-enclosure-topology.txt)) |
+| **Disks** | 106x Seagate Exos X18 ST18000NM004J 18 TB SAS (1.9 PB raw) — **106/106 SMART OK, 4 with grown defects** ([per-disk smartctl](server-3/disk-health/seagate-st18000nm004j/)) |
+
+---
+
+## Storage — Seagate Corvault #1 (4U106 RAID)
+
+| Component | Details |
+|-----------|---------|
+| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6446DE, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-1-system-health.txt)) |
+| **Disks** | 98x Seagate ST20000NM003D 20 TB SAS — **90/98 disks present (8 removed)** ([per-disk health](server-3/disk-health/corevault-1/)) |
+| **dg01** | **OFFLINE (unrecoverable)** — 8 disks physically removed |
+| **dg02** | OK — Initializing ~70% |
+
+---
+
+## Storage — Seagate Corvault #2 (4U106 RAID)
+
+| Component | Details |
+|-----------|---------|
+| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AA, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-2-system-health.txt)) |
+| **Disks** | 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.76)** ([per-disk health](server-3/disk-health/corevault-2/)) |
+| **dg01** | **Degraded** — 1 faulted disk |
+| **dg02** | OK |
+
+---
+
+## Storage — Seagate Corvault #3 (4U106 RAID)
+
+| Component | Details |
+|-----------|---------|
+| **Enclosure** | Seagate Corvault 6575 (4U106), SN 00C0FF6447AE, FW S100R013 — RAID ADAPT ([system health](server-3/chassis-info/corvault-health/corevault-3-system-health.txt)) |
+| **Disks** | 106x Seagate ST20000NM003D 20 TB SAS — **105/106 disks healthy, 1 faulted (slot 0.44)** ([per-disk health](server-3/disk-health/corevault-3/)) |
+| **dg01** | OK |
+| **dg02** | **Degraded** — 1 faulted disk |
 
 ---
 

@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.2 — 2026-02-21
+- Move JBOF and 3 Corvault RAID enclosures out of Server #3 into separate top-level Storage sections
+- Each storage enclosure now has its own section with enclosure details, disk summary, and RAID group status
+- Remove credentials from CLAUDE.md; move to gitignored .secrets file
+- Scrub credentials from all git history via git filter-repo
+
 ## v0.1.1 — 2026-02-21
 - Add per-disk health reports for all 3 RAID Corvaults (310 files: 98 + 106 + 106)
 - Add Corvault system health reports (system info, disk groups, sensors, events, FRUs)

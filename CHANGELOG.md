@@ -1,5 +1,8 @@
 # Changelog
 
+## v0.1.4 — 2026-02-21
+- Add Networking section: Juniper SRX4100 firewall and 2x Juniper QFX5100-48S-6Q switches
+
 ## v0.1.3 — 2026-02-21
 - Renumber servers so GPU servers are #7 (RTX A4000) and #8 (5x RTX A5000)
 - Add missing RTX A4000 GPU to Server #3 (node-2)

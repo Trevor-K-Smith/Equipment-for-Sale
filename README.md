@@ -157,4 +157,40 @@
 
 ---
 
+## Networking — Juniper SRX4100 Firewall (FW-01)
+
+| Component | Details |
+|-----------|---------|
+| **Model** | Juniper SRX4100 |
+| **Serial** | DJ4217AR0049 |
+| **Ports** | 8x 10G SFP+ |
+| **PSUs** | 2x JPSU-650W-AC-AFO |
+| **Airflow** | Front to Back (AFO) |
+
+---
+
+## Networking — Juniper QFX5100-48S-6Q Switch #1
+
+| Component | Details |
+|-----------|---------|
+| **Model** | Juniper QFX5100-48S-6Q |
+| **Serial** | VF3120020526 |
+| **Ports** | 48x 10G SFP+ / 6x 40G QSFP+ |
+| **PSUs** | 2x JPSU-650W-AC-AFI |
+| **Airflow** | Back to Front (AFI) |
+
+---
+
+## Networking — Juniper QFX5100-48S-6Q Switch #2
+
+| Component | Details |
+|-----------|---------|
+| **Model** | Juniper QFX5100-48S-6Q |
+| **Serial** | VF3716340084 |
+| **Ports** | 48x 10G SFP+ / 6x 40G QSFP+ |
+| **PSUs** | 2x JPSU-650W-AC-AFI |
+| **Airflow** | Back to Front (AFI) |
+
+---
+
 **Contact:** smithktrevor@gmail.com

@@ -1,0 +1,3632 @@
+Seagate Corvault #2 — Disk Health Report
+Management IP: 10.24.1.101
+Generated: 2026-02-21
+================================================================
+
+--- show disks detail ---
+Disk
+----
+Location: 0.0
+Serial Number: ZVT04GJS0000C208PN0E
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.1
+Serial Number: ZVT04GHN0000W205TDDR
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.2
+Serial Number: ZVT049DL0000W205TCX3
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.3
+Serial Number: ZVT03SZL0000W205TBNY
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.4
+Serial Number: ZVT03TJQ0000W205TCGM
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.5
+Serial Number: ZVT049KC0000C208PM1E
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.6
+Serial Number: ZVT03VCL0000C204SHVQ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.7
+Serial Number: ZVT0417W0000W205TCD3
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 31 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.8
+Serial Number: ZVT04GKJ0000C208PN5D
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.9
+Serial Number: ZVT04GE70000W205TBE2
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.10
+Serial Number: ZVT02JWR0000C2025NL2
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.11
+Serial Number: ZVT049WV0000C208PP8D
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.12
+Serial Number: ZVT020G60000C2025NME
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 31 C
+Power On Hours: 13529
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.13
+Serial Number: ZVT04B3X0000W205TD8V
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.14
+Serial Number: ZVT04BF70000W205TB1H
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 32 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.15
+Serial Number: ZVT04BP20000C208PMD0
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.16
+Serial Number: ZVT04BGF0000W205TB2U
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.17
+Serial Number: ZVT04A360000W205TB0F
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.18
+Serial Number: ZVT04BAX0000C208PN6J
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.19
+Serial Number: ZVT049KV0000C208PMLS
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.20
+Serial Number: ZVT049KK0000C208PM88
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.21
+Serial Number: ZVT04BDH0000W205TB22
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.22
+Serial Number: ZVT03V6K0000C204SJW0
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 32 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.23
+Serial Number: ZVT03V9W0000C204SJNZ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 32 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.24
+Serial Number: ZVT03SWQ0000W205TBL5
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 34 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.25
+Serial Number: ZVT049TC0000C208PMLV
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 34 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.26
+Serial Number: ZVT02K120000C204SHUP
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.27
+Serial Number: ZVT03V9T0000C204SHNS
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.28
+Serial Number: ZVT04GG10000W205TBMT
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.29
+Serial Number: ZVT02JGQ0000C204SJC4
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.30
+Serial Number: ZVT04B3W0000W205TCD0
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.31
+Serial Number: ZVT03SEJ0000W205TBSL
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.32
+Serial Number: ZVT04GEV0000W205TDEL
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.33
+Serial Number: ZVT04GGS0000W205TCTA
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.34
+Serial Number: ZVT04BW70000W205TCSD
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.35
+Serial Number: ZVT04BWF0000W205TD7D
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 34 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.36
+Serial Number: ZVT04GG20000W205TDDT
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.37
+Serial Number: ZVT03V580000C204SKF7
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.38
+Serial Number: ZVT04GFT0000W205TDE7
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.39
+Serial Number: ZVT03TPQ0000W205TD92
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.40
+Serial Number: ZVT04GCF0000W205TD7V
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.41
+Serial Number: ZVT04GGJ0000W205TBHJ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.42
+Serial Number: ZVT04GDJ0000W205TCBJ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.43
+Serial Number: ZVT04BHE0000W205TBT5
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.44
+Serial Number: ZVT04BG80000W205TB0Y
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.45
+Serial Number: ZVT04GF40000W205TB2G
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.46
+Serial Number: ZVT0498T0000W205TDBT
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.47
+Serial Number: ZVT03TNZ0000W205TCC4
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.48
+Serial Number: ZVT04BLX0000W205TBWY
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.49
+Serial Number: ZVT04BKK0000C208PNEB
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.50
+Serial Number: ZVT04J680000W205TB9A
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.51
+Serial Number: ZVT04B7G0000C208PMKN
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.52
+Serial Number: ZVT0496Y0000W205TD6Q
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.53
+Serial Number: ZVT04BC20000C208PNE7
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.54
+Serial Number: ZVT04GLS0000C208PMSG
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.55
+Serial Number: ZVT04GHQ0000C208PMS2
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.56
+Serial Number: ZVT04B450000W205TBN5
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.57
+Serial Number: ZVT04BR50000C208PM5B
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.58
+Serial Number: ZVT03VC90000C204SKHT
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.59
+Serial Number: ZVT04B5S0000C208PMCC
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.60
+Serial Number: ZVT04BJR0000W205TBLL
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.61
+Serial Number: ZVT03SDC0000W205TB13
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.62
+Serial Number: ZVT049XD0000C204SJK6
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.63
+Serial Number: ZVT04BV10000W205TBU7
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.64
+Serial Number: ZVT049F50000C208PMJJ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.65
+Serial Number: ZVT049LD0000C208PMR6
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.66
+Serial Number: ZVT04BG00000W205TCTL
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.67
+Serial Number: ZVT04BHH0000W205TCRB
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.68
+Serial Number: ZVT04GHX0000C208PN0M
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.69
+Serial Number: ZVT0499H0000W205TCDJ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.70
+Serial Number: ZVT04GKW0000C208PN5Z
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.71
+Serial Number: ZVT04GJT0000C208PN66
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.72
+Serial Number: ZVT03F020000C204SKK9
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.73
+Serial Number: ZVT03TJH0000W205TCBY
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.74
+Serial Number: ZVT04BTW0000W205TCJU
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.75
+Serial Number: ZVT04GHM0000W205TCA9
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.76
+Serial Number: ZVT0498J0000W205TBMS
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: FAILED
+Current Job: 
+Remanufacture: No
+Supports Unmap: No
+SMART: Disabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: 
+SSD Life Remaining: N/A
+LED Status:  Fault
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 0 C
+Power On Hours: 0
+Health: Fault
+Health Reason: The disk has a probable hardware failure.
+Health Recommendation: - Replace the disk with one of the same type (SSD, enterprise SAS, or midline SAS) and the same or greater capacity. For continued optimum I/O performance, the replacement disk should have performance that is the same as or better than the one it is replacing.
+
+  
+  Reason                                                                                                                                        
+  Action 
+  -----------------------------------------------------------------------------
+  
+  The system determined that the indicated disk is degraded because it experienced a number of disk errors in excess of a configured threshold. 
+  - Monitor the disk.
+  
+  The disk is degraded due to a pending or active preemptive reconstruct operation.                                                             
+  - Monitor the disk.
+  
+  The disk has a probable hardware failure.                                                                                                     
+  - Replace the disk with one of the same type (SSD, enterprise SAS, or midline SAS) and the same or greater capacity. For continued optimum I/O performance, the replacement disk should have performance that is the same as or better than the one it is replacing.
+
+
+Disk
+----
+Location: 0.77
+Serial Number: ZVT03SJ70000W205TCPM
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.78
+Serial Number: ZVT04GKZ0000C208PMX1
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.79
+Serial Number: ZVT04B420000W205TD2W
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 40 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.80
+Serial Number: ZVT04GJ30000C208PN0J
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.81
+Serial Number: ZVT04B4L0000W205TCHW
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.82
+Serial Number: ZVT04GGM0000W205TCTC
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.83
+Serial Number: ZVT049AK0000W205TBE8
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.84
+Serial Number: ZVT049RH0000W205TB9P
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.85
+Serial Number: ZVT04BP70000C208PM5P
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.86
+Serial Number: ZVT049CL0000W205TCY0
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 38 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.87
+Serial Number: ZVT04BPT0000C208PMK7
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.88
+Serial Number: ZVT04BM00000W205TAVY
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.89
+Serial Number: ZVT049840000W205TBWC
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.90
+Serial Number: ZVT04BE90000W205TB24
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.91
+Serial Number: ZVT049EB0000C208PNLL
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.92
+Serial Number: ZVT04GHV0000W205TDEK
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.93
+Serial Number: ZVT04GKB0000C208PN69
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 39 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.94
+Serial Number: ZVT04GJM0000C208PMVE
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 37 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.95
+Serial Number: ZVT049MY0000C208PM1S
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 36 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.96
+Serial Number: ZVT03V920000C204SJZ4
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 26 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.97
+Serial Number: ZVT049PQ0000W205TC5X
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 26 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.98
+Serial Number: ZVT04B700000C208PM67
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 28 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.99
+Serial Number: ZVT03TEP0000W205TD7J
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 28 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.100
+Serial Number: ZVT04GES0000W205TC1M
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 29 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.101
+Serial Number: ZVT04GFF0000W205TDDY
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.102
+Serial Number: ZVT03V4Z0000C204SKCB
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 30 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.103
+Serial Number: ZVT03SNH0000W205TCSH
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 32 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.104
+Serial Number: ZVT02JT90000C2025NLJ
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 31 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Disk
+----
+Location: 0.105
+Serial Number: ZVT04GJW0000C208PN67
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: INIT
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg02
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 33 C
+Power On Hours: 13528
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+
+Info:  * Rates may vary. This is normal behavior. (2026-02-21 04:03:55)
+
+
+--- show disk-statistics ---
+Location   Serial Number         Pwr Hrs Bps    IOPS Reads    Writes  Data Read 
+  Data Written Lifetime Read Lifetime Written Reset Time                
+-------------------------------------------------------------------------------
+0.0        ZVT04GJS0000C208PN0E  13528   58.0MB 196  1250066  172270  373.8GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.1        ZVT04GHN0000W205TDDR  13528   57.8MB 197  1257234  172158  372.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.2        ZVT049DL0000W205TCX3  13528   57.9MB 196  1253887  172369  373.2GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.3        ZVT03SZL0000W205TBNY  13528   57.7MB 196  1250863  172130  371.4GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.4        ZVT03TJQ0000W205TCGM  13528   58.0MB 196  1252660  172822  373.7GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.5        ZVT049KC0000C208PM1E  13528   57.8MB 198  1261940  172325  372.2GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.6        ZVT03VCL0000C204SHVQ  13528   57.9MB 195  1244384  172552  372.8GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.7        ZVT0417W0000W205TCD3  13528   58.0MB 196  1252282  172669  373.7GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.8        ZVT04GKJ0000C208PN5D  13528   57.9MB 199  1269488  172768  373.2GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.9        ZVT04GE70000W205TBE2  13528   57.8MB 197  1260043  172078  372.7GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.10       ZVT02JWR0000C2025NL2  13528   58.2MB 199  1273713  173157  375.4GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.11       ZVT049WV0000C208PP8D  13528   58.1MB 200  1275615  173127  374.5GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.12       ZVT020G60000C2025NME  13529   56.8MB 192  1226540  171587  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.13       ZVT04B3X0000W205TD8V  13528   56.6MB 194  1232862  171157  364.1GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.14       ZVT04BF70000W205TB1H  13528   56.7MB 193  1230314  171460  364.6GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.15       ZVT04BP20000C208PMD0  13528   56.7MB 193  1232709  171581  364.5GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.16       ZVT04BGF0000W205TB2U  13528   56.9MB 193  1230353  171997  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.17       ZVT04A360000W205TB0F  13528   56.6MB 194  1239039  171557  364.1GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.18       ZVT04BAX0000C208PN6J  13528   56.9MB 192  1225009  171855  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.19       ZVT049KV0000C208PMLS  13528   56.9MB 193  1229464  171856  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.20       ZVT049KK0000C208PM88  13528   56.7MB 195  1245524  171815  364.6GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.21       ZVT04BDH0000W205TB22  13528   56.6MB 194  1236372  171446  364.1GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.22       ZVT03V6K0000C204SJW0  13528   56.9MB 196  1247522  172389  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.23       ZVT03V9W0000C204SJNZ  13528   56.9MB 196  1252439  172480  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.24       ZVT03SWQ0000W205TBL5  13528   58.0MB 198  1266191  172577  373.7GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.25       ZVT049TC0000C208PMLV  13528   57.7MB 198  1262653  172261  371.7GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.26       ZVT02K120000C204SHUP  13528   57.9MB 197  1255954  172736  373.3GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.27       ZVT03V9T0000C204SHNS  13528   57.8MB 196  1251090  172220  372.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.28       ZVT04GG10000W205TBMT  13528   57.9MB 196  1250568  172483  373.1GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.29       ZVT02JGQ0000C204SJC4  13528   57.7MB 197  1261347  172526  371.6GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.30       ZVT04B3W0000W205TCD0  13528   58.1MB 198  1260913  172643  374.5GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.31       ZVT03SEJ0000W205TBSL  13528   57.8MB 196  1253847  172368  372.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.32       ZVT04GEV0000W205TDEL  13528   57.9MB 196  1256303  172526  372.9GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.33       ZVT04GGS0000W205TCTA  13528   58.0MB 196  1250437  172428  373.5GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.34       ZVT04BW70000W205TCSD  13528   57.9MB 197  1259361  172415  372.9GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.35       ZVT04BWF0000W205TD7D  13528   57.9MB 197  1258392  172554  373.4GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.36       ZVT04GG20000W205TDDT  13528   56.7MB 195  1241601  171701  364.6GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.37       ZVT03V580000C204SKF7  13528   56.7MB 194  1242740  171588  364.5GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.38       ZVT04GFT0000W205TDE7  13528   56.9MB 193  1233274  171892  365.6GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.39       ZVT03TPQ0000W205TD92  13528   56.7MB 193  1229211  171380  364.6GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.40       ZVT04GCF0000W205TD7V  13528   56.7MB 193  1227471  171546  364.6GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.41       ZVT04GGJ0000W205TBHJ  13528   56.8MB 195  1243270  172094  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.42       ZVT04GDJ0000W205TCBJ  13528   56.8MB 194  1235186  171808  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.43       ZVT04BHE0000W205TBT5  13528   56.8MB 193  1233231  171776  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.44       ZVT04BG80000W205TB0Y  13528   56.8MB 194  1236609  172036  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.45       ZVT04GF40000W205TB2G  13528   56.8MB 192  1228890  171880  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.46       ZVT0498T0000W205TDBT  13528   56.8MB 194  1239380  171997  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.47       ZVT03TNZ0000W205TCC4  13528   56.8MB 194  1236753  171930  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.48       ZVT04BLX0000W205TBWY  13528   58.0MB 196  1257012  172602  373.8GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.49       ZVT04BKK0000C208PNEB  13528   58.0MB 197  1254303  172698  373.7GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.50       ZVT04J680000W205TB9A  13528   57.7MB 196  1250270  172305  371.8GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.51       ZVT04B7G0000C208PMKN  13528   58.1MB 198  1266224  172885  374.2GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.52       ZVT0496Y0000W205TD6Q  13528   57.8MB 196  1255540  172388  372.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.53       ZVT04BC20000C208PNE7  13528   57.9MB 197  1261909  172496  373.1GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.54       ZVT04GLS0000C208PMSG  13528   57.7MB 196  1253164  172078  372.0GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.55       ZVT04GHQ0000C208PMS2  13528   57.9MB 196  1247923  172531  372.9GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.56       ZVT04B450000W205TBN5  13528   57.9MB 198  1262688  172144  373.0GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.57       ZVT04BR50000C208PM5B  13528   57.9MB 199  1269694  172786  372.8GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.58       ZVT03VC90000C204SKHT  13528   57.9MB 196  1253003  172352  373.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.59       ZVT04B5S0000C208PMCC  13528   57.7MB 196  1251317  172323  371.7GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.60       ZVT04BJR0000W205TBLL  13528   56.8MB 193  1234441  171962  365.5GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.61       ZVT03SDC0000W205TB13  13528   56.9MB 193  1231990  171855  365.6GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.62       ZVT049XD0000C204SJK6  13528   56.8MB 193  1231926  171810  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.63       ZVT04BV10000W205TBU7  13528   56.9MB 195  1242818  172331  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.64       ZVT049F50000C208PMJJ  13528   56.8MB 193  1234798  171705  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.65       ZVT049LD0000C208PMR6  13528   56.8MB 194  1239251  171848  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.66       ZVT04BG00000W205TCTL  13528   56.7MB 193  1231907  171559  364.5GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.67       ZVT04BHH0000W205TCRB  13528   56.8MB 192  1226653  171604  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.68       ZVT04GHX0000C208PN0M  13528   56.7MB 194  1238298  171620  364.5GB   
+  45.5GB       0B            0B               2024-06-23 05:28:45       
+0.69       ZVT0499H0000W205TCDJ  13528   56.8MB 196  1248070  172021  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.70       ZVT04GKW0000C208PN5Z  13528   56.8MB 193  1232435  171879  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.71       ZVT04GJT0000C208PN66  13528   56.8MB 193  1233006  171716  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.72       ZVT03F020000C204SKK9  13528   57.7MB 197  1257434  172127  371.7GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.73       ZVT03TJH0000W205TCBY  13528   57.9MB 195  1241966  172544  372.9GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.74       ZVT04BTW0000W205TCJU  13528   58.0MB 197  1254903  172810  373.9GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.75       ZVT04GHM0000W205TCA9  13528   57.8MB 196  1248840  172426  372.4GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.76       ZVT0498J0000W205TBMS  0       0B     0    33       0       47.6KB    
+  0B           168.6MB       117.0MB          2024-06-23 05:28:45       
+0.77       ZVT03SJ70000W205TCPM  13528   57.9MB 197  1254367  172818  373.0GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.78       ZVT04GKZ0000C208PMX1  13528   58.0MB 198  1263628  172902  374.0GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.79       ZVT04B420000W205TD2W  13528   58.0MB 196  1256679  172597  373.8GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.80       ZVT04GJ30000C208PN0J  13528   57.8MB 195  1249850  172220  372.4GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.81       ZVT04B4L0000W205TCHW  13528   57.8MB 197  1255777  172473  372.1GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.82       ZVT04GGM0000W205TCTC  13528   57.8MB 197  1254985  172544  372.2GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.83       ZVT049AK0000W205TBE8  13528   57.8MB 195  1247407  172253  372.3GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.84       ZVT049RH0000W205TB9P  13528   56.6MB 194  1235418  171364  364.1GB   
+  45.5GB       0B            0B               2024-06-23 05:28:46       
+0.85       ZVT04BP70000C208PM5P  13528   56.9MB 192  1221354  171603  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.86       ZVT049CL0000W205TCY0  13528   56.9MB 193  1232797  171939  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.87       ZVT04BPT0000C208PMK7  13528   56.8MB 193  1230842  171765  365.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.88       ZVT04BM00000W205TAVY  13528   56.9MB 194  1240898  172397  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.89       ZVT049840000W205TBWC  13528   56.9MB 194  1234693  172276  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.90       ZVT04BE90000W205TB24  13528   56.9MB 194  1240700  172033  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.91       ZVT049EB0000C208PNLL  13528   56.8MB 194  1232939  171860  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.92       ZVT04GHV0000W205TDEK  13528   56.8MB 193  1229274  171534  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.93       ZVT04GKB0000C208PN69  13528   56.8MB 194  1235722  171905  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.94       ZVT04GJM0000C208PMVE  13528   56.8MB 194  1235154  171905  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.95       ZVT049MY0000C208PM1S  13528   56.8MB 193  1227485  171711  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.96       ZVT03V920000C204SJZ4  13528   57.6MB 197  1255033  172728  370.9GB   
+  45.7GB       0B            0B               2024-06-23 05:28:45       
+0.97       ZVT049PQ0000W205TC5X  13528   57.9MB 198  1259669  173019  373.0GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.98       ZVT04B700000C208PM67  13528   57.8MB 199  1269160  172509  372.6GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.99       ZVT03TEP0000W205TD7J  13528   58.0MB 198  1261665  173160  373.9GB   
+  45.8GB       0B            0B               2024-06-23 05:28:45       
+0.100      ZVT04GES0000W205TC1M  13528   57.9MB 199  1271605  172595  373.5GB   
+  45.6GB       0B            0B               2024-06-23 05:28:45       
+0.101      ZVT04GFF0000W205TDDY  13528   56.8MB 195  1239377  172298  365.1GB   
+  45.6GB       0B            0B               2024-06-23 05:28:46       
+0.102      ZVT03V4Z0000C204SKCB  13528   56.9MB 195  1240899  172410  366.0GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.103      ZVT03SNH0000W205TCSH  13528   56.6MB 196  1245147  171700  364.1GB   
+  45.5GB       0B            0B               2024-06-23 05:28:46       
+0.104      ZVT02JT90000C2025NLJ  13528   56.9MB 195  1238579  172233  365.6GB   
+  45.7GB       0B            0B               2024-06-23 05:28:46       
+0.105      ZVT04GJW0000C208PN67  13528   56.7MB 196  1247076  171795  364.5GB   
+  45.5GB       0B            0B               2024-06-23 05:28:46       
+-------------------------------------------------------------------------------

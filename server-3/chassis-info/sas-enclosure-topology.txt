@@ -1,0 +1,122 @@
+SAS Enclosure Topology Report — Server 3 (node-2, 100.64.0.22)
+Generated: 2026-02-21
+================================================================
+
+5 SAS HBAs (Broadcom SAS3008 x4 external + 1 internal backplane)
+8 external SAS links — all linked at 12.0 Gbps
+4 enclosures total: 3 Seagate Corvault + 1 JBOD (server backplane)
+
+================================================================
+ENCLOSURE 1: Seagate Corvault #1 (JBOF / Passthrough Mode)
+================================================================
+  Model:          Seagate SP-34106-CFFE12P (5U106)
+  Enclosure ID:   0x500c0ff053d70d3c
+  Serial:         SGFGD213853D70D
+  Firmware:       524A
+  Mode:           JBOF (raw drives visible)
+  Drive Bays:     106
+  Drives Present: 106x Seagate ST18000NM004J 18 TB (Exos X18)
+  Drive Paths:    212 (dual SAS multipath)
+
+  SAS Connections (4 cables, dual-controller dual-path):
+    host2  port-2:0  (x4) → Controller A (expander 0x500c0ff0641c213f)
+    host2  port-2:1  (x4) → Controller B
+    host19 port-19:0 (x4) → Controller B (redundant path)
+    host19 port-19:1 (x4) → Controller A (expander 0x500c0ff064d4ad3f)
+
+  Internal Drawer Expanders (4 drawers, 8 SAS expander endpoints with dual-path):
+    Path A: expander-2:2 (0x500c0ff26497b93f), 2:3 (0x500c0ff26497c73f),
+            2:4 (0x500c0ff26497c83f), 2:5 (0x500c0ff26498043f)
+    Path B: expander-19:2 (0x500c0ff26497b23f), 19:3 (0x500c0ff26499523f),
+            19:4 (0x500c0ff26497b83f), 19:5 (0x500c0ff26498063f)
+
+  SES Enclosure Devices:
+    sg15  → SP-34106-CFFE12P (primary controller, path A)
+    sg139 → SP-34106-CFFE12P (primary controller, path B)
+
+  Enclosure Components:
+    4x Power Supply (PSU 0 OK, PSU 1 not installed, PSU 2 not connected, PSU 3 not installed)
+    10x Cooling fans (all OK)
+    37x Temperature sensors (26-73°C range)
+    12x SAS expanders
+    18x SAS connectors
+    2x Enclosure services controllers
+
+================================================================
+ENCLOSURE 2: Seagate Corvault #2 (RAID Mode)
+================================================================
+  Model:          Seagate 6575 (Corvault controller)
+  Mode:           RAID (virtual volumes presented)
+  Firmware:       S100
+
+  SAS Connections (2 cables):
+    host17 port-17:0 (x4) → Controller A (0x500c0ff6447ae000)
+    host17 port-17:1 (x4) → Controller B (0x500c0ff6446de400)
+
+  RAID Virtual Volumes:
+    /dev/sddg  452 TB (452,861,351,690,240 bytes)
+    /dev/sddh  452 TB
+    /dev/sddi  452 TB
+    /dev/sddj  452 TB
+  Total usable: ~1.8 PB
+
+  SES Enclosure Devices:
+    sg117 → Seagate 6575 (Controller A, NAA 0x64dac7)
+    sg122 → Seagate 6575 (Controller B, NAA 0x64da93)
+
+  SMART Health: OK
+
+================================================================
+ENCLOSURE 3: Seagate Corvault #3 (RAID Mode)
+================================================================
+  Model:          Seagate 6575 (Corvault controller)
+  Mode:           RAID (virtual volumes presented)
+  Firmware:       S100
+
+  SAS Connections (2 cables):
+    host20 port-20:0 (x4) → Controller A (0x500c0ff6447aa000)
+    host20 port-20:1 (x4) → Controller B (0x500c0ff6447aa400)
+
+  RAID Virtual Volumes:
+    /dev/sdhq  452 TB (452,861,351,690,240 bytes)
+    /dev/sdhr  452 TB
+    /dev/sdhs  452 TB
+    /dev/sdht  452 TB
+  Total usable: ~1.8 PB
+
+  SES Enclosure Devices:
+    sg241 → Seagate 6575 (Controller A, NAA 0x64da90)
+    sg242 → Seagate 6575 (Controller B, NAA 0xf6e869)
+
+  SMART Health: OK
+
+================================================================
+ENCLOSURE 4: JBOD (Server Internal Backplane)
+================================================================
+  Model:          LSI Cub
+  Enclosure ID:   0x50014850008a1f3f
+  Firmware:       0500
+
+  SAS Connection (internal, not one of the 8 external links):
+    host18 port-18:0 (x8) → Expander (0x50014850008a1f3f)
+
+  Drive Bays: 28
+  Drives Installed: 0 (all slots empty / not installed)
+
+  Components:
+    28x SAS connectors
+    1x Cooling element
+    7x Temperature sensors
+    2x Voltage sensors
+
+================================================================
+SAS HBA Summary
+================================================================
+  host2   0x500605b00ea4cdf0  Broadcom SAS3008  → Corvault #1 (2 cables)
+  host17  0x500605b00ea4cfd0  Broadcom SAS3008  → Corvault #2 (2 cables)
+  host18  0x50030480238e1000  Internal HBA      → JBOD backplane (internal)
+  host19  0x500605b00ea4c970  Broadcom SAS3008  → Corvault #1 (2 cables)
+  host20  0x500605b00ea4cb50  Broadcom SAS3008  → Corvault #3 (2 cables)
+
+  External SAS links: 8 (all 12.0 Gbps, x4 wide each)
+  Total external bandwidth: 8 x 48 Gbps = 384 Gbps aggregate

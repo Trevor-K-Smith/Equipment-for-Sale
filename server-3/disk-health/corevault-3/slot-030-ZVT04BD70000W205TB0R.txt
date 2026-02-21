@@ -1,0 +1,47 @@
+Seagate Corvault #3 — Disk Health: Slot 0.30
+Management IP: 10.24.1.102
+Generated: 2026-02-21
+================================================================
+
+Location: 0.30
+Serial Number: ZVT04BD70000W205TB0R
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: LINEAR POOL
+Current Job: 
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: dg01
+SSD Life Remaining: N/A
+LED Status:  Online
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 35 C
+Power On Hours: 17296
+Health: OK
+Health Reason: 
+Health Recommendation: - No Action Required.
+
+================================================================
+I/O Statistics
+================================================================
+Power On Hours:     17296
+Throughput:         528.3KB/s
+IOPS:               2
+Read Operations:    8032
+Write Operations:   8537
+Data Read:          1629.7MB
+Data Written:       2188.4MB
+Lifetime Read:      0B
+Lifetime Written:   0B
+Stats Reset:        2024-06-23 05:28:50

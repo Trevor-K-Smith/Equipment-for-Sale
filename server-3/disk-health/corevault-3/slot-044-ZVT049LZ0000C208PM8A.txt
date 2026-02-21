@@ -1,0 +1,58 @@
+Seagate Corvault #3 — Disk Health: Slot 0.44
+Management IP: 10.24.1.102
+Generated: 2026-02-21
+================================================================
+
+Location: 0.44
+Serial Number: ZVT049LZ0000C208PM8A
+Vendor: SEAGATE
+Model: ST20000NM003D
+Revision: ETA3
+Description: SAS MDL
+Usage: FAILED
+Current Job: 
+Remanufacture: No
+Supports Unmap: No
+SMART: Enabled
+Speed (kr/min): 7
+Size: 20.0TB
+Sector Format: 512e
+Transfer Rate: 12.0
+Single Pathed:  
+Recon State: N/A
+Copyback State: N/A
+Disk Group: 
+SSD Life Remaining: N/A
+LED Status:  Fault
+Drive Spin Down Count: 1
+FDE State: Not Secured
+Temperature: 0 C
+Power On Hours: 0
+Health: Fault
+Health Reason: Excessive media errors.
+Health Recommendation: - Replace the disk with one of the same type (SSD, enterprise SAS, or midline SAS) and the same or greater capacity. For continued optimum I/O performance, the replacement disk should have performance that is the same as or better than the one it is replacing.
+
+  
+  Reason                                                                                                                                        
+  Action 
+  -----------------------------------------------------------------------------
+  
+  The system determined that the indicated disk is degraded because it experienced a number of disk errors in excess of a configured threshold. 
+  - Monitor the disk.
+  
+  Excessive media errors.                                                                                                                       
+  - Replace the disk with one of the same type (SSD, enterprise SAS, or midline SAS) and the same or greater capacity. For continued optimum I/O performance, the replacement disk should have performance that is the same as or better than the one it is replacing.
+
+================================================================
+I/O Statistics
+================================================================
+Power On Hours:     0
+Throughput:         0B/s
+IOPS:               0
+Read Operations:    33
+Write Operations:   0
+Data Read:          47.6KB
+Data Written:       0B
+Lifetime Read:      171.9MB
+Lifetime Written:   116.4MB
+Stats Reset:        2024-06-23 05:28:49

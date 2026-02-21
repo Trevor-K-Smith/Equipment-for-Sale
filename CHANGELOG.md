@@ -1,5 +1,13 @@
 # Changelog
 
+## v0.1.1 — 2026-02-21
+- Add per-disk health reports for all 3 RAID Corvaults (310 files: 98 + 106 + 106)
+- Add Corvault system health reports (system info, disk groups, sensors, events, FRUs)
+- Update README with proper Corvault model identification, serials, firmware, and health status
+- Update CLAUDE.md with comprehensive Corvault access documentation (SSH, expect scripts, SAS topology, multipath mapping, ZFS pools, recovery procedures)
+- Remove superseded files (6575-0B-sata.txt, seagate-st18000nm004j-16.4T-sata.txt)
+- Document CV1 dg01 as OFFLINE/unrecoverable (8 disks physically removed)
+
 ## v0.1.0 — 2026-02-21
 - Add 7 new servers (server-2 through server-8) from Tailscale-connected nodes
 - Server #2: GIGABYTE R282-Z91, dual EPYC 7742 ES, 512 GB RAM, 1x RTX A4000, 1x NVMe

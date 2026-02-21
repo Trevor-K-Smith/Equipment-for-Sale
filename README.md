@@ -39,9 +39,10 @@
 | **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
 | **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-3/cpu-info/)) |
 | **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-3/ram-health/)) |
-| **Storage (NVMe)** | 2x Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **97% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-3/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
 | **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **94% life remaining** ([details](server-3/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
-| **Storage (SAS)** | 212x Seagate ST18000NM004J 18 TB (Exos X18) — **0 errors, SMART OK** ([details](server-3/disk-health/seagate-st18000nm004j-16.4T-sata.txt)) |
+| **Storage (SAS)** | 106x Seagate ST18000NM004J 18 TB (Exos X18) — **SMART OK, 102 clean / 4 with grown defects** ([individual reports](server-3/disk-health/seagate-st18000nm004j/)) |
 | **JBOD Enclosures** | Seagate 6575 SAS JBOD shelves ([details](server-3/disk-health/6575-0B-sata.txt)) |
 
 ---
@@ -67,7 +68,9 @@
 | **CPU 1** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
 | **CPU 2** | AMD EPYC Rome 7742 ES — 64 cores — **0 MCE errors** ([details](server-5/cpu-info/)) |
 | **RAM** | 16x Samsung M393AAG40M32-CAE 128 GB (2 TB total) — **0 ECC errors** ([details](server-5/ram-health/)) |
-| **Storage (NVMe)** | 3x Samsung PM1733a 12.8 TB — **98–99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **98% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme1n1-nvme.txt)) |
+| **Storage (NVMe)** | Samsung PM1733a 12.8 TB — **99% life remaining** ([details](server-5/disk-health/samsung-mzplj12thala-00007-10T-nvme2n1-nvme.txt)) |
 | **Storage (NVMe)** | Samsung 970 EVO Plus 1 TB — **99% life remaining** ([details](server-5/disk-health/samsung-ssd-970-evo-plus-1tb-931.5G-nvme.txt)) |
 
 ---
